@@ -10,10 +10,14 @@
 				    LÍNGUA PORTUGUESA:
 					- Compreensão e interpretação de textos de gêneros variados. 
 					  logseq.order-list-type:: number
-					        2 Reconhecimento de tipos e gêneros textuais. 
-					        3 Domínio da ortografia oficial. 
-					            3.1 Emprego das letras. 
-					            3.2 Emprego da acentuação gráfica.    
+					- Reconhecimento de tipos e gêneros textuais. 
+					  logseq.order-list-type:: number
+					- Domínio da ortografia oficial. 
+					  logseq.order-list-type:: number
+						- Emprego das letras. 
+						  logseq.order-list-type:: number
+					- 3.2 Emprego da acentuação gráfica.    
+					  logseq.order-list-type:: number
 					        4 Domínio dos mecanismos de coesão textual. 
 					            4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e outros elementos de sequenciação textual. 
 					            4.2 Emprego/correlação de tempos e modos verbais. 
