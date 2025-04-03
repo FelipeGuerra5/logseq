@@ -278,4 +278,4 @@
 	- # Planejamento
 		- Data provável do edital -> **SETEMBRO**
 		- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
-		-
+		- Data provável do TAF -> ****
