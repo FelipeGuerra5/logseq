@@ -285,15 +285,11 @@
 			- Tempo: 6 meses
 			- Maior quantidade de questões e prova:
 				- |Materia|percent|
+				  
 				  |Portugues|20%|
-				  |||
-				  |||
-				  |||
-				  |||
-				- Portugues
-				- Informatica
-				- Contabilidade
-				- Estatística
+				  |Contabilidade|20%|
+				  |Estatística|10%|
+				  |Rac. Lógico|10%|
 		- EAF
 			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
 			- Tempo: 7 meses
