@@ -284,8 +284,8 @@
 			- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
 			- Tempo: 6 meses
 			- Maior quantidade de questões e prova:
-				- |Materia|percent|
-				  
+				- |Materia| % |
+				  |Informática|30%|
 				  |Portugues|20%|
 				  |Contabilidade|20%|
 				  |Estatística|10%|
