@@ -94,9 +94,10 @@
 				  8.072/1990 (Lei dos Crimes Hediondos). 11 Lei nº 10.446/2002 (infrações penais de repercussão
 				  interestadual ou internacional que exigem repressão uniforme).
 			- Especificos 70 itens
-			  collapsed:: true
-				- PERITO CRIMINAL FEDERAL/ÁREA 3: 1 Fundamentos de computação. 1.1 Organização e arquitetura de
-				  computadores. 1.2 Componentes de um computador (hardware e software). 1.3 Sistemas de entrada,
+				- PERITO CRIMINAL FEDERAL/ÁREA 3:
+				- 1 Fundamentos de computação. 1.1 Organização e arquitetura de
+				  computadores.
+				- 1.2 Componentes de um computador (hardware e software). 1.3 Sistemas de entrada,
 				  saída e armazenamento. 1.4 Princípios de sistemas operacionais. 1.5 Características dos principais
 				  processadores do mercado. 1.6 Processadores de múltiplos núcleos. 1.7 Tecnologias de virtualização de
 				  plataformas: emuladores, máquinas virtuais, paravirtualização. 1.8 RAID: tipos, características e
