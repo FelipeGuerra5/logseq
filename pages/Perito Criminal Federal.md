@@ -286,11 +286,11 @@
 		- EAF
 			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
 			- Tempo: 7 meses
-			- |Exercicio|minimo|max|
-			  |Barra Fixa|3|15|
-			  |Impulsão|2,14|2,45|
-			  |12 Min|2350|2710|
-			  |50|||
+			- |Exercicio|Minimo|Maximo|
+			  |Barra Fixa|3rep|15rep|
+			  |Impulsão|2,14m |2,45m |
+			  |12 Min|2350m |2710m |
+			  |50m Nado|41 Seg|29 Seg|
 			  ||||
 			-
 -
