@@ -1,0 +1,12 @@
+# Exercícios
+	- #### **1️⃣ Barra Fixa (Máximo: 10 pontos)**
+		- **10 repetições** sem pausa.
+	- #### **2️⃣ Impulsão Horizontal (Máximo: 10 pontos)**
+		- **2,42 metros** ou mais.
+	- #### **3️⃣ Natação - 50m estilo livre (Máximo: 10 pontos)**
+		- **35 segundos** ou menos.
+	- #### **4️⃣ Corrida de 12 minutos (Máximo: 10 pontos)**
+		- **2.800 metros** ou mais.
+	- #### **5️⃣ Corrida de 100 metros (Máximo: 10 pontos)**
+		- **12 segundos** ou menos.
+	-

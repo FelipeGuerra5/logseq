@@ -1,0 +1,116 @@
+{:blocks (
+{:block/created-at 1715961780574
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [77 77]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "eced5050-1466-11ef-a4c7-7314b9e130f7"
+:fontWeight 400
+:noFill false
+:point [487.9000244140625 389.8999938964844]
+:fontSize 20
+:parentId "66477fab-3968-4503-a373-13082747f7f4"
+:nonce 1715961776629
+:italic false}}
+:block/updated-at 1715961780574} 
+{:block/created-at 1715961785118
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [93 93]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "f10c7580-1466-11ef-a4c7-7314b9e130f7"
+:fontWeight 400
+:noFill false
+:point [677.5 392.3000183105469]
+:fontSize 20
+:parentId "66477fab-3968-4503-a373-13082747f7f4"
+:nonce 1715961783542
+:italic false}}
+:block/updated-at 1715961785118} 
+{:block/created-at 1715961800030
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [74.60000610351562 74.60000610351562]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "f9253680-1466-11ef-a4c7-7314b9e130f7"
+:fontWeight 400
+:noFill false
+:point [871.9000244140625 281.1000061035156]
+:fontSize 20
+:parentId "66477fab-3968-4503-a373-13082747f7f4"
+:nonce 1715961797132
+:italic false}}
+:block/updated-at 1715961800030} 
+{:block/created-at 1715961809737
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [76.20001220703125 76.20001220703125]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "fcfacf90-1466-11ef-a4c7-7314b9e130f7"
+:fontWeight 400
+:noFill false
+:point [696 272]
+:fontSize 20
+:parentId "66477fab-3968-4503-a373-13082747f7f4"
+:nonce 1715961803619
+:italic false}}
+:block/updated-at 1715961809737})
+:pages (
+{:block/uuid #uuid "66477fab-3968-4503-a373-13082747f7f4"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66477fab-3968-4503-a373-13082747f7f4"
+:name "66477fab-3968-4503-a373-13082747f7f4"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("eced5050-1466-11ef-a4c7-7314b9e130f7" "f10c7580-1466-11ef-a4c7-7314b9e130f7" "f9253680-1466-11ef-a4c7-7314b9e130f7" "fcfacf90-1466-11ef-a4c7-7314b9e130f7")}}
+:block/updated-at 1715961809737
+:block/created-at 1715961771557
+:block/type "whiteboard"
+:block/name "66477fab-3968-4503-a373-13082747f7f4"
+:block/original-name "66477fab-3968-4503-a373-13082747f7f4"})}

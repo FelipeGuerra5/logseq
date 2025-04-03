@@ -1,0 +1,4 @@
+- # Tailwind CSS Introduction for beginners
+	- Professor: Dave Gray - [YouTube](https://www.youtube.com/@DaveGrayTeachesCode)
+	- Tailwind Playlist - [YouTube](https://www.youtube.com/watch?v=pYaamz6AyvU&list=PL0Zuz27SZ-6M8znNpim8dRiICRrP5HPft)
+	-

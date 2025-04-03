@@ -1,0 +1,3 @@
+- A front-end only page to feel up healthcare system scales and print a descent PDF with the data in it.
+	- Going to use Vite to create the front end, with typescript and fill the scales up, then the user can feel up the data and print the pdf.
+	-

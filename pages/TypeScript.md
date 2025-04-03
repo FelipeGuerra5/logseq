@@ -1,0 +1,4 @@
+- # Typescript for beginners
+	- **Professor: Dave Gray** - [YouTube](https://www.youtube.com/@DaveGrayTeachesCode)
+	- Playlist start: [Youtube](https://www.youtube.com/watch?v=MOO5vrtTUTE&list=PL0Zuz27SZ-6NS8GXt5nPrcYpust89zq_b)
+	- [[TypeScript  for beginners - Starter Lesson]]

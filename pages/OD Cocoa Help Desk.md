@@ -1,0 +1,117 @@
+## TO DOs
+	- DONE Loop through the required persons the e-mails with error and issues
+	- DONE Insert the errors ans issues with OD on the Excel tracker [[May 17th, 2023]]
+		- DONE Price difference between the **Closed price By the Farmer** and the price on OD
+		- DONE Difference between OD price and the SAP price.
+		- DONE Difference between the price on he SAP and the written price on the contract (metric system)
+	- DONE Wednesday meeting at 09:00.
+	-
+- ## Copy on all e-mails
+	- To:
+		- Mohammadu Ali <mohammadu.ali@mindsprint.org>; Ajil  Mammen <ajil.mammen@mindsprint.org>; Sriram Venkat G <sriramvenkat.g@mindsprint.org>; Digital Support T3 <snow.digitalsupportt3@olamnet.com>; Digital Support T3 <snow.digitalsupportt3@olamnet.com>
+	- CC:
+		- Satheesh Selvaraj <satheesh.s@mindsprint.org>; Jeganmohan G <jeganmohan.g@mindsprint.org>; Gagandeep Rehal <gagandeep.rehal@ofi.com>; Suraj Serikar <suraj.serikar@mindsprint.org>; Wong Swee Kum, Sally <sally.wong@mindsprint.org>; Nagarajan M <nagarajan.m@mindsprint.org>; Vitor Trinca <vitor.trinca@ofi.com>; Ahmad Sobhi Hammoud <ahmad.hammoud@ofi.com>; Mimoso, Marcos Luis Santana <Marcos.Mimoso@ofi.com>
+		  id:: 646e1656-5ad2-4b07-83a5-8b7347356090
+- ## Excel Tracker - Go LIve
+	- Pará -> [Para Tracker Excel](https://olam-my.sharepoint.com/:f:/r/personal/estefane_santos_ofi_com/Documents/Origina%C3%A7%C3%A3o/OD/OD_BASES/Bases PA?csf=1&web=1&e=8UU1gg)
+	- Center and extreme North ->[Centro tracker](https://olam-my.sharepoint.com/:f:/r/personal/estefane_santos_ofi_com/Documents/Origina%C3%A7%C3%A3o/OD/OD_BASES/Bases BA/REGI%C3%83O CENTRO EXTREMO NORTE BA?csf=1&web=1&e=njhTcg)
+	- Bahia e Espirito Santo -> [BA ES Tracker](https://olam-my.sharepoint.com/:f:/r/personal/estefane_santos_ofi_com/Documents/Origina%C3%A7%C3%A3o/OD/OD_BASES/Bases BA/REGI%C3%83O CENTRO EXTREMO SUL BA e ES?csf=1&web=1&e=fk9Aux)
+	- Main Tracker -> [Main tracker](https://olam-my.sharepoint.com/:x:/r/personal/estefane_santos_ofi_com/Documents/Origina%C3%A7%C3%A3o/OD/ACTION PLAN_OD 2023_REV_1.xlsx?d=we207de9b1d804ac98d3bd0766c6402f1&csf=1&web=1&e=XgCuYd)
+-
+- ## Contact
+	- DONE IMPORTANT Make a read of the manual with the commercial team and return to Ahmad
+	  :LOGBOOK:
+	  CLOCK: [2023-05-15 Mon 14:29:31]--[2023-05-15 Mon 14:29:35] =>  00:00:04
+	  CLOCK: [2023-05-15 Mon 14:29:36]--[2023-05-15 Mon 14:29:36] =>  00:00:00
+	  :END:
+	- Contact every person on this list and understand if they are doing well with the OD Cocoa App.
+		- | **Person** | **Sent** | **Status** |
+		  |Patricia Sena|Yes|OK -> Is testing TCB online|
+		  |Eduardo|Yes|-|
+		  |Thaylan|Yes|-|
+		  |Alisson|Yes|OK -> Didn't test it|
+		  |Antonio Pimenta|Yes|OK -> Problems related bellow|
+		  |Karoline|Yes|-|
+		  |Silvalan|Yes|-|
+- ## Responses:
+	- **Antonio Pimenta**
+		- **PORTUGUESE**
+			- 1. Indisponível no TCB Online: modalidade PTBF programa ATS/NCP
+			  2. Idiomas português e inglês misturados
+			  3. Necessária a inclusão de fretes na aba configuração de fretes (verificar inclusões)
+			  4. Na aba configuração de fretes... ao selecionar a região "outros_EspiritoSanto" só tem duas cidades cadastradas
+			  5. Faltam fretes dos outros estados na planilha custo fretes -> time de desenvolvimento esta pendente de responta
+			  6. Problema no frete dentro da mesma cidade da filial (possível aplicação de fórmula... Configuração de frete)
+			  7. No TCB Online... quando mudamos para farm city Linhares, não aparece a separação por qualidade (todos ficam como convencional)
+			  8. Não está entrando o prêmio sustentabilidade no descritivo do TCB online.
+			  9. Na configuração de frete, inserimos na aba "custo de frete primário" R$/TON e na planilha de fretes, aparere custos de frete por saco o mesmo valor.
+			  10. Campos SENAR e FUNRURAL não estão disponíveis para o time fiscal.
+		- **ENGLISH**
+			- 1. PTBF not available in TCB online, (they could differ from the price for fixed price), also ATS/NCP are not available on the.
+			  2. Labels are mixed between Portuguese and English
+			  3. Bulk upload for the freight general settings. => Dev team working on it will respond.
+			  4. In the freight configuration menu -> select region -> Outros_EspiritoSanto => there are only 2 cites available. 
+			  5. Do not understand -> Commercial Responsability  
+			  6. For the same city freight cost -> The final price does not reflect the given freight cost in the  freight cost setup menu.
+			  7. In TCB online, when "linhares" is selected -> there toggle between cocoa qualities, only conventional is possible.
+			  8. There is no insertion of Sustainability premium on the TCB online.
+			  9. In Freight configurations -> primary freight cost -> the input field search label is in R$/ton, but the column label is in Bags
+			  10. Campos SENAR e FUNRURAL não estão disponíveis para o time fiscal.
+	- ## To be checked
+		- **IMPORTANT** How the OD Cocoa BR fetch the Banking Data form SAP, how it works, with what frequency and has to be called() or not?
+		- **IMPORTANT**  How to register a new ZIP code and what to do about not found ZIP code?
+		- **IMPORTANT** From where did the ZIP codes where pulled from, could we use the SAP already registered ZIP codes for Cooca BR?
+	- ## Questions
+		- **IMPORTANT** What is the flow for the farmer payment after the DocuSign is sent?
+-
+- # Meeting May 4th
+	- Gagan will talk to Manish -> To understand the flow for the banking
+- ## Zip codes with problem
+	- 29134-024 -> Had problem in Correios Web site
+	- 29900-970 -> found both on Correios WebSite and in BuscaCEP WebSite.
+	- **LInks**
+		- [Correios](https://buscacepinter.correios.com.br/app/endereco/index.php)
+		- [BuscaCEP](https://buscacep.com.br/) -> add{pesquisa?q=00000-000} to see desired ZIP code.
+- ## Cities to be included in the OD Cocoa BR
+	- |Estado|Região|Cidade|Captação|
+	  |Pará | **No region** | Medicilandia|Medicilandia |
+	  | | | | |
+	  | | | | |
+	  | | | | |
+	  | | | | |
+	- Existe alguma lista atualizada que podemos carregar?
+	- DONE Ahmad Fazer lista no excel e repassar para Ali.
+	- DONE Esperando Eduardo e Vitor enviarem as cidades que estão ausentes no calculo de frete.
+- ## Next Points
+	- Atualizar produção com os zip codes
+		- atualizar DO com a ultima lista de CEPs se ja não for esta.
+		- Futuramente considerar a utilização de uma API para consulta dos CEPs.
+		- DONE Daily follow up with Ali, about the bulk upload for the freight cost.
+		- On freight configuration -> Region could be inserted only for the
+		- What is the flow for the no available ZIP code.
+		- ![CEPs](../assets/OD cocoa/ceps.txt)
+		- Verificar o que fazer quando não houver o CEP?
+- ## Price Settigns
+- **IMPORTANT** Price configuration doesn't work for on the branch delivery or to farm pickup, only to deliveries on the factory
+	- Yesterday Vitor and Antonio Pimenta tested and was working properly, however today is not working as it should, Ali was present on the meeting and could saw the error happening.
+	- ![image.png](../assets/image_1683214986605_0.png){:height 368, :width 747}
+-
+- # Meeting May 08th
+	- # Duvidas
+		- É possivel para otime comercial utilizar no celular.
+		- Diferença entre base UAT e de produção
+		-
+	- # Sugestões
+	- # Problemas
+	- 201900272560
+	-
+	-
+- # Meeting with Wilton
+	- Problema 1 - não é possível clicar apra vizualizar os documentos.
+	- 2 não deveria ser possível naestapa de fiscalização editar o perfil.
+	-
+	- Wilton ficou de amndar os campos falanrtes no sap, e os dados faltantes, além disso os aparametros que podem ser inseridos no SAP
+	-
+	-
+-
+-

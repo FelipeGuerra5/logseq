@@ -1,0 +1,26 @@
+- Back to [[Web Dev]]
+-
+- # Tutorial Videos
+	- ## Next.js Full Course for Beginners
+		- [[Next.js Full Course for Beginners]]
+		- Professor: Dave Gray - [YouTube](https://www.youtube.com/@DaveGrayTeachesCode)
+		- Full course link - [YouTube](https://www.youtube.com/watch?v=843nec-IvW0&themeRefresh=1)
+		-
+	-
+	- ## Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
+		- [[FullStack App using NextJS]]
+		- From: JavaScirpt Mastery -> https://www.youtube.com/@javascriptmastery
+		- Tutorial link -> https://youtu.be/wm5gMKuwSYk
+		- 4 Hours content
+		- FullStack
+		-
+	- ## Build Messenger Application => First
+		- From: Code with Antonio -> https://www.youtube.com/@codewithantonio
+		- https://www.youtube.com/watch?v=PGPGcKBpAk8
+		- 9 hours of content
+		- FullStack
+	- ## Free code Camp App Web Page with Next.JS
+		- From: Free Code Camp -> https://www.youtube.com/@freecodecamp
+		- https://youtu.be/KjY94sAKLlw
+		- 5 hours of content
+		- FullStack

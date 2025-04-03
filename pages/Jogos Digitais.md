@@ -1,0 +1,53 @@
+- [[4_Semester]] [[Mackenzie]]
+  id:: 64df8c8d-a56f-490d-8d7d-8ba588cb6735
+-
+- # Aula 1
+  collapsed:: true
+	- ## Ponto de Partida
+		- Game Design,
+		- What is actually a game
+		- At least one user and possibility off winning
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Jogos Digitais/N_JOG DIG1 - Texto de apoio.pdf)
+- # Aula 2
+	- ## Ponto de Partida
+	  collapsed:: true
+		- ### Types of players
+			- **Dedicated** -> long term games, enjoys more details.
+			- **Occasional** -> Usually mobile with a short time span to finish a match.
+		- ### Estructure of games:
+			- Projeto de Interação (interaction design) — jogabilidade
+			- Processos operacionais (programing)
+			- Resolução de Problemas (game theory)
+			  • Eventos e estórias (narratologia)
+		- ### Operations of a Game
+			- What do players do?
+			- Auto-organization
+			- Social Structures
+			- Motivation extra-game and consequences.
+		- ### Why do they play?
+			- Learning
+			- Immersion
+			- Social activity
+			- Fun
+		- ### Who plays
+			- What games group exist?
+			- When and why they start to play?
+			- When and why they stop to play?
+		- ### Game divisions
+			- Game instance
+			- Game session
+			- Play session
+	- ## Texto de Apoio
+		- ![Texto de Apoio](..assets/mack/Jogos Digitais/N_JOG DIG2 - Texto de apoio.pdf)
+	- ## Professor explica
+		- Loop Game
+			- Receiving commands,
+			- Simulation
+			- dsiplay REsults
+- # Aula 3
+	- ## Ponto de Partida
+		- **GDD** -> Game design document
+		- **Game Mechanics**
+	- ## Texto de Apoio
+		- ![Texto de Apoio](..assets/mack/Jogos Digitais/N_JOG DIG3 - Texto de apoio.pdf)

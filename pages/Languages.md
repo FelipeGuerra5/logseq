@@ -1,0 +1,5 @@
+- Free4Talk -> chat room in language
+- Conversation Exchange -> chat with natives
+- HelloTalk -> more like social network
+- InterPals ->
+- Reddit ->

@@ -1,0 +1,16 @@
+- #[[Jun 3rd, 2024]]
+  collapsed:: true
+	- # Schedule
+		- ## Training
+			- LATER **Pull Ups** -> 6S 5R - T: 15min
+			- LATER **Hanging L sit** -> 6S 5R - T: 15min
+		- ## Study
+			- LATER Organize and determine which courses will be done as complementary hours
+		- ## House
+			- LATER Dishes
+			- LATER Clothes
+			- LATER Rooms in general
+		- ## Organization
+			- LATER All entries for the month of May
+			- LATER Finish budget
+			- LATER transfer tithe

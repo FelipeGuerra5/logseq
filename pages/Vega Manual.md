@@ -1,0 +1,57 @@
+- ## Translating Vega manual to PTBR #vega #app #translation #manual #dw
+- Vega App
+	- link to download: https://olam-my.sharepoint.com/:u:/g/personal/elias_silva_ofi_com/Ef1DyLrJIqBBloSnoopXz8MB6LKXhU7o9PdoDKCHQdAZwg
+	- User: br_jorgeluis
+	- Password: brjor85#
+-
+-
+- Login
+- Landing page
+	- Recebimentos
+	- Detalhes da remessa:
+		- Material? can be selected and active search
+		- Fornecedor: can be selected and active search
+	- Detalhes do caminhão:
+		- Número caminhão
+		- Nome do motorista
+	- Detalhes do transporte
+		- Número NFE
+		- Quantidade da nota
+		- Valor da nota
+		- Bag ownership:
+	- Início da pesagem
+		- Peso bruto: pode ser inserido ou puxado por Blue Tooth.
+		- Nº de palets
+	- Adicionar
+		- Adicionar nova pesagem
+	- Sumário
+		- Todos os dados da pesagem estão disponíveis para consulta
+	- Confirmar
+		- Confirmar deascarregamento?
+	- Sucesso,
+		- Imprimir recibo de descarga
+	-
+- Done
+	- email sent
+	- Both images and text in Portuguese.
+	-
+	-
+- ## Corrections
+	- slide 6 -> Only by Bluetooth.
+	- slide 3 -> user data to user master Data
+	- Word "abrira" is withou acento
+	- slide 5 -> propriedade da sacaria
+	- Slide 6 -> after gross weight capture , inform the number of bags of weighting
+		- o peso da sacaria sera´descontada.
+		- O peso da sacaria será descontado do peso total do saco
+		- Pesagens adicionais. podem ser inseridas de aocrdo com a demanda.
+	- slide 7 -> Dadosd do recebimento
+		- serão mmostrados em tela
+		- Continuar uma confirmação surgirá para . . .
+		- O sistema mostrara a tela com o ID da lbalança
+	- Recebimento dno modo offline
+	- slide 9 -> da remessa para do recebimento.
+	- slide 14 -> irá aparecer
+		- Sera mostrado oao inves de será impresso.
+	- Simbolo do ofi
+	-

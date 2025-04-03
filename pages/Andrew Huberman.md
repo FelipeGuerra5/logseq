@@ -1,0 +1,5 @@
+- # Dr. Anna Lembke: Understanding & Treating Addiction | Huberman Lab Podcast #33
+- In this podcast they talk about addiction and how the dopamine system work's during and in the maintenance of that addiction, also **how to break** this addiction cycle.
+- ## Recommendations
+	- **Dopamine Nation**: finding balance in the age of indulgence. Dr. Anna Lembki
+	-

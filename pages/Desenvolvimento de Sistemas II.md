@@ -1,0 +1,42 @@
+# Aula 1
+collapsed:: true
+	- OK
+- # Aula 2
+  collapsed:: true
+	- ## Ponto de Partida
+		- **Bad Smells**
+			- Is a code that will make it difficult to improve or grow the software in the future.
+		- **Refactoring**
+		- **Composing Methods**
+			- **Extract Method** #card
+				- If you reuse some functions to do a number of thing instead of repeating it you can just extract a method from it and call it when necessary
+			- **Extract Class** #card
+				- When a class make the job of two classes (not related methods) so instead of using only one class you can separate it in two as make simpler to work
+			- **Replace array with Object** #card
+				- A matrix (vector, array) contains distinct types of data, we can transform it on a object that has a separated attribute for each of them.
+			- **Introduce Null Object** #card
+				- If you have to manipulate date that can return a lot of Null values, instead of the validating every time to check if the value is null you can assign a Null object to the params, so the calculating return the proper value considering null.
+			- **Separate Query From Modifier** #card
+				- Method both consults a value and changes the value, if we split it in to two we can reuse it more easily and simply
+			- **Extract Superclass** #card
+				- If two or more classes has one or more things in common you can make a superclass and extend the classes from it instead.
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A2 Texto de apoio.pdf)
+		-
+- # Aula 3
+	- # Ponto de Partida
+		- **Grasp Patterns -> General Responsibility Assignment Software Patterns**
+		- ### Patterns
+			- **Information Expert**
+				- Who is responsible for the gathering of the information after the purchase?
+				- the information expert is the class that should be responsible to present this information, getting it from the other classes such as products and items.
+			- **Creator**
+				- Is the responsible to instantiate the products of the purchase on the checkout process, for the class that has all the information about the purchase.
+			- **Controllers**
+				- Is the responsible to take the events such as code bar reading and searching for the code in the data base.
+			- **Low Coupling**
+				- How much a class depends on others to work, classes should only depend on the strict necessary for the correct operations of the software.
+			- **High Cohesion**
+				- All the responsibilities of a class should be related always.
+	- ## Texto de Apoio
+		- 1[Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/co)

@@ -1,0 +1,6 @@
+- DONE Folga Reeh [[Sep 9th, 2023]]
+- DONE Folga Reeh [[Sep 10th, 2023]]
+- DONE Folga Reeh [[Sep 18th, 2023]]
+- DONE Folga Reeh [[Sep 23rd, 2023]]
+- DONE Folga Reeh [[Sep 24th, 2023]]
+-

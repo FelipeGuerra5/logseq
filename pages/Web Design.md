@@ -1,0 +1,10 @@
+- KEY Web Design Principles: Navigation, Hierarchy & Color
+	- https://www.youtube.com/watch?v=GJN7TemsZtY
+	- **Makes navigation easier**
+		- Over head nevbar
+		- stay toggle on on the page you are right now
+	- **Hierarchy**
+		- How the components take the attention of the client and how the attention runs on the page.
+	- **Color**
+		- Contrasting and make using color that make the visuals easier on the eyes and direct the attention where it needs to be.
+	-

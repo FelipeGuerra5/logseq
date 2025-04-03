@@ -1,0 +1,16 @@
+- #[[Moving to Santos Logistic]]
+	- LATER Assemble logistics for moving to Santos SP
+		- Speculative, simple, to have a idea on the money to be expend
+- #actual-server
+	- LATER Fill the weekly expenses in the actual-server
+- #[[Finance]]
+	- LATER Pic up the *Informe de Rendimento* from Itau
+	- LATER Pic up the *Informe de Rendimento* from Nubank
+	- LATER Pic up the *Informe de Rendimento* from Itau LTS
+	- LATER Pic up the *Informe de Rendimento* from Ofi
+	- LATER Pic up the *Informe de Rendimento* from AllTax
+	- LATER Pic up the payments invoices for the college
+	- LATER Pic up the paymentes invoices for kids school
+- #Job
+	- LATER Read the *edital* for the Technical Analyst position in Santos harbour
+-

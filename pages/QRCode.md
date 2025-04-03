@@ -1,0 +1,1 @@
+- Github Pages -> https://felipeguerra5.github.io/QRCode-Component/

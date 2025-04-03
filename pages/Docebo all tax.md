@@ -1,0 +1,23 @@
+# ATR - Alltax Table Repository
+collapsed:: true
+	- ## Concept
+		- ATR is the component responsible for the management of the data upload of some table of TIMP.
+		- Data Structures are the most important items of TIMP as in them are described the data origin fields of ERP and TIMP it self
+	- ## LIbs
+		- Must have ATR privileges
+		- Entering, Selecting ATR,
+			- left context Menu, advanced filters ans data.
+	- ## Data Structure
+		- Is the skeleton necessary for the data to be brought to the table on the UI
+		- The Developer will track the data on the SAP and them make a view of the data wanted, them define a *Data Structure* for it to work, much like a type file in Typescript
+	- ## Data Structure Groups
+		- On the structures in ATR -> Structures -> New Structures Group
+	- ## Structure Mapping
+		- It's objective is to relate all the fields on a data structure and relate to the new mapping the client wants
+	- ## Structure Mapping 2
+		- **Validity:** Only a finite and pre defined period
+			- Should define the date for the beginning and the termination of the validity.
+		- **Record:** -> drop down -> params -> Record
+		- **Copy:** drop down -> copy
+		- **Delete:** -> drop down -> Delete => BE SHURE ABOUT IT => Confirm Deletion
+		-

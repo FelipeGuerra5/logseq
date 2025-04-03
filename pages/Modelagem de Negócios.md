@@ -1,0 +1,121 @@
+# Review
+	- DONE Modelagem de Negocios - Aula 1 [[Feb 28th, 2024]]
+	  :LOGBOOK:
+	  CLOCK: [2024-02-29 Thu 06:18:21]--[2024-02-29 Thu 06:23:36] =>  00:05:15
+	  :END:
+	- DONE Modelagem de Negocios - Aula 1 [[Mar 5th, 2024]]
+	  :LOGBOOK:
+	  CLOCK: [2024-03-05 Tue 06:00:11]--[2024-03-05 Tue 06:05:41] =>  00:05:30
+	  :END:
+	- DONE Modelagem de Negocios - Aula 1 [[Mar 28th, 2024]]
+- # Aula 1
+	- ## Ponto de Partida
+		- How to be more competitive in the market.
+		- **Concepts**
+			- **Business:** activities that return some value to the client
+			- **Process:** organized tasks with a final objective
+			- **Model:** abstract representation of a real thing
+	- # Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Modelagem de Negocios/MOD-NEG aula1_TEXTO_DE_APOIO.pdf)
+	- ## Professor Resolve
+		- **Guia babook**
+		- **Professionals: **
+			- Analista de Negócios.
+			- Analista de Processos de Negócios
+			- Analista de Sistemas
+	- ## Praticando
+		- |Função| Nível| Salário| Fonte|
+		  |Analista de Negócios|Jr|R$ 3.000|https://www.vagas.com.br/cargo/analista-de-negocios|
+		  |Analista de Negócios|Pl|R$ 4.331|https://www.vagas.com.br/cargo/analista-de-negocios|
+		  |Analista de Negócios|Sr|R$ 6.510|https://www.vagas.com.br/cargo/analista-de-negocios|
+		  |Analista de Processos|Jr|R$ 2660|https://www.vagas.com.br/cargo/analista-de-processos-e-qualidade|
+		  |Analista de Processos|Pl|R$ 3352|https://www.vagas.com.br/cargo/analista-de-processos-e-qualidade|
+		  |Analista de Processos|Sr|R$ 4250|https://www.vagas.com.br/cargo/analista-de-processos-e-qualidade|
+		  |Aanlista de Sistemas|Jr|R$ 3312|https://www.vagas.com.br/cargo/analista-de-sistemas|
+		  |Aanlista de Sistemas|Pl|R$ 5116|https://www.vagas.com.br/cargo/analista-de-sistemas|
+		  |Aanlista de Sistemas|Sr|R$ 7301|https://www.vagas.com.br/cargo/analista-de-sistemas|
+	- ## Certificações
+	  collapsed:: true
+		- **Certified Business Process Professional (CBPP)**: Esta certificação é oferecida pela Association of Business Process Management Professionals International (ABPMP) e se concentra em habilidades e conhecimentos relacionados à modelagem de processos de negócios.
+		- **Certified Business Analysis Professional (CBAP)**: Embora não seja exclusivamente focada em modelagem de negócios, a certificação CBAP da International Institute of Business Analysis (IIBA) abrange várias áreas relacionadas, incluindo análise de negócios e modelagem de processos.
+		- **Certified Modeling and Simulation Professional (CMSP)**: Essa certificação, oferecida pelo Society for Modeling & Simulation International (SCS), é voltada para profissionais que se concentram na modelagem e simulação de sistemas, o que pode ser relevante para a modelagem de negócios.
+		- **Certified ScrumMaster (CSM)**: Embora seja mais associada ao desenvolvimento de software, a certificação ScrumMaster pode ser útil para profissionais de modelagem de negócios que trabalham em ambientes ágeis, pois ajuda a compreender como equipes colaboram e entregam valor.
+		- **Certified Business Modeler (CBM)**: A Business Architects Association (BAA) oferece essa certificação, que se concentra especificamente na modelagem de modelos de negócios e estratégias.
+		- **Certified Process Professional (CPP)**: Oferecida pela BP Group, essa certificação aborda tópicos relacionados à melhoria de processos e à modelagem de processos de negócios.
+		- **Certified Data Management Professional (CDMP)**: A modelagem de negócios muitas vezes envolve lidar com dados e informações. A certificação CDMP, oferecida pelo Data Management Association (DAMA), aborda a gestão de dados, o que pode ser relevante para profissionais de modelagem de negócios.
+		- **Certified Business Transformation Architect (CBTA)**: Oferecida pelo Business Architecture Guild, essa certificação se concentra em habilidades de arquitetura de negócios e transformação organizacional, que são áreas relacionadas à modelagem de negócios.
+		- **Certified Business Process Leader (CBPL)**: A Association of Business Process Management Professionals International (ABPMP) também oferece esta certificação, que se concentra em liderança e excelência em processos de negócios.
+		-
+	- ## Explorando Conceitos
+		- [Guia BABOK](https://books.google.com.br/books?id=wZvSEEg39N4C&printsec=frontcover&dq=babok&hl=en&ei=byNtTaiTJMSltwfFjoXDBQ&sa=X&oi=book_result&ct=result&redir_esc=y#v=onepage&q&f=false)
+			- **Reading Pages 5 a 9:**
+				- Responsible to know what the client needs, not what he wants.
+				- **Key concepts:**
+				  id:: 65de369d-2ad0-4bba-824a-5de2fde47b23
+					- **Solutions**: sum of changes that can benefit the business.
+					  logseq.order-list-type:: number
+					- **Requirements:** Are what the client needs, the goal for the team, and the metrics which will guide quality
+					  logseq.order-list-type:: number
+						- **Functional Requirements:** objectively what the software should do.
+						  logseq.order-list-type:: number
+						- **Non-Functional Requirements**: Not directly related with the Functional, general quality of the ambient were the software is inserted in order for it to work properly.
+						  logseq.order-list-type:: number
+						- **Transitional Requirements:** in regards of the changes necessary for the new software to be implemented on top of the latest, they are temporary by nature.
+						  logseq.order-list-type:: number
+				- **Knowledge areas**
+					- **Defining Business Needs** or **Evaluate the solution performance**.
+					- **Elicitation:** figuring out what the parts needs instead of simply writing down what they want.
+					- **Requirements Management and Communication:** management of the requirements so all the parts can agree on the solution
+					- **Corporative Analysis:** The analysis of the actual project and solution, will it be sufficient for the company, should happen?
+					- **Requirements analysis:** how the business analyst prioritize requirements
+					- **Evaluation and Validation:** the moment were the gaps and the solution fails in development can be found, detecting provisory solutions for correcting them.
+					-
+					-
+		- [Guia BPM CBOK](http://ep.ifsp.edu.br/images/conteudo/documentos/biblioteca/ABPMP_CBOK_Guide__Portuguese.pdf)
+			- **Leituras de pagina 19 à 35**
+				- BPM CBOK is a guidebook
+				- Basis for the Certified Business Process Professional - CBPP
+				-
+- # Aula 2
+  collapsed:: true
+	- ## Ponto de partida
+	  collapsed:: true
+		- ### System
+			- **System model**
+				- Entry => Processing => Exit
+			- **System Lifecycle**
+				- Creation => Development => Deprecation
+		- ### Organization
+			- **Organizations**
+				- Group of people with a common objective
+			- **Subsystems**
+				- Decision => Operational => Information
+			- **Levels**
+				- Estrategic -> High admistration
+				- Tactical -> Management
+				- Operational -> Supervisors
+			- **Information Characteristics**
+				- Clarity
+				- Precision
+				- Fast Delivery
+				- Direct to person in charge
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Modelagem de Negocios/N_MOD NEG_A2 – Texto de Apoio.pdf)
+- # Aula 3
+  collapsed:: true
+	- ## Ponto de Partida
+	  collapsed:: true
+		- Models for business processes
+		- Organograms, EAP or WPS, DFD, Diagram of activities, BPMN.
+		- **Organogram**
+			- ![image.png](../assets/image_1693881419787_0.png)
+		- **Work Breakdown Structure**
+			- ![image.png](../assets/image_1693881632491_0.png)
+			- ![image.png](../assets/image_1693881716879_0.png)
+			-
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Modelagem de Negocios/N_MOD NEG_A3 – Texto de Apoio.pdf)
+- # Aula 5
+  collapsed:: true
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Modelagem de Negocios/N_MOD NEG_A5 – Texto de Apoio.pdf)

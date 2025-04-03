@@ -1,0 +1,29 @@
+- [[Mackenzie]]
+- ## Components
+	- [[Banco de Dados]]
+	- [[Estrutura de Dados]]
+	- [[Comunicação de Dados]]
+	- [[Desenvolvimento de Sistemas 2]]
+	- [[Programação de Sistemas 2]]
+	-
+	-
+	-
+-
+- # Banco de Dados
+- {{cards [[Banco De Dados]] }}
+	- Summary: 1 items, 1 review counts [[Feb 4th, 2023]]
+		- Remembered:   1 (100%)
+		- Forgotten :   0 (0%)
+-
+- # Gerenciamento de Dados
+	- {{cards [[Gerenciamento de Dados]]}}
+	-
+-
+- # Comunicação de Dados
+	- {{cards [[Comunicação de Dados]]}}
+	-
+- # Desenvovimento de Sistemas 2
+- {{cards [[Desenvolvimento de Sistemas 2]]}}
+-
+- # Introdução ao Empreendedorismo
+	- {{cards [[Empreendedorismo]]}}

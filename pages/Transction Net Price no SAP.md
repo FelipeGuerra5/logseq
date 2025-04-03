@@ -1,0 +1,23 @@
+- # Bahia to Bahia
+	- ### Posto:
+		- ![image.png](../assets/image_1677600102652_0.png)
+		- Transaction: **201900269614**
+	- ### Withdraw:
+		- ![image.png](../assets/image_1677605306271_0.png)
+		- Transaction: **201900269616**
+- # Para to Bahia
+	- ### Delivery
+		- ![image.png](../assets/image_1677609438689_0.png)
+		- Transaction:**201900269617**
+	- Withdraw:
+		- ![image.png](../assets/image_1677609601565_0.png)
+		- Transaction: **201900269618**
+- # Para to Para
+	- Delivery:
+		- ![image.png](../assets/image_1677609852715_0.png)
+		- Transaction: **201900269619**
+	- Withdraw
+		- ![image.png](../assets/image_1677610122567_0.png)
+		- Transaction: **201900269620**
+-
+	-

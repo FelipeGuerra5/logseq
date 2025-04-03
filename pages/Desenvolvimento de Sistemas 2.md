@@ -1,0 +1,159 @@
+- [[3_Semester]] [[Mackenzie]]
+-
+- ### Info:
+	- Teacher: PEDRO HENRIQUE CACIQUE BRAGA
+-
+- # Aula 01
+  collapsed:: true
+	- ## Ponto de partida:
+		- ### Paterns
+			- What kind of solution worked in the past with this type of problem => pattern
+		-
+		- ### Refactoring
+			- **Enterprise**
+				- Pattern of connection with other software's of such company that must work together
+			- **Architecture**
+				- Software architectural Patterns
+				- Architectural styles
+				- Architectural principles
+			- **Design**
+				- Design patterns
+				- Design principles
+			- **Programming**
+				- Programming paradigms
+				- Good practices
+	- ## Texto de Apoio
+		- ![Text](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A1 Texto de apoio.pdf)
+- # Aula 02
+  collapsed:: true
+	- ## Ponto de partida
+		- Martin Fouler - Bad Smells
+		- ### Refactoring:
+			- Composing Method
+				- Extract Method => A code fragment can be grouped -> Changte this code for a method and call this method.
+			- Moving Features Between Objects
+				- Extract Class => When a class does the job of two classes -> broke it down to 2 classes so it can e come cohesive.
+			- Organizing Data
+				- Replace Array with Object => An array with multiple data with different types of data -> change it for one object (e. g. class).
+			- Simplifying Conditional Expression
+				- Introduce Null Objects => Instead of creating conditional for the null case make a object for the null e.g. inside of a class that may receive null quite sometimes insert a subclass as null this way only deal with it once.
+			- Simplifying Method Calls
+				- Separate Query from Modifier => Some method returns a value but also modify some value when you call it, make two methods, one to queries other for changing
+			- Dealing with Generalization
+				- Extract superclass => some classes have many methods in common but not all -> make a superclass that can be parent for all this classes and the class only extends this superclass.
+	- ## Texto de Apoio
+		- ![Text](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A2 Texto de apoio.pdf)
+		-
+	-
+	-
+	-
+	-
+- # Aula 03
+  collapsed:: true
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A3 Texto de apoio.pdf)
+	- ## Ponto de Partida
+		- ### GRASP - General Responsibility Assignment Software Patterns
+			- It manages what kind of responsibility each object should get.
+			- What are the **Grasp**  concepts bellow:
+			  1. information Expert
+			  2. Creator
+			  3. Controller
+			  4. Low Coupling
+			  5. High Cohesion #card
+				- **Information Expert** -> Is the one that hold the unchanged information through time
+				- **Creator** -> It is the one that creates a new instance of an object in the scenario.
+				- **Controller** -> It's the responsible for input of data
+				- **Low Coupling** -> How dependent the classes are of each other. If a class depends on many other on the event you may try to reuse it, you will have to bring all the other classes this one is dependent on.
+				  id:: 644a0ab6-cf13-42e1-81e1-dd13f66dde9c
+				- **High Cohesion** -> If the class has a lot of methods, they need to be very cohesive between themselves, so it does not brake on building.
+- # Aula 04
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A4 Texto de apoio.pdf)
+	- ## Ponto de Partida
+		- ### GRASP - General Responsibility Assignment Software Patterns
+			- It manages what kind of responsibility each object should get.
+				- What are the **Grasp**  concepts bellow:
+				  1. Polymorphism
+				  2. Pure Fabrication
+				  3. Protected Variations #card
+				- **Polymorphism** -> It's an class that can be extended in to others, e.g.: there is some payment method to pay a bill instead of referencing all the existing methods in the  `abstract class Payments` you can just make it an then extend to the other classes that handle types of payment.
+				- **Pure Fabrication Indirection** -> If you need just one functionality, instead of attributing the functionality to other class, is better to just make a new one even thought it's only for one specific method.
+				- **Protected Variations** -> If there is an value that will be used and can be different for different client, it is better to let it be indirect, on a specific class instead of inside another, taxes for example may vary from one state to another, so it's smart to make indirect from other classes won't change.
+- # Aula 05
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A5 Texto de apoio.pdf)
+	- ## Ponto de Partida
+		- Patterns **GoF** -> Gang of Four
+			- There are 3 groups of GoF patterns
+			- 1. Creational
+			  2. Behavioral
+			  3. Structural
+			- Let's Start with the **Creational**, more precisely this 3 patterns
+				- **GoF** -> **Singleton** #card
+					- It's a class that has only one instance.
+					  1. Private instance
+					  2. Need's a private constructor.
+					  3. `GetInstance()` method.
+				- **GoF** -> **Factory Method** #card
+					- This uses a factory method where you can use a class that builds only what you specified, e.g.: a juice factory, you can call factory and then the flavor of the juice.
+				- **GoF** -> **Abstract Method** #card
+					- On the abstract factory method the family is well defined, however each children class can have a different outcome for the method.
+					- let say vehicles class, all have to accelerate and break,  a car uses pedals, motorcycle used the wrist throttle and do on.
+					-
+	- ## Momento com o Professor
+		- ### Useful link
+			- [UML - Visual paradigm](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/)
+		- **UML - Agregation** #card
+			- In comparison to a PC the screen aggregate to the PC but it will work without it.
+		- **UML - Composition** #card
+			- The item is composed with the given object, if you try to take it out the code will fail there.
+		-
+		-
+		-
+- # Aula 06
+  collapsed:: true
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A6 Texto de apoio.pdf)
+	- ## Ponto de Partida
+		- **Bridge**
+		- **Decorator**
+	- ## Momento com o Professor
+		-
+- # Aula 07
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Desenvolvimento de Sistemas 2/DES-SIS-II - A7 Texto de apoio.pdf)
+	- ## Ponto de Partida
+		- **GoF - Behavioral Design Patterns**
+			- **State** -> After the state of an object changes I want it to change behavior.
+				- For that to happen a class should be created for managing each type of state as e.g.:
+				- ```Java `interface State {
+				  interface State {
+				    void handle ();
+				  }
+				  
+				  class ConcreteStateA implements State {
+				    public void handel(){
+				      // Code
+				    }
+				  }
+				  
+				  class ConcreteStateB implements State {
+				    public void handle () {
+				      // Code
+				    }
+				  }
+				  ```
+			- Let's say you have a a application that handles Mortgages, that could be
+				- 1. **In Analysis**
+				  2. **Accepted**
+				  3. **Denied**
+				- For each of these we are going to need a specific class to implement the Mortgage handle class
+			- **Strategy** ->
+				- Let's say we are going to handle a maps application where you can choose the type transportation you're going to use. for each of them you will have different:
+					- 1. Times
+					  2. Routes
+					  3. Cost
+					  4. If it's available now or not.
+					  5. The algorithm that calculate the route and so on.
+	-

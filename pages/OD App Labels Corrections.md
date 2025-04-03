@@ -1,0 +1,62 @@
+- ### Bottom menu =>
+	- ![image.png](../assets/image_1678295766980_0.png){:height 532, :width 240}
+	- #### Suggestion
+		- There are many items on the bottom. One solution is to insert crop care and farm plan on the hamburger menu.
+	- #### Transalations
+		- Crop_Doctor: Dr. Plantação.
+		- farm_plan: "Planejamento de Plantação" or "Planejamento"
+-
+	-
+- ### On the hamburger menu
+	- ![image.png](../assets/image_1678296252649_0.png){:height 532, :width 240}
+	- #### Translations:
+		- Share with olam: Compartilhe com Olam.
+	- ![image.png](../assets/image_1678373285105_0.png){:height 532, :width 240}
+	- Others: Outros
+	- Deforestation: Denúncia de Desmatamento
+	- Child Labour Alert: Denúncia de Trabalho Infantil
+- ### Fix Price negotiations
+	- ![image.png](../assets/image_1678296653425_0.png){:height 532, :width 240}
+	- #### Translations:
+		- Fixed Purchase: Preço Fixo
+	- ![image.png](../assets/image_1678370300031_0.png){:height 532, :width 240}
+	- #### Translations:
+		- Fixed Purchase: Preço Fixo
+		- Payment on Delivery: Pagamento Mediante Entrega or "Pagamento Após Entrega". Which ever fits better, seams to have space for both options.
+		- ![image.png](../assets/image_1678370483945_0.png){:height 532, :width 240}
+		- ![image.png](../assets/image_1678370532142_0.png){:height 532, :width 240}
+		- #### Translations
+			- **Rp** Should be **R$**
+-
+- ### Profile
+	- ![image.png](../assets/image_1678369454463_0.png){:height 532, :width 240}
+	- #### Transalations
+		- CNPJ ID: CNPJ (no need to ID on the end)
+- ### Farm details
+	- ![image.png](../assets/image_1678369522773_0.png){:height 532, :width 240}
+	- #### Translations
+		- ZipCode: CEP
+	- ![image.png](../assets/image_1678369653596_0.png){:height 532, :width 240}
+	- "Adicionar fazenda": could be -> "Adicionar" If helps with the size of it, or just make the button center and large enough.
+	-
+- ### Transaction Creation
+	- ![image.png](../assets/image_1678370824074_0.png){:height 532, :width 240}
+	- #### Correction
+		- **R$/sc**: should match the home screen label, should it be **R$/kg**, **R$/@** or **R$/sc**. with corresponding value, this one particularly should be **R$/kg**
+		- Rp: R$
+		- Fixed Purchase: Preço Fixo
+		- Payment on Delivery: "Pagamento Mediante Entrega" or "Pagamento Após Entrega". Which ever fits better, seams to have space for both options.
+	- ![image.png](../assets/image_1678371290969_0.png){:height 532, :width 240}
+	- On the bottom price **Rp**: **R$**
+- ### Share with Olam
+	- ![image.png](../assets/image_1678371415340_0.png){:height 532, :width 240}
+	- de FeedBack:  da Comunicação (Selecione a categoria da comunicação)
+	- Other: Outros
+	- Deforestation: Denúncia de Desmatamento
+	- Child Labor Alert: Denuncia de Trabalho Infantil
+- ### PTBF
+	- #### Negotiation Details
+		- ![image.png](../assets/image_1678372463436_0.png){:height 532, :width 240}
+		- The button does not say anything as it is. should say "Fazer Fixação" "Negociar Fixação" "Vender".
+		-
+	-

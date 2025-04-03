@@ -1,0 +1,10 @@
+- ## At https://www.livechat.com/typing-speed-test/#/
+-
+- ## January 24th, 2023
+	- 32 WPM (148 CPM)
+	- 34 WPM (149 CPM)
+	- 35 WPM (158 CPM)
+	- 35 WPM (149 CPM)
+-
+- ## January 25th. 2023
+	-

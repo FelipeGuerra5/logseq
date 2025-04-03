@@ -1,0 +1,26 @@
+# Aula 1 - ATR, BRB, BCB
+- ## Summary
+	- [Data Preview em Nós](#data-preview-em-nós)
+	- [Extrair queries de Data Preview](#extrair-queries-de-data-preview)
+	- [Filtros Fixos em Nós](#filtros-fixos-em-nós)
+	- [Fonte de Dados: Tabelas e Views](#fonte-de-dados-tabelas-e-views)
+	- [Carregamento de Dados: performance](#carregamento-de-dados-performance)
+- ## Data Preview em Nós
+- ## Data Preview em Nós
+	- **# Aula 1 - ATR, BRB, BCB**
+	- **## Summary**
+	  
+	    - [Data Preview em Nós](#data-preview-em-nós)
+	  
+	    - [Extrair queries de Data Preview](#extrair-queries-de-data-preview)
+	  
+	    - [Filtros Fixos em Nós](#filtros-fixos-em-nós)
+	  
+	    - [Fonte de Dados: Tabelas e Views](#fonte-de-dados-tabelas-e-views)
+	  
+	    - [Carregamento de Dados: performance](#carregamento-de-dados-performance)
+	- **## Data Preview em Nós**
+	  
+	        
+	  
+	  **## Data Preview em Nós**

@@ -1,0 +1,1 @@
+- GitHub pages -> https://felipeguerra5.github.io/Rating-Component/

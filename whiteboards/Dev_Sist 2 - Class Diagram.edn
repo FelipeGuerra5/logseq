@@ -1,0 +1,132 @@
+{:blocks (
+{:block/created-at 1694634984484
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 6.282263626020327
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [331.8090496378986 247.28471891013157]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "ItemTax\n_________________________________\n\n- itemType: String | float\n- ItemQuantity: float\n\n_________________________________\n\ngetTaxValue(itemQauntity): float\n"
+:id "aaf4ce60-526c-11ee-a037-e3552f449383"
+:fontWeight 400
+:noFill false
+:point [352 248]
+:fontSize 20
+:parentId "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:nonce 1694633718801
+:italic false}}
+:block/updated-at 1694634984484} 
+{:block/content "- itemType: String | float\r\n- ItemQuantity: float"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "65020ed7-5d15-4df9-bddc-0a42ef83e41e"}
+:block/parent 
+{:block/uuid #uuid "65020ed7-5d15-4df9-bddc-0a42ef83e41e"}
+:block/uuid #uuid "65021073-91af-4b53-989d-ee830b458f89"} 
+{:block/created-at 1694634983516
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 6.282263626020327
+:borderRadius 2
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [395.80727130788557 337.13154004066627]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "TotalPurchaseTax\n_________________________________\n\n- taxAcumulator: float \n- taxTypeAmount: {string: float}\n\n_________________________________\n\ngetTaxTotalValue(): float\ngetTaxTypeDescription(): \n{string: float}\n"
+:id "b7b74be0-526d-11ee-a037-e3552f449383"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [744 224]
+:fontSize 20
+:parentId "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:nonce 1694633719304
+:italic false}}
+:block/updated-at 1694634983516} 
+{:block/created-at 1694634968818
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 6.282263626020327
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [343.7678142490872 292.09577842055813]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Payment\n_________________________________\n\n- paymentMethod(): int\n- paymentValue(): flat\n- paymentInstallments(): int\n-paymentInterest(): float | null\n\n\n_________________________________\n\ngetPaidValue(): float\n"
+:id "4a0ed3f0-526e-11ee-a037-e3552f449383"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [688 -160]
+:fontSize 20
+:parentId "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:nonce 1694633719213
+:italic false}}
+:block/updated-at 1694634968818} 
+{:block/created-at 1694634965746
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:rotation 6.282263626020327
+:borderRadius 2
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [331.8090496378986 247.28471891013157]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Purchase\n_________________________________\n\n- itemType: String | float\n- ItemQuantity: float\n\n_________________________________\n\ngetTaxValue(itemQauntity): float\n"
+:id "8bf375e0-526f-11ee-a037-e3552f449383"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [120 -128]
+:fontSize 20
+:parentId "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:nonce 1694633718878
+:italic false}}
+:block/updated-at 1694634965746})
+:pages (
+{:block/uuid #uuid "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:name "65020ed7-5d15-4df9-bddc-0a42ef83e41e"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("aaf4ce60-526c-11ee-a037-e3552f449383" "b7b74be0-526d-11ee-a037-e3552f449383" "4a0ed3f0-526e-11ee-a037-e3552f449383" "8bf375e0-526f-11ee-a037-e3552f449383")}}
+:block/updated-at 1694634984484
+:block/created-at 1694633687046
+:block/type "whiteboard"
+:block/name "dev_sist 2 - class diagram"
+:block/original-name "Dev_Sist 2 - Class Diagram"})}

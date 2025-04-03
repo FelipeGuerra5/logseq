@@ -1,0 +1,5 @@
+- DONE Panel show the market price, should show the value closed in the transaction. #[[OD Cocoa]]
+- DONE SAP PO Number should be displayed even without e-mail for the user. #[[OD Cocoa]]
+-
+-
+-

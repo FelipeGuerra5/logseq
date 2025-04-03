@@ -1,0 +1,13 @@
+- LATER Compras
+	- Suco de laranja
+	- Pão Frances
+	- 250 mortadela
+	- 300 mussarela
+	- 150 salame
+	- Pão de Queijo
+	- Bolo Formigueiro
+- LATER Letters
+	- Print my letter
+	- Print letter for Kath
+- LATER Organization
+	- inflate balloons

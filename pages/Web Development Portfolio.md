@@ -1,0 +1,13 @@
+- #portfolio #webdevelopment #webideas
+- # Ideas
+	- ## Notes
+		- Make a online app for non-programmers that can do pretty much what the logsec can do for the developer, but do it for the ordinary consumer with its specific needs.
+			- **Characteristics:**
+				- Login bound Cross-Platform compatible
+				- Stored in cloud
+				- Simple to use
+				- All features available with GUI
+			- **Platforms:**
+				- Web -> React | Next
+				- Mobile -> ReactNative
+-

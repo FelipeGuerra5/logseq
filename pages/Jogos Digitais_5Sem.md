@@ -1,0 +1,153 @@
+# Review
+	- DONE Aula 1 - Jogos Digitais [[Feb 20th, 2024]]
+	  :LOGBOOK:
+	  CLOCK: [2024-02-20 Tue 14:11:52]--[2024-02-21 Wed 17:24:11] =>  27:12:19
+	  :END:
+	- DONE Aula 1 - Jogos Digitais [[Feb 26th, 2024]]
+	  :LOGBOOK:
+	  CLOCK: [2024-02-27 Tue 14:30:07]--[2024-02-27 Tue 14:36:35] =>  00:06:28
+	  :END:
+	- DONE Aula 1 - Jogos Digitais [[Mar 19th, 2024]]
+	-
+- # Info
+	- **Professor:** Leandro Pupo
+- # Aula 1
+  collapsed:: true
+	- ## Ponto Inicial
+		- ### What is a Game
+			- **Requires at the least one player**
+			- **Must follow rules**
+			- **Conditions to Victory**
+		- ### What is game design
+			- Is the process with which we can produce a real life game, it's process of creation
+		- ### Roles in the game industry
+			- Productor
+			- Game Tester
+			- Sound Design
+			- Artist
+			- Programmer
+	- ## Texto de Apoio
+		- ![texto de Apoio](../assets/mack/Jogos Digitais/JOG DIG_AULA 1_ TEXTO DE AULA .pdf)
+	- ## Professor Resolve
+		- ```Python 
+		  class Tank(object): # object is the parent of all classes
+		    def __init__(self, name): # Is the constructor of the python class
+		      self.name = name
+		      self.alive = True
+		      self.ammo = 5
+		      self.armor = 60
+		      
+		    def __str__(self):
+		      # it's used to display information on the console
+		      
+		    def fire_at(self, enemy): # is the created method for the player to hit one another
+		      
+		    def hit(self): # for when the tank suffers a hit
+		      
+		  ```
+		-
+	- ## Praticando
+		- Entregue
+	- ### Forúm
+		- A indústria dos jogos passou por uma evolução notável, intrinsecamente ligada à Lei de Moore, refletindo a crescente necessidade de poder de processamento para acompanhar a inovação contínua. Embora muitos reconheçam a transformação gráfica e a ascensão do jogo online, a verdadeira razão para a excepcional rentabilidade desse mercado vai além do entretenimento, muitas vezes considerado supérfluo em nossa sociedade.
+		- A verdadeira essência da extraordinária lucratividade da indústria de jogos reside na venda da liberdade. Os jogos oferecem aos indivíduos uma experiência única, permitindo-lhes embarcar em buscas épicas e conquistar feitos anteriormente inatingíveis na realidade.
+		- Nesse contexto, é inegável que os jogos evoluíram consideravelmente. A capacidade de processamento atual possibilita uma física extremamente realista, enquanto a interatividade deixou de ser uma característica excepcional para se tornar uma expectativa essencial. A liberdade de agir e ser aquilo que antes era apenas um devaneio tornou-se uma realidade palpável.
+		- A evolução dos jogos pode ser equiparada à lei da "Seleção Natural". Com a maioria dos consoles e jogos conectados à internet, é possível analisar dados de tráfego, perfis de usuários e cruzar referências com informações demográficas e socioeconômicas. Isso permite à indústria compreender as necessidades dos clientes antes mesmo que eles as expressem. Assim, a indústria dos jogos está constantemente superando expectativas, pois sua existência depende intrinsecamente dessa capacidade de antecipação.
+		- Juul, Jesper. (2005). Half-Real: Video Games between Real Rules and Fictional Worlds.
+		- Bogost, Ian. (2007). Persuasive Games: The Expressive Power of Videogames.
+	- ## Aplicando conhecimento
+		-
+- # Aula 2
+  collapsed:: true
+	- ## Ponto de Partida
+		- What is your target audience?
+		- **Dedicated players vs. occasional players.**
+			- One plays for immersion, the latter plays occasionally
+		- **Gmae components**
+			- Structure (How it is made)
+			- Operation (How it works)
+			- Motivation ()Why the player is palying)
+			- Player (who play the game, what is the starting trigger? and the stopping trigger?)
+		- **Steps of the game**
+			- Game instance -> game working
+			- set-up/down
+			- Game Session -> for each player
+			- Play session -> when the gamer actually plays
+			- Extra-game activity
+			- Rules
+			- Modes of Play
+			- Actions
+			- Events
+				- Closures
+			- End Conditions
+			- Evaluation Functions
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Jogos Digitais/JOG DIG_AULA 2_ TEXTO DE AULA .pdf)
+	- ## Professor Explica
+		- ```python 
+		  import pygame
+		  pygame.init()
+		  screen = pygame.display.set_mode((600, 400)) 
+		  screen.fill((255, 255, 255)) # Fill Screen color
+		  pygame.display.flip() # Updated the screen color
+		  
+		  draw() # draws basic shapes.
+		  ```
+		- ![image.png](../assets/image_1709641010123_0.png)
+	- ## Praticando
+		- **Events**
+			- ```python 
+			  import pygame
+			  from pygame.locals import *
+			  from sys import exit
+			  pygame.init()
+			  SCREEN_SIZE =(800,600)
+			  screen = pygame.display.set_mode(SCREEN_SIZE, 0 ,32)
+			  while True:
+			  	for event in pygame.event.get():
+			  		if event.type == QUIT:
+			  			pygame.quit()
+			              exit()
+			  		print(event)
+			  pygame.display.update()
+			  
+			  ```
+		- **Moving Elements**
+			- ```python 
+			  import pygame
+			  from pygame.locals import *
+			  from sys import exit
+			  
+			  
+			  pygame.init()
+			  
+			  SCREEN_SIZE =(800,600)
+			  screen = pygame.display.set_mode(SCREEN_SIZE, 0 ,32)
+			  tank = pygame.image.load('tanque.jpg').convert()
+			  x,y=0,0
+			  move_x, move_y = 0,0
+			  
+			  while True:
+			      for event in pygame.event.get():
+			          if event.type == QUIT:
+			              pygame.quit()
+			              exit()
+			          if event.type == KEYDOWN:
+			              if event.key==K_LEFT:
+			                  move_x=-1
+			              if event.type == KEYUP:
+			                  if event.key == K_LEFT:
+			                      move_x=0
+			      x += move_x
+			      y += move_y
+			      screen.fill((255,255,255))
+			      screen.blit(tank,(x,y))
+			      pygame.display.update()
+			  ```
+		-
+- # Aula 3
+	- ## Ponto de Partida
+		- **One page Document:** is the file that contains the principal characteristics of the game, mostly visual and should be that elevator pitch for the game to attract investors.
+	- ## Texto de Apoio
+		- ![Texto de Apoio](../assets/mack/Jogos Digitais/JOG DIG_AULA 3_ TEXTO DE AULA .pdf)
+		-

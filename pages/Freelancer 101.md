@@ -1,0 +1,36 @@
+- #stefanmischook #freelancer #workforyourself
+- {{video https://www.youtube.com/watch?v=SlR8rIjQjyI}}
+	- # Learn the Web Stack
+		- The web stack will be the most profitable, given that is the nish with the more quantity of work.
+		- Comprehends JavaScript, HTML CSS, PHP (a lot of no code solutions as WordPress uses PHP)
+	- # Build a Portifolio Website
+		- The portfolio website should be great, it will be your outdoor to the business world, make as you want people to see yourself
+	- # Understand WordPress
+		- No need to be a master of it, however, understand it enough to make it work if needed
+	- # Spread it Out
+		- Learn the basics, and then learn in the "need to nerd in it" basis.
+		- You will need to learn new things on a regular basis
+	- # Tracking your Hours
+		- Get Good in tracking hours
+			- Coding
+			- Talking to clients
+			- Planning
+			- Managing the Business
+		- After it usually is a good practice to multiply it for 2.4x
+	- # Types of Web Developer
+		- Either chose **Web Design** or **FullStack Developer**
+	- # Do 2 to 3 free jobs
+		- To make it as real life portfolio, or to make it as the real work experience you need to make being a Freelancer functional
+	- # NetWorking
+		- Start Networking, to make you services available to the businesses out there
+	- # Stepping in to it slowly
+		- The start will be hard and slow, or at least expect it
+	- # More and Small
+		- Its better to have more and small clients, instead of of few bigger clients.
+		- You can fire clients if needed, and give attention to the best clients
+	- # Prospecting
+		- Give at the least 10% of your time to prospect new clients
+	- # Contracts are Key
+		- Be extremely clear on the contract, it is the reference to which both you and the business will look upon to make sure the delivery has been made
+		- Sometimes clients are inconsistent, not always in bad faith,
+	- #

@@ -1,0 +1,4 @@
+- ## Questions
+	- There is somewhere that the job description is what you actually do?
+		- Today I do not know what is my job description.
+	-

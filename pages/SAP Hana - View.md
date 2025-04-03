@@ -1,0 +1,78 @@
+- #[[SAP]]
+- # Calculated View no SAP HANA
+	- O que é uma view?
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- A Calculate View é uma estrutura que permite que a manipulação dos dados de fontes como Tabelas e Outras View para disponibiliza-los ao cliente.
+		  logseq.order-list-type:: number
+		- Em prol do tempo fazemos as view de maneira gráfica pois é somente uma parte dos desenvolvimentos, em SQL é como se nos estivessemos fazendo um SELECT com tudo que ele pode ter JOIN, WHERE, GROUP BY, <Column_name> as <New column name>, HAVING, ORDER BY, etc. 
+		  logseq.order-list-type:: number
+	- Onde encontra-las no SAP Hana?
+	  logseq.order-list-type:: number
+	  collapsed:: true
+		- Na pasta Content Dentro de cada um dos sistemas.
+		  logseq.order-list-type:: number
+		    ![Alt text](image-1.png)
+		- O caminho para as view geralmente ira seguir este padrão: Software -> Ferramenta -> Modeling -> Calculation View -> View
+		  logseq.order-list-type:: number
+		    ![Alt text](image.png)
+		  3.	Nomeando as View
+		  
+		    a.	Todas as views devem começar por “CV” os espaços sempre devem ser dados por “_”, e os nomes devem ser o mais descritivos quanto possível.
+		  4.	Link de descarga do hana (eu vou providenciar)
+		  5.	Criacao de uma view do zero
+		  6.	Projections - Selecionar origem, subir campos especificos, deixar outros apagados
+		  7.	Data preview (tambem em NOs)
+		  8.	Trocar origem de uma projection (para otra view/tabela)
+		  9.	Abrir uma origem desde um NO, no caso daorigem ser view
+		  10.	Explicacao de Joins
+		  11.	Explicacao de Agregations
+		  12.	Explicacao de Ranks
+		  13.	Explicacao de Unions
+		  14.	Filtros fixos
+		  15.	Campos calculados
+		  16.	Input Parameters (performance)
+	- ADD to manual
+	  logseq.order-list-type:: number
+		- DONE uso do "propage to semántics" para subir um novo campo desde o origem ate a semántics sem precisar ativar manualmente me todos os NOs
+		  logseq.order-list-type:: number
+		  :LOGBOOK:
+		  CLOCK: [2023-12-12 Tue 12:18:43]--[2023-12-12 Tue 12:26:15] =>  00:07:32
+		  :END:
+		  <<<<<<< HEAD
+		- DONE desativar execucao automática do data preview, para conseguir colocar filtros adicionais antes de primeira execucao
+		  =======
+		- DONE desativar execucao automática do data preview, para conseguir colocar filtros adicionais antes de primeira execucao
+		  >>>>>>> 5055831ef4bcf6459a0a356dc457d8173df3b1e3
+		  logseq.order-list-type:: number
+		  :LOGBOOK:
+		  CLOCK: [2023-12-12 Tue 12:26:19]--[2023-12-12 Tue 13:45:12] =>  01:18:53
+		  :END:
+		  <<<<<<< HEAD
+		- DONE Nas explicacoes dos NOs rank, agregation, e unión, sería bom colocar coisas simples e colocar prints dos datas preview antes e depois de aplicar o NO
+		  logseq.order-list-type:: number
+		  :LOGBOOK:
+		  CLOCK: [2023-12-12 Tue 13:45:17]--[2024-01-04 Thu 14:21:21] =>  552:36:04
+		  :END:
+		- DONE E na parte dos IPs temos que explicar um pouco mais o funcionamiento deles, pois sao coisas muito importantes. Explicar a diferencia de un IP na semántics e um filtro na semántics:
+		  logseq.order-list-type:: number
+		- DONE Com os IPs conseguimos aplicar filtros con seus valores antes de carregar os dados das fontes. Com filtros, a view carga tudo e logo filtra. Por isso e que os IPs melhoram a performance. Porque nao cargan informacao que nao precisam.
+		  =======
+		- NOW Nas explicacoes dos NOs rank, agregation, e unión, sería bom colocar coisas simples e colocar prints dos datas preview antes e depois de aplicar o NO
+		  logseq.order-list-type:: number
+		  :LOGBOOK:
+		  CLOCK: [2023-12-12 Tue 13:45:17]
+		  :END:
+		- DONE E na parte dos IPs temos que explicar um pouco mais o funcionamiento deles, pois sao coisas muito importantes. Explicar a diferencia de un IP na semántics e um filtro na semántics:
+		  logseq.order-list-type:: number
+		- DONE Com os IPs conseguimos aplicar filtros con seus valores antes de carregar os dados das fontes. Com filtros, a view carga tudo e logo filtra. Por isso e que os IPs melhoram a performance. Porque nao cargan informacao que nao precisam.
+		  >>>>>>> 5055831ef4bcf6459a0a356dc457d8173df3b1e3
+		  logseq.order-list-type:: number
+		- DONE Tambem mostrar que se uma view fonte da view principal tem o mesmo IP, podemos pasar o IP para que seja IP da view fonte tambem.
+		  logseq.order-list-type:: number
+- # Util
+  1. Como encontrar onde as view são usadas.
+  2. Como encontrar a localização da view no SAP Hana
+  3. Como encontrar View a partir de Requests
+  4.
+-
