@@ -276,6 +276,10 @@
 			-
 		-
 	- # Planejamento
-		- Data provável do edital -> **SETEMBRO**
-		- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
-		- Data provável do TAF -> ****
+		- Objetiva:
+			- Data provável do edital -> **SETEMBRO**
+			- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
+			- Tempo:
+		- EAF
+			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
+-
