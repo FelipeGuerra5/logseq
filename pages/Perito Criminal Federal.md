@@ -26,25 +26,25 @@
 						- 7 Correspondência oficial (conforme Manual da Presidência da República e respectivas atualizações). 
 						       7.1 Adequação da linguagem ao tipo de documento. 
 						       7.2 Adequação do formato do texto ao gênero.  
-				NOÇÕES DE INFORMÁTICA: 
-				1 Noções de sistema operacional (ambientes Linux e Windows). 
-				2 Edição de textos, planilhas e apresentações (ambientes Microsoft Office e BrOffice). 
-				3 Redes de computadores. 
-					3.1 Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet. 
-					3.2 Programas de navegação (Microsoft Internet Explorer, Mozilla Firefox, Google Chrome e similares). 
-					3.3 Programas de correio eletrônico (Outlook Express, Mozilla Thunderbird e similares). 
-					3.4 Sítios de busca e pesquisa na Internet. 
-					3.5 Grupos de discussão. 
-					3.6 Redes sociais. 
-					3.7 Computação na nuvem (cloud computing). 
-				4 Conceitos de organização e de gerenciamento de informações, arquivos, pastas e programas. 
-				5 Segurança da informação. 
-					5.1 Procedimentos de segurança. 
-					5.2 Noções de vírus, worms e pragas virtuais. 
-					5.3 Aplicativos para segurança (antivírus, firewall, anti-spyware etc.). 
-					5.4 Procedimentos de backup. 
-					5.5 Armazenamento de dados na nuvem (cloud storage).  
-				
+				- NOÇÕES DE INFORMÁTICA: 
+					- 1 Noções de sistema operacional (ambientes Linux e Windows). 
+					- 2 Edição de textos, planilhas e apresentações (ambientes Microsoft Office e BrOffice). 
+					- 3 Redes de computadores. 
+						3.1 Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet. 
+						3.2 Programas de navegação (Microsoft Internet Explorer, Mozilla Firefox, Google Chrome e similares). 
+						3.3 Programas de correio eletrônico (Outlook Express, Mozilla Thunderbird e similares). 
+						3.4 Sítios de busca e pesquisa na Internet. 
+						3.5 Grupos de discussão. 
+						3.6 Redes sociais. 
+						3.7 Computação na nuvem (cloud computing). 
+					4 Conceitos de organização e de gerenciamento de informações, arquivos, pastas e programas. 
+					5 Segurança da informação. 
+						5.1 Procedimentos de segurança. 
+						5.2 Noções de vírus, worms e pragas virtuais. 
+						5.3 Aplicativos para segurança (antivírus, firewall, anti-spyware etc.). 
+						5.4 Procedimentos de backup. 
+						5.5 Armazenamento de dados na nuvem (cloud storage).  
+					
 						  ATUALIDADES: 
 						  Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia, suas inter-relações e suas vinculações históricas.  
 						  
