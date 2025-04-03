@@ -277,4 +277,5 @@
 		-
 	- # Planejamento
 		- Data provável do edital -> **SETEMBRO**
-		- Data provável da prova
+		- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
+		-
