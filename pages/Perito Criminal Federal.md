@@ -158,9 +158,9 @@
 					- 11 Lei nº 8.072/1990 (Lei dos Crimes Hediondos).
 					- 12 Lei nº 10.446/2002 (infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme).
 			- Especificos 70 itens
-			  collapsed:: true
 				- PERITO CRIMINAL FEDERAL/ÁREA 3:
 					- 1 Fundamentos de computação.
+					  collapsed:: true
 						- 1.1 Organização e arquitetura de computadores.
 						- 1.2 Componentes de um computador (hardware e software).
 						- 1.3 Sistemas de entrada, saída e armazenamento.
@@ -172,23 +172,27 @@
 						- 1.9 Sistemas de arquivos NTFS, FAT12, FAT16, FAT32, EXT2, EXT3: características, metadados e organização física.
 						- 1.10 Técnicas de recuperação de arquivos apagados.
 					- 2 Bancos de dados.
+					  collapsed:: true
 						- 2.1 Arquitetura, modelos lógicos e representação física.
 						- 2.2 Implementação de SGBDs relacionais.
 						- 2.3 Linguagem de consulta estruturada (SQL).
 						- 2.4 Transações: características e análise de logs.
 					- 3 Engenharia reversa.
+					  collapsed:: true
 						- 3.1 Técnicas e ferramentas de descompilação de programas.
 						- 3.2 Debuggers.
 						- 3.3 Análise de código malicioso: vírus, backdoors, keyloggers, worms e outros.
 						- 3.4 Ofuscação de código.
 						- 3.5 Compactadores de código executável.
 					- 4 Linguagens de programação.
+					  collapsed:: true
 						- 4.1 Noções de linguagens procedimentais: tipos de dados elementares e estruturados, funções e procedimentos.
 						- 4.2 Noções de linguagens de programação orientadas a objetos: objetos, classes, herança, polimorfismo, sobrecarga de métodos.
 						- 4.3 Estruturas de controle de fluxo de execução.
 						- 4.4 Montadores, compiladores, ligadores e interpretadores.
 						- 4.5 Desenvolvimento web: Servlets, JSP, Ajax, PHP, ASP.
 					- 5 Estruturas de dados e algoritmos.
+					  collapsed:: true
 						- 5.1 Estruturas de dados: listas, filas, pilhas e árvores.
 						- 5.2 Métodos de acesso, busca, inserção e ordenação em estruturas de dados.
 						- 5.3 Complexidade de algoritmos.
