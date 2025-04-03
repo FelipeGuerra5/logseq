@@ -1,8 +1,8 @@
 # Edital Anterior
 	- ![1-edital-10-2012-abertura](../assets/1-edital-10-2012-abertura-pdf.PDF_1743690680489_0.pdf)
 	- ## Prova
-	  collapsed:: true
 		- **Prova Objetiva:**
+		  collapsed:: true
 			- *Carater: Eliminatório Classificatório*
 			- Conhecimentos Basicos 50 itens
 				- LÍNGUA PORTUGUESA:
@@ -279,7 +279,9 @@
 		- Objetiva:
 			- Data provável do edital -> **SETEMBRO**
 			- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
-			- Tempo:
+			- Tempo: 6 meses
 		- EAF
 			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
+			- Tempo: 7 meses
+			-
 -
