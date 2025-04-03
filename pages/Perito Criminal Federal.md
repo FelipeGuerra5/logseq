@@ -266,10 +266,13 @@
 			- ![image.png](../assets/image_1743691226736_0.png)
 			- ![image.png](../assets/image_1743691283754_0.png)
 		- **Exame Médico**
+		  collapsed:: true
 			- *Caráter: Elimminatório*
 		- **Avaliação Psicologica**
+		  collapsed:: true
 			- *Caráter: Elimminatório*
 		- **Avaliação de Títulos**
+		  collapsed:: true
 			- *Caráter: Classificatório*
 			- ![image.png](../assets/image_1743691312676_0.png)
 			- ![image.png](../assets/image_1743691324850_0.png)
@@ -283,5 +286,11 @@
 		- EAF
 			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
 			- Tempo: 7 meses
+			- |Exercicio|minimo|max|
+			  |Barra Fixa|3|15|
+			  |Impulsão|||
+			  ||||
+			  ||||
+			  ||||
 			-
 -
