@@ -1,6 +1,7 @@
 # Edital Anterior
 	- ![1-edital-10-2012-abertura](../assets/1-edital-10-2012-abertura-pdf.PDF_1743690680489_0.pdf)
 	- ## Prova
+	  collapsed:: true
 		- **Prova Objetiva:**
 			- *Carater: Eliminatório Classificatório*
 			- Conhecimentos Basicos 50 itens
@@ -274,3 +275,6 @@
 			- ![image.png](../assets/image_1743691324850_0.png)
 			-
 		-
+	- # Planejamento
+		- Data provável do edital -> **SETEMBRO**
+		- Data provável da prova
