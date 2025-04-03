@@ -46,7 +46,8 @@
 						- 5.3 Aplicativos para segurança (antivírus, firewall, anti-spyware etc.).
 						- 5.4 Procedimentos de backup.
 						- 5.5 Armazenamento de dados na nuvem (cloud storage).
-				- ATUALIDADES:
+				- ATUALIDADES: 
+				  collapsed:: true
 					- Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia, suas inter-relações e suas vinculações históricas.  
 					   
 					  RACIOCÍNIO LÓGICO:
@@ -63,6 +64,7 @@
 					- 6 Operações com conjuntos.
 					- 7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
 				- NOÇÕES DE DIREITO PENAL:
+				  collapsed:: true
 					- 1 Aplicação da lei penal.
 						- 1.1 Princípios da legalidade e da anterioridade.
 						- 1.2 A lei penal no tempo e no espaço.
@@ -98,9 +100,9 @@
 						- 5.8 Pena de reclusão.
 						- 5.9 Pena de detenção e multa.
 						- 5.10 Pena de reclusão e multa.
-						- 5.11 Pena de detenção, reclusão e multa. 
-						  
-						  NOÇÕES DE DIREITO PROCESSUAL PENAL:
+						- 5.11 Pena de detenção, reclusão e multa.
+				- NOÇÕES DE DIREITO PROCESSUAL PENAL:
+				  collapsed:: true
 					- 1 Inquérito policial: histórico; natureza; conceito; finalidade;  
 					  características; fundamento; titularidade; grau de cognição; valor probatório; formas de instauração;  
 					  conclusão; prazos.
@@ -118,9 +120,9 @@
 					- 3 Restrição de liberdade.
 						- 3.1 Prisão em flagrante.
 						- 3.2 Prisão preventiva.
-						- 3.3 Prisão temporária (Lei nº 7.960/1989).  
-						  
-						  NOÇÕES DE DIREITO ADMINISTRATIVO:
+						- 3.3 Prisão temporária (Lei nº 7.960/1989).
+				- NOÇÕES DE DIREITO ADMINISTRATIVO:
+				  collapsed:: true
 					- 1 Estado, governo e administração pública: conceitos; elementos; poderes; organização; natureza; fins; princípios.
 					- 2 Organização administrativa da União: administração direta e indireta.
 					- 3 Agentes públicos.
@@ -129,9 +131,9 @@
 						- 3.3 Sanções aplicáveis aos agentes públicos nos casos de enriquecimento ilícito no exercício de mandato, cargo, emprego ou função da administração pública direta, indireta ou fundacional (Lei nº 8.429/1992).
 					- 4 Licitações: modalidades, dispensa e inexigibilidade (Lei nº 8.666/1993).
 					- 5 Poderes administrativos: poderes hierárquico, disciplinar e regulamentar; poder de polícia; uso e abuso do poder.
-					- 6 Controle e responsabilização da administração: controles administrativo, judicial e legislativo; responsabilidade civil do Estado. 
-					   
-					  NOÇÕES DE DIREITO CONSTITUCIONAL:
+					- 6 Controle e responsabilização da administração: controles administrativo, judicial e legislativo; responsabilidade civil do Estado.
+				- NOÇÕES DE DIREITO CONSTITUCIONAL:
+				  collapsed:: true
 					- 1 Direitos e garantias fundamentais.
 						- 1.1 Direitos e deveres individuais e coletivos.
 						- 1.2 Direitos sociais.
@@ -140,9 +142,9 @@
 						- 1.5 Partidos políticos.
 					- 2 Poder Executivo: atribuições e responsabilidades do presidente da República.
 					- 3 Defesa do Estado e das instituições democráticas: segurança pública; organização da segurança pública.
-					- 4 Ordem social: base e objetivos da ordem social; seguridade social; meio ambiente; família; criança, adolescente, idoso e índio.  
-					   
-					  LEGISLAÇÃO ESPECIAL:
+					- 4 Ordem social: base e objetivos da ordem social; seguridade social; meio ambiente; família; criança, adolescente, idoso e índio.
+				- LEGISLAÇÃO ESPECIAL:
+				  collapsed:: true
 					- 1 Lei nº 7.102/1983 (dispõe sobre segurança para estabelecimentos financeiros, estabelece normas para constituição e funcionamento das empresas particulares que exploram serviços de vigilância e de transporte de valores, e dá outras providências).
 					- 2 Lei nº 10.357/2001 (estabelece normas para controle e fiscalização sobre produtos químicos que direta ou indiretamente possam ser destinados à elaboração ilícita de substâncias entorpecentes, psicotrópicas ou que determinem dependência física ou psíquica, e dá outras providências).
 					- 3 Lei nº 6.815/1980 (define a situação jurídica do estrangeiro no Brasil e cria o Conselho Nacional de Imigração).
