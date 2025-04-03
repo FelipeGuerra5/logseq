@@ -146,36 +146,36 @@
 					- 7.4 Esteganografia.
 					- 7.5 Desenvolvimento seguro de aplicações: SDL, CLASP.
 				- 8 Segurança de redes de computadores.
-				- 8.1 Firewall, sistemas de detecção de intrusão (IDS), antivírus, NAT, VPN.
-				- 8.2 Monitoramento e análise de tráfego*; uso de sniffers; traffic shaping. *
-				- 8.3 Tráfego de dados de serviços e programas usados na Internet.
-				- 8.4 Segurança de redes sem fio: EAP, WEP, WPA, WPA2.
-				- 8.5 Ataques a redes de computadores.
+					- 8.1 Firewall, sistemas de detecção de intrusão (IDS), antivírus, NAT, VPN.
+					- 8.2 Monitoramento e análise de tráfego*; uso de sniffers; traffic shaping. *
+					- 8.3 Tráfego de dados de serviços e programas usados na Internet.
+					- 8.4 Segurança de redes sem fio: EAP, WEP, WPA, WPA2.
+					- 8.5 Ataques a redes de computadores.
 				- 9 Criptografia.
-				- 9.1 Noções de criptografia.
-				- 9.2 Sistemas criptográficos simétricos e de chave pública.
-				- 9.3 Certificação digital.
-				- 9.4 Modos de operação de cifras.
-				- 9.5 Algoritmos RSA, AES e RC4.
-				- 9.6 Hashes criptográficos: algoritmos MD-5 e SHA-1, colisões.
+					- 9.1 Noções de criptografia.
+					- 9.2 Sistemas criptográficos simétricos e de chave pública.
+					- 9.3 Certificação digital.
+					- 9.4 Modos de operação de cifras.
+					- 9.5 Algoritmos RSA, AES e RC4.
+					- 9.6 Hashes criptográficos: algoritmos MD-5 e SHA-1, colisões.
 				- 10 Sistema Operacional Windows.
-				- 10.1 Sistemas operacionais Windows: 2000, XP, 2003, Vista e Windows 7.
-				- 10.2 Gerenciamento de usuários em uma rede Microsoft.
-				- 10.3 Log de eventos do Windows.
-				- 10.4 Registro do Windows.
+					- 10.1 Sistemas operacionais Windows: 2000, XP, 2003, Vista e Windows 7.
+					- 10.2 Gerenciamento de usuários em uma rede Microsoft.
+					- 10.3 Log de eventos do Windows.
+					- 10.4 Registro do Windows.
 				- 11 Sistema Operacional Linux.
-				- 11.1 Características do sistema operacional Linux.
-				- 11.2 Gerenciamento de usuários.
-				- 11.3 Configuração, administração e logs de serviços: proxy, correio eletrônico, HTTP.
+					- 11.1 Características do sistema operacional Linux.
+					- 11.2 Gerenciamento de usuários.
+					- 11.3 Configuração, administração e logs de serviços: proxy, correio eletrônico, HTTP.
 				- 12 Sistemas operacionais móveis.
-				- 12.1 Sistema iOS.
-				- 12.2 Sistema Android.
+					- 12.1 Sistema iOS.
+					- 12.2 Sistema Android.
 				- 13 Governança de TI.
-				- 13.1 Modelo COBIT 4.1.
-				- 13.2 ITIL v3.
-				- 13.3 Gerenciamento de projetos com PMBOK.
-				- 13.4 Análise de pontos de função.
-				- 13.5 Atos normativos do MPOG/SLTI: Instrução Normativa nº 2/2008 (alterada pela Instrução Normativa nº 3/2009)*; Instrução Normativa nº 4/2010.*
+					- 13.1 Modelo COBIT 4.1.
+					- 13.2 ITIL v3.
+					- 13.3 Gerenciamento de projetos com PMBOK.
+					- 13.4 Análise de pontos de função.
+					- 13.5 Atos normativos do MPOG/SLTI: Instrução Normativa nº 2/2008 (alterada pela Instrução Normativa nº 3/2009)*; Instrução Normativa nº 4/2010.*
 			- Discursiva:
 				- texto narrativo dissertativo < 30 linhas
 				- Nota Max 13 pontos
