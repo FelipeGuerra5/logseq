@@ -288,9 +288,9 @@
 			- Tempo: 7 meses
 			- |Exercicio|minimo|max|
 			  |Barra Fixa|3|15|
-			  |Impulsão|||
-			  ||||
-			  ||||
+			  |Impulsão|2,14|2,45|
+			  |12 Min|2350|2710|
+			  |50|||
 			  ||||
 			-
 -
