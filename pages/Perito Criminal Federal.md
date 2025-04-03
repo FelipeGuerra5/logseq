@@ -283,6 +283,11 @@
 			- Data provável do edital -> **SETEMBRO**
 			- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
 			- Tempo: 6 meses
+			- Maior quantidade de questões e prova:
+				- Portugues
+				- Informatica
+				- Contabilidade
+				- Estatística
 		- EAF
 			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
 			- Tempo: 7 meses
