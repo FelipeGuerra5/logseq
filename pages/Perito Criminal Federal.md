@@ -30,75 +30,75 @@
 					- 1 Noções de sistema operacional (ambientes Linux e Windows). 
 					- 2 Edição de textos, planilhas e apresentações (ambientes Microsoft Office e BrOffice). 
 					- 3 Redes de computadores. 
-						3.1 Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet. 
-						3.2 Programas de navegação (Microsoft Internet Explorer, Mozilla Firefox, Google Chrome e similares). 
-						3.3 Programas de correio eletrônico (Outlook Express, Mozilla Thunderbird e similares). 
-						3.4 Sítios de busca e pesquisa na Internet. 
-						3.5 Grupos de discussão. 
-						3.6 Redes sociais. 
-						3.7 Computação na nuvem (cloud computing). 
-					4 Conceitos de organização e de gerenciamento de informações, arquivos, pastas e programas. 
-					5 Segurança da informação. 
-						5.1 Procedimentos de segurança. 
-						5.2 Noções de vírus, worms e pragas virtuais. 
-						5.3 Aplicativos para segurança (antivírus, firewall, anti-spyware etc.). 
-						5.4 Procedimentos de backup. 
-						5.5 Armazenamento de dados na nuvem (cloud storage).  
+						- 3.1 Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet. 
+						- 3.2 Programas de navegação (Microsoft Internet Explorer, Mozilla Firefox, Google Chrome e similares). 
+						- 3.3 Programas de correio eletrônico (Outlook Express, Mozilla Thunderbird e similares). 
+						- 3.4 Sítios de busca e pesquisa na Internet. 
+						- 3.5 Grupos de discussão. 
+						- 3.6 Redes sociais. 
+						- 3.7 Computação na nuvem (cloud computing). 
+					- 4 Conceitos de organização e de gerenciamento de informações, arquivos, pastas e programas. 
+					- 5 Segurança da informação. 
+						- 5.1 Procedimentos de segurança. 
+						- 5.2 Noções de vírus, worms e pragas virtuais. 
+						- 5.3 Aplicativos para segurança (antivírus, firewall, anti-spyware etc.). 
+						- 5.4 Procedimentos de backup. 
+						- 5.5 Armazenamento de dados na nuvem (cloud storage).  
 					
-						  ATUALIDADES: 
-						  Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia, suas inter-relações e suas vinculações históricas.  
+				ATUALIDADES: 
+					Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia, suas inter-relações e suas vinculações históricas.  
 						  
-						  RACIOCÍNIO LÓGICO: 
-						  1 Estruturas lógicas. 
-						  2 Lógica de argumentação: analogias, inferências, deduções e conclusões. 
-						  3 Lógica sentencial (ou proposicional). 
-						   3.1 Proposições simples e compostas. 
-						   3.2 Tabelas-verdade. 
-						   3.3 Equivalências. 
-						   3.4 Leis de De Morgan. 
-						   3.5 Diagramas lógicos. 
-						  4 Lógica de primeira ordem. 
-						  5 Princípios de contagem e probabilidade. 
-						  6 Operações com conjuntos. 
-						  7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.  
+				RACIOCÍNIO LÓGICO: 
+					1 Estruturas lógicas. 
+					2 Lógica de argumentação: analogias, inferências, deduções e conclusões. 
+					3 Lógica sentencial (ou proposicional). 
+						3.1 Proposições simples e compostas. 
+						3.2 Tabelas-verdade. 
+						3.3 Equivalências. 
+						3.4 Leis de De Morgan. 
+						3.5 Diagramas lógicos. 
+					4 Lógica de primeira ordem. 
+					5 Princípios de contagem e probabilidade. 
+					6 Operações com conjuntos. 
+					7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.  
 						  
-						  NOÇÕES DE DIREITO PENAL: 
-						   1 Aplicação da lei penal. 
-						       1.1 Princípios da legalidade e da anterioridade. 
-						       1.2 A lei penal no tempo e no espaço. 
-						       1.3 Tempo e lugar do crime. 
-						       1.4 Lei penal excepcional, especial e temporária. 
-						       1.5 Territorialidade e extraterritorialidade da lei penal. 
-						       1.6 Pena cumprida no estrangeiro.  
-						       1.7 Eficácia da sentença estrangeira. 
-						       1.8 Contagem de prazo. 
-						       1.9 Frações não computáveis da pena. 
-						       1.10 Interpretação da lei penal. 
-						       1.11 Analogia. 
-						       1.12 Irretroatividade da lei penal. 
-						       1.13 Conflito aparente de normas penais. 
-						   2 Infração penal: elementos; espécies; sujeito ativo e sujeito passivo. 
-						   3 O fato típico e seus elementos. 
-						       3.1 Crime consumado e tentado. 
-						       3.2 Pena de tentativa. 
-						       3.3 Concurso de crimes. 
-						       3.4 Ilicitude e causas de exclusão. 
-						       3.5 Punibilidade. 
-						       3.6 Excesso punível. 
-						       3.7 Culpabilidade: elementos e causas de exclusão. 
-						   4 Imputabilidade penal. 
-						   5 Crimes. 
-						       5.1 Crimes contra a pessoa. 
-						       5.2 Crimes contra o patrimônio. 
-						       5.3 Crimes contra a fé pública. 
-						       5.4 Crimes contra a administração pública. 
-						       5.5 Concurso de crimes. 
-						       5.6 Pena de multa. 
-						       5.7 Pena de detenção. 
-						       5.8 Pena de reclusão. 
-						       5.9 Pena de detenção e multa. 
-						       5.10 Pena de reclusão e multa. 
-						       5.11 Pena de detenção, reclusão e multa. 
+				NOÇÕES DE DIREITO PENAL: 
+					1 Aplicação da lei penal. 
+						1.1 Princípios da legalidade e da anterioridade. 
+						1.2 A lei penal no tempo e no espaço. 
+						1.3 Tempo e lugar do crime. 
+						1.4 Lei penal excepcional, especial e temporária. 
+						1.5 Territorialidade e extraterritorialidade da lei penal. 
+						1.6 Pena cumprida no estrangeiro.  
+						1.7 Eficácia da sentença estrangeira. 
+						1.8 Contagem de prazo. 
+						1.9 Frações não computáveis da pena. 
+						1.10 Interpretação da lei penal. 
+						1.11 Analogia. 
+						1.12 Irretroatividade da lei penal. 
+						1.13 Conflito aparente de normas penais. 
+					2 Infração penal: elementos; espécies; sujeito ativo e sujeito passivo. 
+					3 O fato típico e seus elementos. 
+						3.1 Crime consumado e tentado. 
+						3.2 Pena de tentativa. 
+						3.3 Concurso de crimes. 
+						3.4 Ilicitude e causas de exclusão. 
+						3.5 Punibilidade. 
+						3.6 Excesso punível. 
+						3.7 Culpabilidade: elementos e causas de exclusão. 
+					4 Imputabilidade penal. 
+					5 Crimes. 
+						5.1 Crimes contra a pessoa. 
+						5.2 Crimes contra o patrimônio. 
+						5.3 Crimes contra a fé pública. 
+						5.4 Crimes contra a administração pública. 
+						5.5 Concurso de crimes. 
+						5.6 Pena de multa. 
+						5.7 Pena de detenção. 
+						5.8 Pena de reclusão. 
+						5.9 Pena de detenção e multa. 
+						5.10 Pena de reclusão e multa. 
+						5.11 Pena de detenção, reclusão e multa. 
 						  
 						  NOÇÕES DE DIREITO PROCESSUAL PENAL: 
 						   1 Inquérito policial: histórico; natureza; conceito; finalidade;  
