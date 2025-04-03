@@ -45,8 +45,8 @@
 						- 5.4 Procedimentos de backup. 
 						- 5.5 Armazenamento de dados na nuvem (cloud storage).  
 					
-				ATUALIDADES: 
-					Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia, suas inter-relações e suas vinculações históricas.  
+				- ATUALIDADES: 
+					- Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia, suas inter-relações e suas vinculações históricas.  
 						  
 				RACIOCÍNIO LÓGICO: 
 					1 Estruturas lógicas. 
@@ -63,20 +63,20 @@
 					7 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.  
 						  
 				NOÇÕES DE DIREITO PENAL: 
-					1 Aplicação da lei penal. 
-						1.1 Princípios da legalidade e da anterioridade. 
-						1.2 A lei penal no tempo e no espaço. 
-						1.3 Tempo e lugar do crime. 
-						1.4 Lei penal excepcional, especial e temporária. 
-						1.5 Territorialidade e extraterritorialidade da lei penal. 
-						1.6 Pena cumprida no estrangeiro.  
-						1.7 Eficácia da sentença estrangeira. 
-						1.8 Contagem de prazo. 
-						1.9 Frações não computáveis da pena. 
-						1.10 Interpretação da lei penal. 
-						1.11 Analogia. 
-						1.12 Irretroatividade da lei penal. 
-						1.13 Conflito aparente de normas penais. 
+					- 1 Aplicação da lei penal. 
+						- 1.1 Princípios da legalidade e da anterioridade. 
+						- 1.2 A lei penal no tempo e no espaço. 
+						- 1.3 Tempo e lugar do crime. 
+						- 1.4 Lei penal excepcional, especial e temporária. 
+						- 1.5 Territorialidade e extraterritorialidade da lei penal. 
+						- 1.6 Pena cumprida no estrangeiro.  
+						- 1.7 Eficácia da sentença estrangeira. 
+						- 1.8 Contagem de prazo. 
+						- 1.9 Frações não computáveis da pena. 
+						- 1.10 Interpretação da lei penal. 
+						- 1.11 Analogia. 
+						- 1.12 Irretroatividade da lei penal. 
+						- 1.13 Conflito aparente de normas penais. 
 					2 Infração penal: elementos; espécies; sujeito ativo e sujeito passivo. 
 					3 O fato típico e seus elementos. 
 						3.1 Crime consumado e tentado. 
