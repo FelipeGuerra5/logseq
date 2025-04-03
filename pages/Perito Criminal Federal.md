@@ -159,7 +159,7 @@
 					- 12 Lei nº 10.446/2002 (infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme).
 			- Especificos 70 itens
 				- PERITO CRIMINAL FEDERAL/ÁREA 3:
-					- 1 Fundamentos de computação.
+					- **1 Fundamentos de computação.**
 					  collapsed:: true
 						- 1.1 Organização e arquitetura de computadores.
 						- 1.2 Componentes de um computador (hardware e software).
@@ -171,33 +171,34 @@
 						- 1.8 RAID: tipos, características e aplicações.
 						- 1.9 Sistemas de arquivos NTFS, FAT12, FAT16, FAT32, EXT2, EXT3: características, metadados e organização física.
 						- 1.10 Técnicas de recuperação de arquivos apagados.
-					- 2 Bancos de dados.
+					- **2 Bancos de dados.**
 					  collapsed:: true
 						- 2.1 Arquitetura, modelos lógicos e representação física.
 						- 2.2 Implementação de SGBDs relacionais.
 						- 2.3 Linguagem de consulta estruturada (SQL).
 						- 2.4 Transações: características e análise de logs.
-					- 3 Engenharia reversa.
+					- **3 Engenharia reversa.**
 					  collapsed:: true
 						- 3.1 Técnicas e ferramentas de descompilação de programas.
 						- 3.2 Debuggers.
 						- 3.3 Análise de código malicioso: vírus, backdoors, keyloggers, worms e outros.
 						- 3.4 Ofuscação de código.
 						- 3.5 Compactadores de código executável.
-					- 4 Linguagens de programação.
+					- **4 Linguagens de programação.**
 					  collapsed:: true
 						- 4.1 Noções de linguagens procedimentais: tipos de dados elementares e estruturados, funções e procedimentos.
 						- 4.2 Noções de linguagens de programação orientadas a objetos: objetos, classes, herança, polimorfismo, sobrecarga de métodos.
 						- 4.3 Estruturas de controle de fluxo de execução.
 						- 4.4 Montadores, compiladores, ligadores e interpretadores.
 						- 4.5 Desenvolvimento web: Servlets, JSP, Ajax, PHP, ASP.
-					- 5 Estruturas de dados e algoritmos.
+					- **5 Estruturas de dados e algoritmos.**
 					  collapsed:: true
 						- 5.1 Estruturas de dados: listas, filas, pilhas e árvores.
 						- 5.2 Métodos de acesso, busca, inserção e ordenação em estruturas de dados.
 						- 5.3 Complexidade de algoritmos.
 						- 5.4 Autômatos determinísticos e não-determinísticos.
-					- 6 Redes de computadores.
+					- **6 Redes de computadores.**
+					  collapsed:: true
 						- 6.1 Técnicas básicas de comunicação.
 						- 6.2 Técnicas de comutação de circuitos, pacotes e células.
 						- 6.3 Topologias de redes de computadores.
@@ -208,38 +209,45 @@
 							- 6.5.3 Redes peer-to-peer (P2P).
 						- 6.6 Comunicação sem fio: padrões 802.11*; protocolos 802.1x; bluetooth.
 						- 6.7 Computação em nuvem.
-					- 7 Segurança da informação.
+					- **7 Segurança da informação.**
+					  collapsed:: true
 						- 7.1 Normas NBR ISO/IEC nº 27001:2006 e nº 27002:2005.
 						- 7.2 Biometria.
 						- 7.3 Engenharia social.
 						- 7.4 Esteganografia.
 						- 7.5 Desenvolvimento seguro de aplicações: SDL, CLASP.
-					- 8 Segurança de redes de computadores.
+					- **8 Segurança de redes de computadores.**
+					  collapsed:: true
 						- 8.1 Firewall, sistemas de detecção de intrusão (IDS), antivírus, NAT, VPN.
 						- 8.2 Monitoramento e análise de tráfego*; uso de sniffers; traffic shaping.
 						- 8.3 Tráfego de dados de serviços e programas usados na Internet.
 						- 8.4 Segurança de redes sem fio: EAP, WEP, WPA, WPA2.
 						- 8.5 Ataques a redes de computadores.
-					- 9 Criptografia.
+					- **9 Criptografia.**
+					  collapsed:: true
 						- 9.1 Noções de criptografia.
 						- 9.2 Sistemas criptográficos simétricos e de chave pública.
 						- 9.3 Certificação digital.
 						- 9.4 Modos de operação de cifras.
 						- 9.5 Algoritmos RSA, AES e RC4.
 						- 9.6 Hashes criptográficos: algoritmos MD-5 e SHA-1, colisões.
-					- 10 Sistema Operacional Windows.
+					- **10 Sistema Operacional Windows.**
+					  collapsed:: true
 						- 10.1 Sistemas operacionais Windows: 2000, XP, 2003, Vista e Windows 7.
 						- 10.2 Gerenciamento de usuários em uma rede Microsoft.
 						- 10.3 Log de eventos do Windows.
 						- 10.4 Registro do Windows.
-					- 11 Sistema Operacional Linux.
+					- **11 Sistema Operacional Linux.**
+					  collapsed:: true
 						- 11.1 Características do sistema operacional Linux.
 						- 11.2 Gerenciamento de usuários.
 						- 11.3 Configuração, administração e logs de serviços: proxy, correio eletrônico, HTTP.
-					- 12 Sistemas operacionais móveis.
+					- **12 Sistemas operacionais móveis.**
+					  collapsed:: true
 						- 12.1 Sistema iOS.
 						- 12.2 Sistema Android.
-					- 13 Governança de TI.
+					- **13 Governança de TI.**
+					  collapsed:: true
 						- 13.1 Modelo COBIT 4.1.
 						- 13.2 ITIL v3.
 						- 13.3 Gerenciamento de projetos com PMBOK.
