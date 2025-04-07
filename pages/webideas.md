@@ -11,6 +11,7 @@
 			  logseq.order-list-type:: number
 		- View only the tasks for a specific type of block
 		  logseq.order-list-type:: number
-		- Have a feedback on if the amount of tasks for the day, week . . . will be bigger or smaller then the blocks of the given categories.
+		- Have a feedback on if the amount of tasks for the day, week . . . will be bigger or smaller then the blocks of the given categories
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
