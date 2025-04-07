@@ -15,5 +15,9 @@
 		  logseq.order-list-type:: number
 		- Have a feedback on if the amount of tasks for the day, week . . . will be bigger or smaller then the blocks of the given categories
 		  logseq.order-list-type:: number
+		- Click and drag tasks from the tasks panel to the block area
+		  logseq.order-list-type:: number
+		- click and drag tasks in the calendar.
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
