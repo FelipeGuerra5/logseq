@@ -21,5 +21,5 @@
 		  logseq.order-list-type:: number
 		- To have a "like is tomorrow" feature, for repetitive tasks: lets say, you will plan a given day, and there are some tasks that you do every day and today they are done, however you would like to them to be displayed while planning tomorrow, day after and so on. So we could plan each day and for each day the tasks would be displayed, but only for that specific day.
 		  logseq.order-list-type:: number
-	-
-		- logseq.order-list-type:: number
+		- In synthesis the calendar should be mix between the google calendar and morgen
+			- logseq.order-list-type:: number
