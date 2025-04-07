@@ -5,7 +5,7 @@
 		  logseq.order-list-type:: number
 		- To see the blocks and the tasks
 		  logseq.order-list-type:: number
-		- To create tasks with time at the end like:
+		- To create tasks with time at the end like: 15, 1h
 		  logseq.order-list-type:: number
 		- To create a task and insert or not to a block
 		  logseq.order-list-type:: number
