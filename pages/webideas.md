@@ -17,7 +17,7 @@
 		  logseq.order-list-type:: number
 		- Click and drag tasks from the tasks panel to the block area
 		  logseq.order-list-type:: number
-		- click and drag tasks in the calendar.
+		- Click and drag tasks in the calendar.
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
 		- logseq.order-list-type:: number
