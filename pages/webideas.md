@@ -19,6 +19,6 @@
 		  logseq.order-list-type:: number
 		- Click and drag tasks in the calendar.
 		  logseq.order-list-type:: number
-		- To have a "like is tomorrow" feature, for repetitive tasks:
+		- To have a "like is tomorrow" feature, for repetitive tasks: lets say, you will plan a given day, and there are some tasks that you do every day and today they are done, however you would like to them to be displayed
 		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
