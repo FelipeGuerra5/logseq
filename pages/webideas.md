@@ -7,4 +7,6 @@
 		  logseq.order-list-type:: number
 		- To create a task and insert or not to a block
 		  logseq.order-list-type:: number
+		- To create a task by clicking on the block "+" sign, and it would
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
