@@ -9,5 +9,6 @@
 		  logseq.order-list-type:: number
 			- To create a task on top the block delimitation and it would save the task with the block information
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+		- View only the tasks for a specific type of block,
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
