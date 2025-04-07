@@ -19,5 +19,6 @@
 		  logseq.order-list-type:: number
 		- Click and drag tasks in the calendar.
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+		- To have a li
+		  logseq.order-list-type:: number
 		- logseq.order-list-type:: number
