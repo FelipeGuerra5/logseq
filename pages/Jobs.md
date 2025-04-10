@@ -26,7 +26,10 @@
 		- ## Avaliação Pratica + Análise Documental
 			- Início: 17ABR25 as 15h00
 			- Fim: 19ABR25 as 23h59
-			- Linguagens: Java, PHP ou Javascript
+			- **Linguagens possiveis**: Java, PHP ou Javascript
+			- **Framework de teste**: Robot Framework ou Cypress.
+			- **DB**: POostgreSQL
+			-
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
