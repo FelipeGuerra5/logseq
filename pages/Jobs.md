@@ -20,8 +20,11 @@
 			- Início: 07ABR25
 			- Fim: 13ABR325
 		- ## Fit Cultural
-			- 14ABR25 as 08:00
-			- Fim: 15ABR25
+			- Início: 14ABR25 as 08:00
+			- Fim: 15ABR25 as 08:00
+			- Resultados: 15ABR25 as 17h00
+		- ## Avaliação Pratica + Análise Documental
+			-
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
