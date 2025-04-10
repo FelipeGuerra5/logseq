@@ -17,7 +17,11 @@
 	-
 	- [FIESC - Analista de Qualidade Software - Júnior](https://fiesc.pandape.infojobs.com.br/Detail?id=2054611)
 		- ## Aplicação:
-		- 07ABR25 - 13ABR325
+			- Início: 07ABR25
+			- Fim: 13ABR325
+		- ## Fit Cultural
+			- 14ABR25 as 08:00
+			- Fim: 15ABR25
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
