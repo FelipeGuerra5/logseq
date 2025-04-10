@@ -31,7 +31,7 @@
 			- **DB**: POostgreSQL
 			- **Deve utilizar Docker**
 			- **Deploy**: em Github, Google hangout para conferencia.
-			-
+			- **Requisitos obrigatórios:** Sistema Operacional Windows 7 ou superior ou Linux compatível com NPM v9 ou superior e PHP v8 ou superior; Mac compatível com NPM v9 ou superior e PHP v8 ou superior; 8 GB de memória RAM (recomendável 16GB); Acesso à internet; Processador recomendável: versões atuais no mercado; possuir uma conta no GitHub.
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
