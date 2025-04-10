@@ -12,11 +12,11 @@
 	- Remote.co
 	- FlexJobs
 	- Indeed
+	- [FIESC](https://fiesc.pandape.infojobs.com.br/)
 	-
 	-
-	-
-	- [Analista de Qualidade Software - Júnior](https://fiesc.pandape.infojobs.com.br/Detail?id=2054611)
-	-
+	- [FIESC - Analista de Qualidade Software - Júnior](https://fiesc.pandape.infojobs.com.br/Detail?id=2054611)
+		- Aplicação:
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
 		- https://cadernonacional.com.br/vagas/desenvolvedor-front-end-react-junior/18436922?utm_medium=linkedin&utm_campaign=feed_linkedin
