@@ -16,7 +16,9 @@
 	-
 	-
 	- [FIESC - Analista de Qualidade Software - Júnior](https://fiesc.pandape.infojobs.com.br/Detail?id=2054611)
-		- Aplicação:
+		- ## Aplicação:
+		- 07ABR25 - 13ABR325
+		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
 		- https://cadernonacional.com.br/vagas/desenvolvedor-front-end-react-junior/18436922?utm_medium=linkedin&utm_campaign=feed_linkedin
