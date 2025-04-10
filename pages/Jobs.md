@@ -24,7 +24,9 @@
 			- Fim: 15ABR25 as 08:00
 			- Resultados: 15ABR25 as 17h00
 		- ## Avaliação Pratica + Análise Documental
-			-
+			- Início: 17ABR25 as 15h00
+			- Fim: 19ABR25 as 23h59
+			- Linguagens: Java, PHP ou Javascript
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
