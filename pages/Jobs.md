@@ -32,6 +32,11 @@
 			- **Deve utilizar Docker**
 			- **Deploy**: em Github, Google hangout para conferencia.
 			- **Requisitos obrigatórios:** Sistema Operacional Windows 7 ou superior ou Linux compatível com NPM v9 ou superior e PHP v8 ou superior; Mac compatível com NPM v9 ou superior e PHP v8 ou superior; 8 GB de memória RAM (recomendável 16GB); Acesso à internet; Processador recomendável: versões atuais no mercado; possuir uma conta no GitHub.
+		- ## Entrevistas
+			- Início: 24ABR25
+			- Fim: 25ABR25
+			- **Tempo estimado:** 30 minutos, sendo 15 minutos para apresentação do estudo de caso e 15 minutos para questionamentos da banca.
+			- O cronograma com os horários individuais será publicado como 'Informações Complementares', após o Estudo de Caso.
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
