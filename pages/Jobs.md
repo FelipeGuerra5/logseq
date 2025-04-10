@@ -37,7 +37,10 @@
 			- Fim: 25ABR25
 			- **Tempo estimado:** 30 minutos, sendo 15 minutos para apresentação do estudo de caso e 15 minutos para questionamentos da banca.
 			- O cronograma com os horários individuais será publicado como 'Informações Complementares', após o Estudo de Caso.
-		-
+		- ## Resultados
+			- Divulgação do resultado: 29/04/2025 às 13h00.
+			- Divulgação do Resultado: 29/04/2025 às 17h00 -> FInal
+			-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
 		- https://cadernonacional.com.br/vagas/desenvolvedor-front-end-react-junior/18436922?utm_medium=linkedin&utm_campaign=feed_linkedin
