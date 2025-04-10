@@ -1,6 +1,7 @@
 # Platforms
 	- [BairesDev](https://applicants.bairesdev.com/application/11862802?lang=en)
 	- [Turing](https://www.turing.com/)
+	  collapsed:: true
 		- Profile
 			- About
 				- As a development professional with nearly three years of experience, I have acquired extensive technical skills and made significant contributions across various projects. My proficiency is in WEB development with Typescript, React and Node.js, as well as database management with SAP HANA. I have also become adept at using tools and methodologies such as Git, GitHub, and Agile Methods, primarily utilizing Jira for project management.
@@ -11,6 +12,10 @@
 	- Remote.co
 	- FlexJobs
 	- Indeed
+	-
+	-
+	-
+	- [Analista de Qualidade Software - Júnior](https://fiesc.pandape.infojobs.com.br/Detail?id=2054611)
 	-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
 	  collapsed:: true
