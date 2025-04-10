@@ -29,6 +29,8 @@
 			- **Linguagens possiveis**: Java, PHP ou Javascript
 			- **Framework de teste**: Robot Framework ou Cypress.
 			- **DB**: POostgreSQL
+			- **Deve utilizar Docker**
+			- Deploy em Github, Google hangout para conferencia.
 			-
 		-
 	- Desenvolvedor Front End React Junior - São Paulo / SP - Presencial
