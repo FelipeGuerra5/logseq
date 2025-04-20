@@ -19,7 +19,6 @@ collapsed:: true
 	- ## D
 	-
 - # Measurements
-  collapsed:: true
 	- | Body Part | 17FEV25 (cm) | 31MMAR25 (cm) | Dif (cm) |
 	  |Neck|34|||
 	  |Torax|94|||
