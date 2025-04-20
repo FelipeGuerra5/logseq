@@ -42,9 +42,9 @@ collapsed:: true
 		  |![17FEV25 (1).jpg](../assets/17FEV25_(1)_1739837514963_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
 		  |![17FEV25 (2).jpg](../assets/17FEV25_(2)_1739837526140_0.jpg) | ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
 		  |![17FEV25 (3).jpg](../assets/17FEV25_(3)_1739837543724_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (4).jpg](../assets/17FEV25_(4)_1739837564726_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
+		  |![17FEV25 (4).jpg](../assets/17FEV25_(4)_1739837564726_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
 		  |![17FEV25 (5).jpg](../assets/17FEV25_(5)_1739837569988_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
 		  |![17FEV25 (6).jpg](../assets/17FEV25_(6)_1739837573537_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
 		  |![17FEV25 (7).jpg](../assets/17FEV25_(7)_1739837578171_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (8).jpg](../assets/17FEV25_(8)_1739837581270_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
+		  |![17FEV25 (8).jpg](../assets/17FEV25_(8)_1739837581270_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
 		-
