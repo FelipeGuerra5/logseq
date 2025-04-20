@@ -19,7 +19,6 @@ collapsed:: true
 	- ## D
 	-
 - # Measurements
-  collapsed:: true
 	- | Body Part | 17FEV25 (cm) | 31MMAR25 (cm) | Dif (cm) |
 	  |Neck|34|||
 	  |Torax|94|||
@@ -37,6 +36,7 @@ collapsed:: true
 		-
 	-
 - # Photos
+  collapsed:: true
 	- Start
 		- |17FEV25| 31MAR25|
 		  |![17FEV25 (1).jpg](../assets/17FEV25_(1)_1739837514963_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
