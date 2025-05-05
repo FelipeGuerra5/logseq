@@ -260,6 +260,7 @@
 			- Duração: 5 horas
 			- Nota Max 120 pontos
 		- **TAF**
+		  collapsed:: true
 			- *Caráter: Elimminatório*
 			- ![image.png](../assets/image_1743691172296_0.png)
 			- ![image.png](../assets/image_1743691190675_0.png)
