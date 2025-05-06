@@ -279,8 +279,34 @@
 			- ![image.png](../assets/image_1743691324850_0.png)
 			-
 		-
+	- # Planejamento Perito
+		- ### Distribuição Aproximada de Questões por Matéria
+		- #### Conhecimentos Básicos (50 questões)
+		- **Língua Portuguesa**: 11 questões
+		- **Raciocínio Lógico**: 5 questões
+		- **Noções de Informática**: 8 questões
+		- **Noções de Direito Constitucional**: 4 questões
+		- **Noções de Direito Administrativo**: 4 questões
+		- **Noções de Direito Penal**: 5 questões
+		- **Noções de Direito Processual Penal**: 3 questões
+		- **Redação Oficial**: 1 questão
+		- **Atualidades**: 9 questões
+		- #### Conhecimentos Específicos (70 questões)
+		- **Segurança da Informação**: 16 questões
+		- **Redes de Computadores**: 15 questões
+		- **Banco de Dados**: 14 questões
+		- **Algoritmos e Estrutura de Dados**: 10 questões
+		- **Arquitetura de Computadores**: 9 questões
+		- **Sistemas Operacionais**: 7 questões
+		- **Programação**: 5 questões
+		- **Arquitetura de Software**: 1 questão
+		- **Matemática**: 1 questão
+		- **Sistemas de Informação**: 1 questão
+		  
+		  Esses dados são baseados em análises de provas anteriores e podem variar de acordo com o concurso específico. Para uma preparação eficaz, é recomendável utilizar materiais de estudo específicos para a área escolhida. Por exemplo, para a Área 3 (Tecnologia da Informação), materiais como o "Pacote Completo para Perito Criminal - Área 3 - Tecnologia da Informação" podem ser úteis.
 	- # Planejamento
 		- Objetiva:
+		  collapsed:: true
 			- Data provável do edital -> **SETEMBRO**
 			- Data provável da prova -> **OUTUBRO** - **NOVEMBRO**
 			- Tempo: 6 meses
@@ -292,6 +318,7 @@
 				  |Estatística|10%|
 				  |Rac. Lógico|10%|
 		- EAF
+		  collapsed:: true
 			- Data provável do TAF -> **DEZEMBRO** - **JANEIRO**
 			- Tempo: 7 meses
 			- |Exercicio|Minimo|Maximo|
