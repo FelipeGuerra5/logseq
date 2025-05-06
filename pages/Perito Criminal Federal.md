@@ -330,4 +330,6 @@ collapsed:: true
 			  ||||
 			-
 - # 2025
-	- ##
+	- ## Estudos
+		- [[PCF - Conhecimentos Específicos]]
+		-
