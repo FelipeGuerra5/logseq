@@ -1,6 +1,8 @@
 # Edital Anterior
+collapsed:: true
 	- ![1-edital-10-2012-abertura](../assets/1-edital-10-2012-abertura-pdf.PDF_1743690680489_0.pdf)
 	- ## Prova
+	  collapsed:: true
 		- **Prova Objetiva:**
 		  collapsed:: true
 			- *Carater: Eliminatório Classificatório*
@@ -280,6 +282,7 @@
 			-
 		-
 	- # Planejamento Perito
+	  collapsed:: true
 		- ### Distribuição Aproximada de Questões por Matéria
 		- #### Conhecimentos Básicos (50 questões)
 			- **Língua Portuguesa**: 11 questões
@@ -326,4 +329,5 @@
 			  |50m Nado|41 Seg|29 Seg|
 			  ||||
 			-
--
+- # 2025
+	- ##
