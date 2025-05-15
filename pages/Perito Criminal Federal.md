@@ -1,8 +1,6 @@
 # Edital Anterior
-collapsed:: true
 	- ![1-edital-10-2012-abertura](../assets/1-edital-10-2012-abertura-pdf.PDF_1743690680489_0.pdf)
 	- ## Prova
-	  collapsed:: true
 		- **Prova Objetiva:**
 		  collapsed:: true
 			- *Carater: Eliminatório Classificatório*
