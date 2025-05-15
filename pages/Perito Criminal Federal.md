@@ -2,7 +2,6 @@
 	- ![1-edital-10-2012-abertura](../assets/1-edital-10-2012-abertura-pdf.PDF_1743690680489_0.pdf)
 	- ## Prova
 		- **Prova Objetiva:**
-		  collapsed:: true
 			- *Carater: Eliminatório Classificatório*
 			- Conhecimentos Basicos 50 itens
 				- LÍNGUA PORTUGUESA:
@@ -161,7 +160,6 @@
 			- Especificos 70 itens
 				- PERITO CRIMINAL FEDERAL/ÁREA 3:
 					- **1 Fundamentos de computação.**
-					  collapsed:: true
 						- 1.1 Organização e arquitetura de computadores.
 						- 1.2 Componentes de um computador (hardware e software).
 						- 1.3 Sistemas de entrada, saída e armazenamento.
@@ -186,7 +184,6 @@
 						- 3.4 Ofuscação de código.
 						- 3.5 Compactadores de código executável.
 					- **4 Linguagens de programação.**
-					  collapsed:: true
 						- 4.1 Noções de linguagens procedimentais: tipos de dados elementares e estruturados, funções e procedimentos.
 						- 4.2 Noções de linguagens de programação orientadas a objetos: objetos, classes, herança, polimorfismo, sobrecarga de métodos.
 						- 4.3 Estruturas de controle de fluxo de execução.
