@@ -136,4 +136,4 @@
 		  datilografia ou impressão por computador.
 			- O **exame caligráfico** ou **grafotécnico** é um tipo de **perícia documentoscópica** que tem por objetivo **verificar a autenticidade ou autoria de uma escrita manuscrita**, por meio da **comparação técnica entre um texto ou assinatura duvidosa e padrões gráficos sabidamente autênticos**.
 			- Sendo assim pode ser utilizada para comparação de computadores e máquinas de escrever, para analise de modelo, e maquinas utilizados na confecção do documento analisado.
-	- ## Questão
+	- ## Questão 34
