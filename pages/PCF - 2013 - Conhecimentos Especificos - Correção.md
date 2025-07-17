@@ -128,4 +128,5 @@
 			  | "declaração de ilegalidade de prova ilícita" | ✅ | Correto: pode ocorrer, sim |
 			  | "gera nulidade do processo" | ❌ | Errado: **pode gerar nulidade parcial**, mas **não necessariamente do processo todo** |
 			  | "com a absolvição do réu" | ❌ | Errado: **a absolvição só ocorre se, com as provas restantes, não houver base para condenação**. A ilicitude da prova **não garante absolvição automática** |
-	-
+	- ## Questão 32
+		-
