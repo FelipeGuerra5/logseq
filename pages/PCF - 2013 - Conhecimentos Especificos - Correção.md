@@ -73,5 +73,14 @@
 			- O valor do transporte é de competencia do município, a não ser, em casos de transporte intermunicipal ou metropolitano.
 			- A Tarifa de onibus urbanos é feito por decreto do poder executivo municipal, Prefeito. não por lei aprovada em Camara.
 	- ## Questão 24
-		-
+		- No que concerne a infração penal, fato típico e seus elementos,
+		  formas consumadas e tentadas do crime, culpabilidade, ilicitude e
+		  imputabilidade penal, julgue os itens que se seguem.
+		  
+		  24 A responsabilidade penal da pessoa jurídica, indiscutível na
+		  jurisprudência, não exclui a responsabilidade de pessoa física,
+		  autora, coautora ou partícipe do mesmo fato delituoso, o que
+		  caracteriza o sistema paralelo de imputação ou da dupla
+		  imputação.
+			- Embora a empresa possa ser responsabilizada, o diretor também pode ser responsabilizado por
 		-
