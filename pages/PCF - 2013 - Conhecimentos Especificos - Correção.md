@@ -40,4 +40,21 @@
 		  quantidade maior de programas.
 			- No caso de memória virtual, Win => Paginação ou Linux => Swap o desempenho dos programas irá cair o que interfere diretamente o parelalismop e  e distribuição dos programas.
 	- ## Questão 13
+	  collapsed:: true
+		- 13 Considere que um usuário necessite utilizar diferentes
+		  dispositivos computacionais, permanentemente conectados
+		  à Internet, que utilizem diferentes clientes de email, como o
+		  Outlook Express e Mozilla Thunderbird. Nessa situação,
+		  o usuário deverá optar pelo uso do protocolo IMAP
+		  (Internet message access protocol), em detrimento do POP3
+		  (post office protocol), pois isso permitirá a ele manter o
+		  conjunto de emails no servidor remoto ou, alternativamente,
+		  fazer o download das mensagens para o computador em uso.
+			- ## ✅ Resumo final:
+			  
+			  | Protocolo | **Mantém no servidor?** | **Sincroniza entre dispositivos?** | Ideal para |
+			  | ---- | ---- | ---- |
+			  | **IMAP** | ✅ Sim | ✅ Sim | Quem usa vários dispositivos |
+			  | **POP3** | ❌ Não (por padrão) | ❌ Não | Quem usa um só dispositivo e quer armazenar localmente |
+	- ## Questão 15
 		-
