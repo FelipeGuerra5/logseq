@@ -98,4 +98,6 @@
 				  | **Corrupção (Lei Anticorrupção)** | ✅ Sim, mas apenas civil e administrativamente | Lei 12.846/2013 |
 				  | **Corrupção (penal)** | 🚫 Ainda não há previsão penal explícita, mas há debate | Convenções e tratados internacionais |
 		-
-	- ## Questão 2
+	- ## Questão 26
+		- A tentativa existe quando (art. 14, II do Código Penal):
+			- o agente inicia a execução do crime, mmas este não se consuma por circunstância alheias à sua vontade.
