@@ -112,6 +112,7 @@
 		-
 	- ## Questão 31
 	  background-color:: red
+	  collapsed:: true
 		- A respeito da prova no processo penal, julgue os itens
 		  subsequentes.
 		  
@@ -120,5 +121,11 @@
 		  constitucionais ou legais é a nulidade do processo com a
 		  absolvição do réu.
 			- **A declaração de ilegalidade da prova não acarreta na nulidade do processo ou ainda na absolvição do réu.**
-			-
--
+			- ## ❌ 3. Por que a afirmativa está errada?
+			  
+			  | Parte da afirmação | Está certa? | Comentário |
+			  | ---- | ---- | ---- |
+			  | "declaração de ilegalidade de prova ilícita" | ✅ | Correto: pode ocorrer, sim |
+			  | "gera nulidade do processo" | ❌ | Errado: **pode gerar nulidade parcial**, mas **não necessariamente do processo todo** |
+			  | "com a absolvição do réu" | ❌ | Errado: **a absolvição só ocorre se, com as provas restantes, não houver base para condenação**. A ilicitude da prova **não garante absolvição automática** |
+	-
