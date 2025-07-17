@@ -10,7 +10,8 @@
 	- The screen is substituting the real needs of the mind, therefor becoming a #YouTube expert is not only demising to my work, social life and sleeping patterns but it self is a cause of the problem.
 	- As it progresses the need to the experience is increasing and the motivation to actually do things in real life decreases.
 - # Decay of motivational Drive
-	- Dopamine creates a re
+	- Dopamine creates a reinforcement on what we did, then the brain will manifest in craving the need for the same thing again.
+	-
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
