@@ -144,5 +144,13 @@
 			- É uma medida provisória que é aplicada com o fim de investigar crimes graves antes da condenação. Não a pena em si. são de geralmente 5 dias prorrogáveis até 30, em casos excepcionais.
 			-
 	- ## Questão 35
-		- 24 horas é o prazo para **"Audiencia de Custódia"** **Apresentação perante Juiz** e não para comunicação.
+	  collapsed:: true
+		- 35 O CPP dispõe expressamente que na ocorrência de prisão em
+		  flagrante tem a autoridade policial o dever de comunicar o fato,
+		  em até vinte e quatro horas, ao juízo competente, ao Ministério
+		  Público, à família do preso ou à pessoa por ele indicada e,
+		  ainda, à defensoria pública, se o aprisionado não indicar
+		  advogado no ato da autuação.
+			- 4 horas é o prazo para **"Audiencia de Custódia"** **Apresentação perante Juiz** e não para comunicação.
+	- ## Questão 37
 		-
