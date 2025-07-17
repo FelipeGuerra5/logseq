@@ -15,8 +15,10 @@
 	- **Dopamine creates** a **behaviour reinforcement** on what we did, then the brain will manifest in **craving** the need for the same thing again.
 	- Dopamine a a budget for a day, (stored in the vesicles) so if we use it all at once it will end and we cannot enjoy making something
 	- *Note: if the dopamine is depleted we can still work, however with no fulfilment of happiness, is not a good thing reinforced*
-- # Executive Disfunction
-	-
+- # Executive Dysfunction
+	- Frontal Lobe:
+		- Plan + action
+		- Impulse Control
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
