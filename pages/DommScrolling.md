@@ -19,6 +19,7 @@
 	- Frontal Lobe:
 		- Plan + Action
 		- Impulse Control
+		- Takes a abstract goal and break down in pieces to make it achivable
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
