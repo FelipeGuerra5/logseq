@@ -153,4 +153,7 @@
 		  advogado no ato da autuação.
 			- 4 horas é o prazo para **"Audiencia de Custódia"** **Apresentação perante Juiz** e não para comunicação.
 	- ## Questão 37
-		-
+		- 37 As penas aplicadas a quem comete ato de improbidade não
+		  podem ser cumuladas, uma vez que estaria o servidor sendo
+		  punido duas vezes pelo mesmo ato.
+			- Podem sim, não somente por serem cumulativas na esfera administrativa, como
