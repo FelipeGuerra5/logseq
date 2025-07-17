@@ -156,5 +156,5 @@
 		- 37 As penas aplicadas a quem comete ato de improbidade não
 		  podem ser cumuladas, uma vez que estaria o servidor sendo
 		  punido duas vezes pelo mesmo ato.
-			- Podem sim, não somente por serem cumulativas na esfera administrativa, como perda de funçãao, multa civil, proibição de contratar com o poder público, e receber benefícios fiscais, como também em diferentes esferas: Administrativa, cível e penal.
+			- Podem sim, não somente por serem cumulativas na esfera administrativa, como _perda de funçãao, multa civil, proibição de contratar com o poder público, e receber benefícios fiscais_ , como também em diferentes esferas: **Administrativa, cível e penal**.
 			-
