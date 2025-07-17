@@ -1,8 +1,8 @@
 - #PCF #federal #perito #cebraspe #cespe
 - # Correção
 	- ## Questão 6
-		- **Com relação à função e à linguagem das correspondências oficiais,
-		  julgue os itens seguintes.**
+	  collapsed:: true
+		- **Com relação à função e à linguagem das correspondências oficiais, julgue os itens seguintes.**
 			- 6 Para comunicação entre unidades de um mesmo órgão,
 			  emprega-se o memorando, expediente cuja tramitação
 			  apresenta como principais características a rapidez e a
@@ -15,9 +15,12 @@
 				- **Foco técnico ou administrativo**
 			- Obs: **Ofício** deve ser utilizado para comunicação entre orgãos distintos.
 	- ## Questão 9
-		- A instalação e a atualização de programas na plataforma Linux
+		- 9 A instalação e a atualização de programas na plataforma Linux
 		  a serem efetuadas com o comando aptget, podem ser
 		  acionadas por meio das opções install e upgrade,
 		  respectivamente. Em ambos os casos, é indispensável o uso
 		  do comando sudo, ou equivalente, se o usuário não for
 		  administrador do sistema.
+		- ### Análise:
+			- `apt-get install <pacote>` -> instala um novo pacote
+			- `apt-get`
