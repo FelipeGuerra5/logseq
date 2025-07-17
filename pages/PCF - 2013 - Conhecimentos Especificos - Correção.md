@@ -57,14 +57,17 @@
 			  | **IMAP** | ✅ Sim | ✅ Sim | Quem usa vários dispositivos |
 			  | **POP3** | ❌ Não (por padrão) | ❌ Não | Quem usa um só dispositivo e quer armazenar localmente |
 	- ## Questão 15
+	  collapsed:: true
 		- Memória de eventos das atualidades.
 	- ## Questão 16
+	  collapsed:: true
 		- Memoria de eventos da atualidades.
 		- O congresso nacional, **Poder Legislativo**, detém o poder de inciar emendas constitucionais
 		- Uma **Assembleia Constituinte** que significa "Refazer a constituição" não pode ser feito apenas pelo Presidente da Republica **Poder Executivo**
 		- **Assembleia Constituinte Exclusiva** é técnicamente muito forte, significaria criar um novo orgão legislativo exclusivamente para reescrever a constituição. e apenas alguns protestos não teriam a força necessaria para isso, pois acontece, em geral, após rupturas institucionais como gerra, ditaduras, etc.
 		  background-color:: red
 	- ## Questão 17
+	  collapsed:: true
 		- 17 Nas duas maiores cidades brasileiras — São Paulo e Rio de
 		  Janeiro —, o problema das tarifas do transporte público
 		  permanece insolúvel visto que a fixação desses valores
@@ -73,6 +76,7 @@
 			- O valor do transporte é de competencia do município, a não ser, em casos de transporte intermunicipal ou metropolitano.
 			- A Tarifa de onibus urbanos é feito por decreto do poder executivo municipal, Prefeito. não por lei aprovada em Camara.
 	- ## Questão 24
+	  collapsed:: true
 		- No que concerne a infração penal, fato típico e seus elementos,
 		  formas consumadas e tentadas do crime, culpabilidade, ilicitude e
 		  imputabilidade penal, julgue os itens que se seguem.
@@ -94,3 +98,4 @@
 				  | **Corrupção (Lei Anticorrupção)** | ✅ Sim, mas apenas civil e administrativamente | Lei 12.846/2013 |
 				  | **Corrupção (penal)** | 🚫 Ainda não há previsão penal explícita, mas há debate | Convenções e tratados internacionais |
 		-
+	- ## Questão 2
