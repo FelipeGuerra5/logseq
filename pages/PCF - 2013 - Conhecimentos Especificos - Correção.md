@@ -71,5 +71,7 @@
 		  depende de lei a ser votada pelas respectivas câmaras
 		  municipais e assembleias legislativas estaduais.
 			- O valor do transporte é de competencia do município, a não ser, em casos de transporte intermunicipal ou metropolitano.
-			- A Tarifa de onibus urbanos é feito por decreto
+			- A Tarifa de onibus urbanos é feito por decreto do poder executivo municipal, Prefeito. não por lei aprovada em Camara.
+	- ## Questão 24
+		-
 		-
