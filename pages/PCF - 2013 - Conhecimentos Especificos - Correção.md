@@ -129,4 +129,5 @@
 			  | "gera nulidade do processo" | ❌ | Errado: **pode gerar nulidade parcial**, mas **não necessariamente do processo todo** |
 			  | "com a absolvição do réu" | ❌ | Errado: **a absolvição só ocorre se, com as provas restantes, não houver base para condenação**. A ilicitude da prova **não garante absolvição automática** |
 	- ## Questão 32
-		-
+		- O **exame caligráfico** ou **grafotécnico** é um tipo de **perícia documentoscópica** que tem por objetivo **verificar a autenticidade ou autoria de uma escrita manuscrita**, por meio da **comparação técnica entre um texto ou assinatura duvidosa e padrões gráficos sabidamente autênticos**.
+		- Sendo assim pode ser utilizada para comparação de
