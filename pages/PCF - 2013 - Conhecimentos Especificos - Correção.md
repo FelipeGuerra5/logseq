@@ -64,5 +64,11 @@
 		- Uma **Assembleia Constituinte** que significa "Refazer a constituição" não pode ser feito apenas pelo Presidente da Republica **Poder Executivo**
 		- **Assembleia Constituinte Exclusiva** é técnicamente muito forte, significaria criar um novo orgão legislativo exclusivamente para reescrever a constituição. e apenas alguns protestos não teriam a força necessaria para isso, pois acontece, em geral, após rupturas institucionais como gerra, ditaduras, etc.
 		  background-color:: red
-	- ## Questão
+	- ## Questão 17
+		- 17 Nas duas maiores cidades brasileiras — São Paulo e Rio de
+		  Janeiro —, o problema das tarifas do transporte público
+		  permanece insolúvel visto que a fixação desses valores
+		  depende de lei a ser votada pelas respectivas câmaras
+		  municipais e assembleias legislativas estaduais.
+			- O valor do transporte é de
 		-
