@@ -2,5 +2,6 @@
 - # Apps
 	- Apps are fulfilling the basic needs so I can not face my life and substitute the need of actual life with virtual things.
 	- The **big problem** is that this makes the brain not wanting to resolve the problem in real life, for is "already taken care of". For the brain it almost look the same.
-	- e. g. => although I need real food the body will accept the use of simple sweets and only signal to stop hunger, however depri
+	- e. g. => although I need real food the body will accept the use of simple sweets and only signal to stop hunger, however deprived of actual nutrients
+	-
 -
