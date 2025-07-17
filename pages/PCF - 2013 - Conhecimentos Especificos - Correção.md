@@ -139,4 +139,4 @@
 	- ## Questão 34
 		- **Prisão temporaria**
 		  background-color:: red
-			- É o período em que um agente pode
+			- É uma medida provisória que é aplicada com o fim de investigar crimes graves antes da condenação.
