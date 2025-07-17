@@ -82,5 +82,6 @@
 		  autora, coautora ou partícipe do mesmo fato delituoso, o que
 		  caracteriza o sistema paralelo de imputação ou da dupla
 		  imputação.
-			- Embora a empresa possa ser responsabilizada, o diretor também pode ser responsabilizado por
+			- Cabe pena para a pessoa jurídica em casos de crimes ambientais,
+			- Embora a empresa possa ser responsabilizada, o diretor também pode ser responsabilizado por autoria ou coaturia...
 		-
