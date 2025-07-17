@@ -62,3 +62,4 @@
 		- Memoria de eventos da atualidades.
 		- O congresso nacional, **Poder Legislativo**, detém o poder de inciar emendas constitucionais
 		- Uma **Assembleia Constituinte** que significa "Refazer a constituição" não pode ser feito apenas pelo Presidente da Republica **Poder Executivo**
+		- **Assembleia Constituinte Exclusiva** é técnicamente muito forte, significaria cria
