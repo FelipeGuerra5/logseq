@@ -100,4 +100,6 @@
 		-
 	- ## Questão 26
 		- A tentativa existe quando (art. 14, II do Código Penal):
-			- o agente inicia a execução do crime, mmas este não se consuma por circunstância alheias à sua vontade.
+			- O agente **inicia** a execução do crime, mmas este não se consuma por circunstância alheias à sua vontade.
+			- No caso em questão o agente não havia iniciado a ação típica e portanto está livre desta responsabilidade.
+			-
