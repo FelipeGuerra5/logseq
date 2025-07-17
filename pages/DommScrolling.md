@@ -13,7 +13,8 @@
 	- As it progresses the need to the experience is increasing and the motivation to actually do things in real life decreases.
 - # Decay of motivational Drive
 	- **Dopamine creates** a **behaviour reinforcement** on what we did, then the brain will manifest in **craving** the need for the same thing again.
-	- Dopamine a a budget for a day, (stored in the vesicles),
+	- Dopamine a a budget for a day, (stored in the vesicles), is the
+	- *Note: if the dopamine is depleted we can still work, however with no fulfilment of happines, is not a good thing  *
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
