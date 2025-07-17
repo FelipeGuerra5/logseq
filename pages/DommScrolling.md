@@ -19,7 +19,8 @@
 	- Frontal Lobe:
 		- Plan + Action
 		- Impulse Control
-		- Takes a abstract goal and break down in pieces to make it achivable
+		- Takes a abstract goal and break down in pieces to make it achievable.
+	- When using screens the planning portion of the frontal lobe starts to
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
