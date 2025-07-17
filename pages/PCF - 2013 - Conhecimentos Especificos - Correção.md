@@ -57,4 +57,6 @@
 			  | **IMAP** | ✅ Sim | ✅ Sim | Quem usa vários dispositivos |
 			  | **POP3** | ❌ Não (por padrão) | ❌ Não | Quem usa um só dispositivo e quer armazenar localmente |
 	- ## Questão 15
-		-
+		- Memória de eventos das atualidades.
+	- ## Questão 16
+		- Memoria de evc
