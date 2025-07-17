@@ -60,4 +60,5 @@
 		- Memória de eventos das atualidades.
 	- ## Questão 16
 		- Memoria de eventos da atualidades.
-		- O congresso nacional,
+		- O congresso nacional, **Poder Legislativo**, detém o poder de inciar emendas constitucionais
+		- Uma **Assembleia Constituinte** que significa "Refazer
