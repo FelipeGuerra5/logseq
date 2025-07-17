@@ -5,6 +5,7 @@
 	- e. g. => although I need real food the body will accept the use of simple sweets and only signal to stop hunger, however deprived of actual nutrients
 - # Screens
 	- The screen is substituting the real needs of the mind, therefor becoming a #YouTube expert is not only demising to my work, social life and sleeping patterns but it self is a cause of the problem.
+	- As it progresses the need to the experience is
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
