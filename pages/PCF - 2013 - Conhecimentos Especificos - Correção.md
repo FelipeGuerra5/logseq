@@ -6,4 +6,9 @@
 		  emprega-se o memorando, expediente cuja tramitação
 		  apresenta como principais características a rapidez e a
 		  simplicidade.
-		- O memorando é um  tipo de comunicação oficial interna, utilizado entre unidades administrativas de um mesmo órgão, por exemplo, entre departamentos, setores, divisões, etc. desntro de um mesmo ministério
+		- O memorando é um  tipo de comunicação oficial interna, utilizado entre unidades administrativas de um mesmo órgão, por exemplo, entre departamentos, setores, divisões, etc. desntro de um mesmo ministério, secretaria ou instituição pública
+		  background-color:: green
+		- As principais características do memorando são:
+			- **Rapidez:** não exige formalidades excessivas nem tramitação por muitas instâncias;
+			- **Simplicidade:** a linguagem costuma ser objetiva e direta, sem necessidade de introduções cerimoniosas;
+			- **Foco técnico ou administrativo:**
