@@ -24,5 +24,5 @@
 	- Screens/Apps in general take the need of thinking out of the equation so it starts to rust.
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
-	-
+		- Anonymous tab?
 -
