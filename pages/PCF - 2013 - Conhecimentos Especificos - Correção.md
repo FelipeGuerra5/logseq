@@ -59,4 +59,5 @@
 	- ## Questão 15
 		- Memória de eventos das atualidades.
 	- ## Questão 16
-		- Memoria de evc
+		- Memoria de eventos da atualidades.
+		-
