@@ -112,4 +112,13 @@
 		-
 	- ## Questão 31
 	  background-color:: red
-		- A declaração de ilegalidade da prova não acarreta na nulidade do pro
+		- A respeito da prova no processo penal, julgue os itens
+		  subsequentes.
+		  
+		  31 A consequência processual da declaração de ilegalidade de
+		  determinada prova obtida com violação às normas
+		  constitucionais ou legais é a nulidade do processo com a
+		  absolvição do réu.
+			- **A declaração de ilegalidade da prova não acarreta na nulidade do processo ou ainda na absolvição do réu.**
+			-
+-
