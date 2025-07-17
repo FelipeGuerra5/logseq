@@ -129,6 +129,7 @@
 			  | "gera nulidade do processo" | ❌ | Errado: **pode gerar nulidade parcial**, mas **não necessariamente do processo todo** |
 			  | "com a absolvição do réu" | ❌ | Errado: **a absolvição só ocorre se, com as provas restantes, não houver base para condenação**. A ilicitude da prova **não garante absolvição automática** |
 	- ## Questão 32
+	  collapsed:: true
 		- 32 O exame caligráfico ou grafotécnico visa certificar, por meio
 		  de comparação, que a letra inserida em determinado escrito
 		  pertence à pessoa investigada. Esse exame pode ser utilizado
@@ -137,6 +138,10 @@
 			- O **exame caligráfico** ou **grafotécnico** é um tipo de **perícia documentoscópica** que tem por objetivo **verificar a autenticidade ou autoria de uma escrita manuscrita**, por meio da **comparação técnica entre um texto ou assinatura duvidosa e padrões gráficos sabidamente autênticos**.
 			- Sendo assim pode ser utilizada para comparação de computadores e máquinas de escrever, para analise de modelo, e maquinas utilizados na confecção do documento analisado.
 	- ## Questão 34
+	  collapsed:: true
 		- **Prisão temporaria**
 		  background-color:: red
-			- É uma medida provisória que é aplicada com o fim de investigar crimes graves antes da condenação.
+			- É uma medida provisória que é aplicada com o fim de investigar crimes graves antes da condenação. Não a pena em si. são de geralmente 5 dias prorrogáveis até 30, em casos excepcionais.
+			-
+	- ## Questão 35
+		-
