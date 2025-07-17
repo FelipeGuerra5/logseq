@@ -15,6 +15,7 @@
 				- **Foco técnico ou administrativo**
 			- Obs: **Ofício** deve ser utilizado para comunicação entre orgãos distintos.
 	- ## Questão 9
+	  collapsed:: true
 		- 9 A instalação e a atualização de programas na plataforma Linux
 		  a serem efetuadas com o comando aptget, podem ser
 		  acionadas por meio das opções install e upgrade,
@@ -30,3 +31,5 @@
 				- Se o usuário não for root e quiser alterar o sistema necessitará de `sudo` antecedendo os comandos.
 				- `sudo apt-get install nginx`
 				- `sudo apt-get upgrade`
+	- # Questão 11
+		-
