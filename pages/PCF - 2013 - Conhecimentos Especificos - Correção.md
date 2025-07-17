@@ -13,3 +13,4 @@
 			- **Simplicidade**
 			- **Foco técnico ou administrativo**
 		- Obs: **Ofício** deve ser utilizado para comunicação entre orgãos distintos.
+	-
