@@ -1,3 +1,5 @@
 - #mobileaddiction #smartphoneaddiction #screenaddiction
 - # Apps
-	- Apps are fulfilling the basic needs so i can not face my life and substitute the need of actual life with virtual thin
+	- Apps are fulfilling the basic needs so I can not face my life and substitute the need of actual life with virtual things.
+	- The **big problem** is that this makes the brain not wanting to resolve the
+-
