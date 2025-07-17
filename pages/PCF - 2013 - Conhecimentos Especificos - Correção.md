@@ -31,5 +31,7 @@
 				- Se o usuário não for root e quiser alterar o sistema necessitará de `sudo` antecedendo os comandos.
 				- `sudo apt-get install nginx`
 				- `sudo apt-get upgrade`
-	- # Questão 11
-		- No caso de memória virtual, Win => Paginação ou Linux => Swap o desempenho dos programas irá cair o que interfere diretamente no funcionamento das m
+	- ## Questão 11
+		- No caso de memória virtual, Win => Paginação ou Linux => Swap o desempenho dos programas irá cair o que interfere diretamente o parelalismop e  e distribuição dos programas.
+	- ## Questão 13
+		-
