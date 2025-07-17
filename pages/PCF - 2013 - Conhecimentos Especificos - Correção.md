@@ -28,4 +28,5 @@
 			  background-color:: red
 			- #### Sudo
 				- Se o usuário não for root e quiser alterar o sistema necessitará de `sudo` antecedendo os comandos.
-				- `sudo apit`
+				- `sudo apt-get install nginx`
+				- `sudo apt-get upgrade`
