@@ -32,4 +32,4 @@
 				- `sudo apt-get install nginx`
 				- `sudo apt-get upgrade`
 	- # Questão 11
-		-
+		- No caso de memória virtual, Win
