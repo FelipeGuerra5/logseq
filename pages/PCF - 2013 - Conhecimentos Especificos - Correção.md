@@ -84,4 +84,13 @@
 		  imputação.
 			- Cabe pena para a pessoa jurídica em casos de crimes ambientais,
 			- Embora a empresa possa ser responsabilizada, o diretor também pode ser responsabilizado por autoria ou coaturia...
+			- **Outros Casos para crime de pessoa Juridica são:**
+				- ## ✅ Resumo:
+				  
+				  | Tipo de Crime | Pessoa Jurídica pode ser responsabilizada penalmente? | Base Legal |
+				  | ---- | ---- | ---- |
+				  | **Ambiental** | ✅ Sim, expressamente | CF/88 art. 225 §3º e Lei 9.605/1998 |
+				  | **Tributário e econômico** | ⚠️ Indiretamente / pessoa física responde penalmente | Lei 8.137/1990 |
+				  | **Corrupção (Lei Anticorrupção)** | ✅ Sim, mas apenas civil e administrativamente | Lei 12.846/2013 |
+				  | **Corrupção (penal)** | 🚫 Ainda não há previsão penal explícita, mas há debate | Convenções e tratados internacionais |
 		-
