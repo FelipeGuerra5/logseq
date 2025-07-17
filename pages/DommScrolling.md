@@ -1,3 +1,3 @@
 - #mobileaddiction #smartphoneaddiction #screenaddiction
 - # Apps
-	- Apps are
+	- Apps are fulfilling the basic needs so i can not face my life and substitute the need of actual life with virtual thin
