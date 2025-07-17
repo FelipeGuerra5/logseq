@@ -17,7 +17,7 @@
 	- *Note: if the dopamine is depleted we can still work, however with no fulfilment of happiness, is not a good thing reinforced*
 - # Executive Dysfunction
 	- Frontal Lobe:
-		- Plan + action
+		- Plan + Action
 		- Impulse Control
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
