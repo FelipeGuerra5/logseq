@@ -144,4 +144,4 @@
 			- É uma medida provisória que é aplicada com o fim de investigar crimes graves antes da condenação. Não a pena em si. são de geralmente 5 dias prorrogáveis até 30, em casos excepcionais.
 			-
 	- ## Questão 35
-		-
+		- 24 horas é o prazo para **"Audiencia de Custódia"** e não para comunicação
