@@ -107,5 +107,7 @@
 			  background-color:: yellow
 		-
 	- ## Questão 29
-		- Ultra-atividade da lei significa que: a lei irá beneficiar, no futuro, o agente, se o ato for cometido em vigencia da lei anterior (*Tempus Regit Actum*). Para benefício do agente.
+	  collapsed:: true
+		- Ultra-atividade da lei significa que: a lei irá beneficiar, no futuro, o agente, se o ato for cometido em vigencia da lei anterior (*Tempus Regit Actum*). Para benefício do réu.
 		-
+	- ## Questão 31
