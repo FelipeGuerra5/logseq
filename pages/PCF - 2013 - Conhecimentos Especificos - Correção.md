@@ -26,4 +26,6 @@
 			- `apt-get upgrade <pacote>`  -> atualiza os pacotes
 			- `apt` é mais moderno e comum, mas `apt-get` ainda funciona
 			  background-color:: red
-			-
+			- #### Sudo
+				- Se o usuário não for root e quiser alterar o sistema necessitará de `sudo` antecedendo os comandos.
+				- `sudo apit`
