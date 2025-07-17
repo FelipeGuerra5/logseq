@@ -23,4 +23,7 @@
 		  administrador do sistema.
 		- ### Análise:
 			- `apt-get install <pacote>` -> instala um novo pacote
-			- `apt-get`
+			- `apt-get upgrade <pacote>`  -> atualiza os pacotes
+			- `apt` é mais moderno e comum, mas `apt-get` ainda funciona
+			  background-color:: red
+			-
