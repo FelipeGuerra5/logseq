@@ -32,4 +32,4 @@
 				- `sudo apt-get install nginx`
 				- `sudo apt-get upgrade`
 	- # Questão 11
-		- No caso de memória virtual, Win
+		- No caso de memória virtual, Win => Paginação ou Linux => Swap o desempenho dos programas irá cair o que interfere diretamente no funcionamento das m
