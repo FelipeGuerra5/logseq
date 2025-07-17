@@ -102,4 +102,4 @@
 		- A tentativa existe quando (art. 14, II do Código Penal):
 			- O agente **inicia** a execução do crime, mmas este não se consuma por circunstância alheias à sua vontade.
 			- No caso em questão o agente não havia iniciado a ação típica e portanto está livre desta responsabilidade.
-			-
+			- Atos preparatório com indício de dolo homicida podem gerar medida preventiva, mas não responsabilização penal.
