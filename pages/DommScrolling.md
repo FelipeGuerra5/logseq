@@ -1,4 +1,7 @@
 - #mobileaddiction #smartphoneaddiction #screenaddiction
+- # Video link
+  collapsed:: true
+	- {{video https://www.youtube.com/watch?v=OwlXbUYDf0w&t=0}}
 - # Apps
 	- Apps are fulfilling the basic needs so I can not face my life and substitute the need of actual life with virtual things.
 	- The **big problem** is that this makes the brain not wanting to resolve the problem in real life, for is "already taken care of". For the brain it almost look the same.
@@ -6,7 +9,8 @@
 - # Screens
 	- The screen is substituting the real needs of the mind, therefor becoming a #YouTube expert is not only demising to my work, social life and sleeping patterns but it self is a cause of the problem.
 	- As it progresses the need to the experience is increasing and the motivation to actually do things in real life decreases.
--
+- # Decay of motivational Drive
+	-
 - # Question
 	- How do I reconcile the fact that I need to use the #YouTube as a tools but cannot be addicted to it?
 	-
