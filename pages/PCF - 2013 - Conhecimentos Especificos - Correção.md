@@ -32,6 +32,12 @@
 				- `sudo apt-get install nginx`
 				- `sudo apt-get upgrade`
 	- ## Questão 11
-		- No caso de memória virtual, Win => Paginação ou Linux => Swap o desempenho dos programas irá cair o que interfere diretamente o parelalismop e  e distribuição dos programas.
+	  collapsed:: true
+		- 11 Em computadores com sistema operacional Linux ou
+		  Windows, o aumento da memória virtual possibilita a redução
+		  do consumo de memória RAM em uso, o que permite executar,
+		  de forma paralela e distribuída, no computador, uma
+		  quantidade maior de programas.
+			- No caso de memória virtual, Win => Paginação ou Linux => Swap o desempenho dos programas irá cair o que interfere diretamente o parelalismop e  e distribuição dos programas.
 	- ## Questão 13
 		-
