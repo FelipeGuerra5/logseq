@@ -240,6 +240,7 @@
 			- **"Incorre nas mesmas penas quem simula a participação de criança ou adolescente nas cenas descritas no caput."**
 			  background-color:: yellow
 	- ## Questão 48
+	  collapsed:: true
 		- Julgue o item abaixo, a respeito da deportação de estrangeiro
 		  prevista na Lei n.º 6.815/1980.
 		  48 Estrangeiro que se encontre em situação irregular no Brasil
@@ -248,7 +249,7 @@
 			- ### 📜  **Art. 57 da Lei 6.815/1980** :
 				- **"O estrangeiro que se achar em situação irregular no território brasileiro será notificado para regularizar sua situação no prazo fixado, sob pena de deportação."**
 			- E o **§2º do mesmo artigo**:
-			  
-			  > 
-			  
-			  **"A deportação será feita para o país de procedência ou qualquer outro que aceite recebê-lo."**
+				- **"A deportação será feita para o país de procedência ou qualquer outro que aceite recebê-lo."**
+				  background-color:: pink
+	- ## Questão 49
+		-
