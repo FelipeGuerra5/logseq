@@ -182,5 +182,7 @@
 				  logseq.order-list-type:: number
 				- o cumprimento das leis e das decisões judiciais.
 				  logseq.order-list-type:: number
-			-
+			- Art. **85** da Constituição Federal — define os crimes de responsabilidade.
+				- Lei **1.079/1950** — regulamenta o processo e julgamento desses crimes.
 		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo?
+			- Deve aver uma provocação pelo povo ou orgão legitimo =
