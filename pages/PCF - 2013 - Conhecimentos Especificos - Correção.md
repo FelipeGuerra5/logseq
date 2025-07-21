@@ -162,5 +162,7 @@
 	- ## Questão 39
 		- Não há necessidade de que o candidáto esteja presenciamente para a assinatura da posse, a não ser que, exigido pelo edital ou norma interna.
 		- O artigo 13 da **Lei 8.112/1990** (que rege os servidores públicos federais) dispõe:
-		- >
-		- **"Art. 13. A posse dar-se-á pela assinatura do termo respectivo, no qual o servidor compromete-se a cumprir fielmente os deveres do cargo."**
+			- **"Art. 13. A posse dar-se-á pela assinatura do termo respectivo, no qual o servidor compromete-se a cumprir fielmente os deveres do cargo."**
+	- ## Questão 43
+		- O que é crime de responsabilidade
+		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo
