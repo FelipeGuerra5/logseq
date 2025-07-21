@@ -218,16 +218,21 @@
 	- ## Questão 45
 	  collapsed:: true
 		- No que se refere à ordem social, julgue o item subsequente.
+		  collapsed:: true
 		  45 A CF reconheceu aos índios a propriedade e posse das terras
 		  que tradicionalmente ocupam.
 			- Na verdade os índios tem direito originário sobre a terra que ocupam, garantindo posse permanente e o usufruto exclusivo, sendo essas terras bem da União.
 			-
 	- ## Questão 47
+	  collapsed:: true
 		- Em relação ao Estatuto da Criança e do Adolescente, julgue o
 		  próximo item.
 		- 47 Suponha que um cidadão tenha sido preso, mediante
+		  collapsed:: true
 		  determinação judicial, por supostamente ter filmado cena de
 		  sexo explícito envolvendo adolescentes. Nessa situação, se o
 		  cidadão comprovar que tudo não passava de simulação, não
 		  haverá crime e ele deverá ser posto em liberdade
-			- Nem mesmo em filme, caso haja cena de sexo **explicito** simulada ou não o fato é típico, mesmo que em produç
+			- Nem mesmo em filme, caso haja cena de sexo **explicito** simulada ou não o fato é típico, mesmo que em produções cinematográficas.
+			- Obra artistica pode desde que não objetifique, erotize ou mostre, de forma explícita, a criança ou adolescente.
+	- ## Quetão
