@@ -165,4 +165,4 @@
 			- **"Art. 13. A posse dar-se-á pela assinatura do termo respectivo, no qual o servidor compromete-se a cumprir fielmente os deveres do cargo."**
 	- ## Questão 43
 		- O que é crime de responsabilidade
-		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo
+		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo?
