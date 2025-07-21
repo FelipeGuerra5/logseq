@@ -165,4 +165,26 @@
 			- **"Art. 13. A posse dar-se-á pela assinatura do termo respectivo, no qual o servidor compromete-se a cumprir fielmente os deveres do cargo."**
 	- ## Questão 43
 		- O que é crime de responsabilidade
+			- Crimes cometidos por politicos da administração, principalmente o presidente da república. atentando contra
+			- a Constituição Federal,a existência da União,
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+			  
+			  o livre exercício dos poderes,
+			- logseq.order-list-type:: number
+			  
+			  os direitos políticos, individuais e sociais,
+			- logseq.order-list-type:: number
+			  
+			  a segurança interna do país,
+			- logseq.order-list-type:: number
+			  
+			  a probidade na administração,
+			- logseq.order-list-type:: number
+			  
+			  a lei orçamentária,
+			- logseq.order-list-type:: number
+			  
+			  o cumprimento das leis e das decisões judiciais.
+			-
 		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo?
