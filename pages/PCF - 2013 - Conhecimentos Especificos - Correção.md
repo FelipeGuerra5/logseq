@@ -252,4 +252,13 @@
 				- **"A deportação será feita para o país de procedência ou qualquer outro que aceite recebê-lo."**
 				  background-color:: pink
 	- ## Questão 49
-		-
+		- Segundo a **Lei nº 10.357/2001** e regulamentações da **Polícia Federal**, qualquer pessoa física ou jurídica que **exerça atividade com produtos químicos controlados** (como importar, exportar, fabricar, armazenar, comercializar, transportar ou utilizar) **deve obrigatoriamente**:
+		- **Estar cadastrada** no **Departamento de Polícia Federal**;**
+		  logseq.order-list-type:: number
+		- Obter licença de funcionamento**, também concedida pela Polícia Federal;**
+		  logseq.order-list-type:: number
+		- Emitir relatórios regulares** das atividades envolvendo tais produtos;
+		  logseq.order-list-type:: number
+		- Estar sujeita a **vistorias, auditorias e controle rigoroso**.
+		  logseq.order-list-type:: number
+	-
