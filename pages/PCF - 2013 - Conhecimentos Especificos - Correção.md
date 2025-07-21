@@ -240,4 +240,8 @@
 			- **"Incorre nas mesmas penas quem simula a participação de criança ou adolescente nas cenas descritas no caput."**
 			  background-color:: yellow
 	- ## Questão 48
-		-
+		- Julgue o item abaixo, a respeito da deportação de estrangeiro
+		  prevista na Lei n.º 6.815/1980.
+		  48 Estrangeiro que se encontre em situação irregular no Brasil
+		  poderá ser deportado para outro país que não o de sua
+		  nacionalidade ou procedência
