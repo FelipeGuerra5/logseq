@@ -3,6 +3,7 @@
 	- ## Questão 6
 	  collapsed:: true
 		- **Com relação à função e à linguagem das correspondências oficiais, julgue os itens seguintes.**
+		  collapsed:: true
 			- 6 Para comunicação entre unidades de um mesmo órgão,
 			  emprega-se o memorando, expediente cuja tramitação
 			  apresenta como principais características a rapidez e a
@@ -10,6 +11,7 @@
 			- O memorando é um  tipo de comunicação oficial interna, utilizado entre unidades administrativas de um mesmo órgão, por exemplo, entre departamentos, setores, divisões, etc. desntro de um mesmo ministério, secretaria ou instituição pública
 			  background-color:: green
 			- As principais características do memorando são:
+			  collapsed:: true
 				- **Rapidez**
 				- **Simplicidade**
 				- **Foco técnico ou administrativo**
@@ -23,17 +25,20 @@
 		  do comando sudo, ou equivalente, se o usuário não for
 		  administrador do sistema.
 		- ### Análise:
+		  collapsed:: true
 			- `apt-get install <pacote>` -> instala um novo pacote
 			- `apt-get upgrade <pacote>`  -> atualiza os pacotes
 			- `apt` é mais moderno e comum, mas `apt-get` ainda funciona
 			  background-color:: red
 			- #### Sudo
+			  collapsed:: true
 				- Se o usuário não for root e quiser alterar o sistema necessitará de `sudo` antecedendo os comandos.
 				- `sudo apt-get install nginx`
 				- `sudo apt-get upgrade`
 	- ## Questão 11
 	  collapsed:: true
 		- 11 Em computadores com sistema operacional Linux ou
+		  collapsed:: true
 		  Windows, o aumento da memória virtual possibilita a redução
 		  do consumo de memória RAM em uso, o que permite executar,
 		  de forma paralela e distribuída, no computador, uma
@@ -42,6 +47,7 @@
 	- ## Questão 13
 	  collapsed:: true
 		- 13 Considere que um usuário necessite utilizar diferentes
+		  collapsed:: true
 		  dispositivos computacionais, permanentemente conectados
 		  à Internet, que utilizem diferentes clientes de email, como o
 		  Outlook Express e Mozilla Thunderbird. Nessa situação,
@@ -69,6 +75,7 @@
 	- ## Questão 17
 	  collapsed:: true
 		- 17 Nas duas maiores cidades brasileiras — São Paulo e Rio de
+		  collapsed:: true
 		  Janeiro —, o problema das tarifas do transporte público
 		  permanece insolúvel visto que a fixação desses valores
 		  depende de lei a ser votada pelas respectivas câmaras
@@ -78,6 +85,7 @@
 	- ## Questão 24
 	  collapsed:: true
 		- No que concerne a infração penal, fato típico e seus elementos,
+		  collapsed:: true
 		  formas consumadas e tentadas do crime, culpabilidade, ilicitude e
 		  imputabilidade penal, julgue os itens que se seguem.
 		  
@@ -89,6 +97,7 @@
 			- Cabe pena para a pessoa jurídica em casos de crimes ambientais,
 			- Embora a empresa possa ser responsabilizada, o diretor também pode ser responsabilizado por autoria ou coaturia...
 			- **Outros Casos para crime de pessoa Juridica são:**
+			  collapsed:: true
 				- ## ✅ Resumo:
 				  
 				  | Tipo de Crime | Pessoa Jurídica pode ser responsabilizada penalmente? | Base Legal |
@@ -101,6 +110,7 @@
 	- ## Questão 26
 	  collapsed:: true
 		- A tentativa existe quando (art. 14, II do Código Penal):
+		  collapsed:: true
 			- O agente **inicia** a execução do crime, mmas este não se consuma por circunstância alheias à sua vontade.
 			- No caso em questão o agente não havia iniciado a ação típica e portanto está livre desta responsabilidade.
 			- Atos preparatório com indício de dolo homicida podem gerar medida preventiva, mas não responsabilização penal por tentativa.
@@ -114,6 +124,7 @@
 	  background-color:: red
 	  collapsed:: true
 		- A respeito da prova no processo penal, julgue os itens
+		  collapsed:: true
 		  subsequentes.
 		  
 		  31 A consequência processual da declaração de ilegalidade de
@@ -131,6 +142,7 @@
 	- ## Questão 32
 	  collapsed:: true
 		- 32 O exame caligráfico ou grafotécnico visa certificar, por meio
+		  collapsed:: true
 		  de comparação, que a letra inserida em determinado escrito
 		  pertence à pessoa investigada. Esse exame pode ser utilizado
 		  como parâmetro para as perícias de escritos envolvendo
@@ -141,11 +153,13 @@
 	  collapsed:: true
 		- **Prisão temporaria**
 		  background-color:: red
+		  collapsed:: true
 			- É uma medida provisória que é aplicada com o fim de investigar crimes graves antes da condenação. Não a pena em si. são de geralmente 5 dias prorrogáveis até 30, em casos excepcionais.
 			-
 	- ## Questão 35
 	  collapsed:: true
 		- 35 O CPP dispõe expressamente que na ocorrência de prisão em
+		  collapsed:: true
 		  flagrante tem a autoridade policial o dever de comunicar o fato,
 		  em até vinte e quatro horas, ao juízo competente, ao Ministério
 		  Público, à família do preso ou à pessoa por ele indicada e,
@@ -155,17 +169,23 @@
 	- ## Questão 37
 	  collapsed:: true
 		- 37 As penas aplicadas a quem comete ato de improbidade não
+		  collapsed:: true
 		  podem ser cumuladas, uma vez que estaria o servidor sendo
 		  punido duas vezes pelo mesmo ato.
 			- Podem sim, não somente por serem cumulativas na esfera administrativa, como _perda de funçãao, multa civil, proibição de contratar com o poder público, e receber benefícios fiscais_ , como também em diferentes esferas: **Administrativa, cível e penal**.
 			-
 	- ## Questão 39
+	  collapsed:: true
 		- Não há necessidade de que o candidáto esteja presenciamente para a assinatura da posse, a não ser que, exigido pelo edital ou norma interna.
 		- O artigo 13 da **Lei 8.112/1990** (que rege os servidores públicos federais) dispõe:
+		  collapsed:: true
 			- **"Art. 13. A posse dar-se-á pela assinatura do termo respectivo, no qual o servidor compromete-se a cumprir fielmente os deveres do cargo."**
 	- ## Questão 43
+	  collapsed:: true
 		- O que é crime de responsabilidade
+		  collapsed:: true
 			- Crimes cometidos por politicos da administração, principalmente o presidente da república. atentando contra
+			  collapsed:: true
 				- a Constituição Federal,
 				  logseq.order-list-type:: number
 				- a existência da União,
@@ -183,11 +203,16 @@
 				- o cumprimento das leis e das decisões judiciais.
 				  logseq.order-list-type:: number
 			- Art. **85** da Constituição Federal — define os crimes de responsabilidade.
+			  collapsed:: true
 				- Lei **1.079/1950** — regulamenta o processo e julgamento desses crimes.
 		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo?
+		  collapsed:: true
 			- Deve haver uma provocação pelo povo ou orgão legitimo
 			  logseq.order-list-type:: number
 			- Deve haver aprovação por 2/3 da camara dos deputados para que siga ao senado federal
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
-			-
+			- Senado instaura o processo, podendo o presidente ficar suspendo por até 180 dias.
+			  logseq.order-list-type:: number
+			- Julgamento, Senado Federla, pode resultar na perda do cargo.
+			  logseq.order-list-type:: number
+	-
