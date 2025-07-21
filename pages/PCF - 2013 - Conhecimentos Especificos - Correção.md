@@ -160,4 +160,7 @@
 			- Podem sim, não somente por serem cumulativas na esfera administrativa, como _perda de funçãao, multa civil, proibição de contratar com o poder público, e receber benefícios fiscais_ , como também em diferentes esferas: **Administrativa, cível e penal**.
 			-
 	- ## Questão 39
-		-
+		- Não há necessidade de que o candidáto esteja presenciamente para a assinatura da posse, a não ser que, exigido pelo edital ou norma interna.
+		- O artigo 13 da **Lei 8.112/1990** (que rege os servidores públicos federais) dispõe:
+		- >
+		- **"Art. 13. A posse dar-se-á pela assinatura do termo respectivo, no qual o servidor compromete-se a cumprir fielmente os deveres do cargo."**
