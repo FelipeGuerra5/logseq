@@ -228,12 +228,16 @@
 		- Em relação ao Estatuto da Criança e do Adolescente, julgue o
 		  próximo item.
 		- 47 Suponha que um cidadão tenha sido preso, mediante
-		  collapsed:: true
 		  determinação judicial, por supostamente ter filmado cena de
 		  sexo explícito envolvendo adolescentes. Nessa situação, se o
 		  cidadão comprovar que tudo não passava de simulação, não
 		  haverá crime e ele deverá ser posto em liberdade
 			- Nem mesmo em filme, caso haja cena de sexo **explicito** simulada ou não o fato é típico, mesmo que em produções cinematográficas.
 			- Obra artistica pode desde que não objetifique, erotize ou mostre, de forma explícita, a criança ou adolescente.
+		- **Art. 240 do ECA (Lei 8.069/1990):**
+			- **"Produzir, reproduzir, dirigir, fotografar, filmar ou registrar, por qualquer meio, cena de sexo explícito ou pornográfica envolvendo criança ou adolescente: pena – reclusão de 4 (quatro) a 8 (oito) anos e multa."**
+		- ### ⚠️  **Parágrafo único:**
+			- **"Incorre nas mesmas penas quem simula a participação de criança ou adolescente nas cenas descritas no caput."**
+			  background-color:: yellow
 	- ## Questão 48
 		-
