@@ -185,4 +185,9 @@
 			- Art. **85** da Constituição Federal — define os crimes de responsabilidade.
 				- Lei **1.079/1950** — regulamenta o processo e julgamento desses crimes.
 		- Quando um presidente da republica pode ficar suspenso e quem instaura o processo?
-			- Deve aver uma provocação pelo povo ou orgão legitimo =
+			- Deve haver uma provocação pelo povo ou orgão legitimo
+			  logseq.order-list-type:: number
+			- Deve haver aprovação por 2/3 da camara dos deputados para que siga ao senado federal
+			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+			-
