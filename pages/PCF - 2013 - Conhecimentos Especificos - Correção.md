@@ -245,3 +245,10 @@
 		  48 Estrangeiro que se encontre em situação irregular no Brasil
 		  poderá ser deportado para outro país que não o de sua
 		  nacionalidade ou procedência
+			- ### 📜  **Art. 57 da Lei 6.815/1980** :
+				- **"O estrangeiro que se achar em situação irregular no território brasileiro será notificado para regularizar sua situação no prazo fixado, sob pena de deportação."**
+			- E o **§2º do mesmo artigo**:
+			  
+			  > 
+			  
+			  **"A deportação será feita para o país de procedência ou qualquer outro que aceite recebê-lo."**
