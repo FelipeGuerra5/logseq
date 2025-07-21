@@ -235,4 +235,5 @@
 		  haverá crime e ele deverá ser posto em liberdade
 			- Nem mesmo em filme, caso haja cena de sexo **explicito** simulada ou não o fato é típico, mesmo que em produções cinematográficas.
 			- Obra artistica pode desde que não objetifique, erotize ou mostre, de forma explícita, a criança ou adolescente.
-	- ## Quetão
+	- ## Questão 48
+		-
