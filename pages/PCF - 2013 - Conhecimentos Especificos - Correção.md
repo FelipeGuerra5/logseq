@@ -1,5 +1,6 @@
 - #PCF #federal #perito #cebraspe #cespe
-- # Correção
+- # Correção 1 ao 50
+  collapsed:: true
 	- ## Questão 6
 	  collapsed:: true
 		- **Com relação à função e à linguagem das correspondências oficiais, julgue os itens seguintes.**
@@ -228,6 +229,7 @@
 		- Em relação ao Estatuto da Criança e do Adolescente, julgue o
 		  próximo item.
 		- 47 Suponha que um cidadão tenha sido preso, mediante
+		  collapsed:: true
 		  determinação judicial, por supostamente ter filmado cena de
 		  sexo explícito envolvendo adolescentes. Nessa situação, se o
 		  cidadão comprovar que tudo não passava de simulação, não
@@ -235,23 +237,29 @@
 			- Nem mesmo em filme, caso haja cena de sexo **explicito** simulada ou não o fato é típico, mesmo que em produções cinematográficas.
 			- Obra artistica pode desde que não objetifique, erotize ou mostre, de forma explícita, a criança ou adolescente.
 		- **Art. 240 do ECA (Lei 8.069/1990):**
+		  collapsed:: true
 			- **"Produzir, reproduzir, dirigir, fotografar, filmar ou registrar, por qualquer meio, cena de sexo explícito ou pornográfica envolvendo criança ou adolescente: pena – reclusão de 4 (quatro) a 8 (oito) anos e multa."**
 		- ### ⚠️  **Parágrafo único:**
+		  collapsed:: true
 			- **"Incorre nas mesmas penas quem simula a participação de criança ou adolescente nas cenas descritas no caput."**
 			  background-color:: yellow
 	- ## Questão 48
 	  collapsed:: true
 		- Julgue o item abaixo, a respeito da deportação de estrangeiro
+		  collapsed:: true
 		  prevista na Lei n.º 6.815/1980.
 		  48 Estrangeiro que se encontre em situação irregular no Brasil
 		  poderá ser deportado para outro país que não o de sua
 		  nacionalidade ou procedência
 			- ### 📜  **Art. 57 da Lei 6.815/1980** :
+			  collapsed:: true
 				- **"O estrangeiro que se achar em situação irregular no território brasileiro será notificado para regularizar sua situação no prazo fixado, sob pena de deportação."**
 			- E o **§2º do mesmo artigo**:
+			  collapsed:: true
 				- **"A deportação será feita para o país de procedência ou qualquer outro que aceite recebê-lo."**
 				  background-color:: pink
 	- ## Questão 49
+	  collapsed:: true
 		- Segundo a **Lei nº 10.357/2001** e regulamentações da **Polícia Federal**, qualquer pessoa física ou jurídica que **exerça atividade com produtos químicos controlados** (como importar, exportar, fabricar, armazenar, comercializar, transportar ou utilizar) **deve obrigatoriamente**:
 		- **Estar cadastrada** no **Departamento de Polícia Federal**;**
 		  logseq.order-list-type:: number
@@ -259,6 +267,6 @@
 		  logseq.order-list-type:: number
 		- Emitir relatórios regulares** das atividades envolvendo tais produtos;
 		  logseq.order-list-type:: number
-		- Estar sujeita a **vistorias, auditorias e controle rigoroso**.
+		- Estar sujeita a **vistorias, auditorias e controle rigoroso**
 		  logseq.order-list-type:: number
-	-
+-
