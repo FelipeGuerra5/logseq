@@ -216,7 +216,11 @@
 			- Julgamento, Senado Federla, pode resultar na perda do cargo.
 			  logseq.order-list-type:: number
 	- ## Questão 45
+	  collapsed:: true
 		- No que se refere à ordem social, julgue o item subsequente.
 		  45 A CF reconheceu aos índios a propriedade e posse das terras
 		  que tradicionalmente ocupam.
-			- Na verdade os índios tem direito originário sobre a terra que ocupam, garantindo posse permanente e o usufruto exclusivo, sendo essas terra
+			- Na verdade os índios tem direito originário sobre a terra que ocupam, garantindo posse permanente e o usufruto exclusivo, sendo essas terras bem da União.
+			-
+	- ## Questão 47
+		-
