@@ -1,0 +1,59 @@
+- #carreira #futureplanning #carrer
+- # *Concursos*
+	- ## Entrada
+		- Concurso para curta permanência, até 5 anos, com o objetivo de encontrar concursos com  maior compensação financeira.
+		- **GCM Mairiporã**
+			- Preço: R$ 60
+			- Banca: Nosso Rumo
+				- Provas Anteriores: https://drive.google.com/drive/folders/1YSEaoDf3nNyI2WYiJ2qgrNTDeIOt8n1I
+			- Inscrições: 06OUT25 -> 06NOV25
+			- Salário: R$ 3.364 + 35% => R$ 4500
+			- Distância: 20 -> 30 min
+			- Provas: Objetiva, TAF, Direção, Psicologica e antecedentes
+			- Escalas: 12x36 aparentemente
+			- Dificuldade: 3/5
+			- Estudo: [[GCM Mairipora]]
+		- **Policia Penal São Paulo**
+		  collapsed:: true
+			- Inscrições: 03NOV25 -> 16h00 08DEZ25
+				- Pagamento: 23h00 08DEZ25
+			- Preço: R$ 122,17
+			- Banca: AOCP
+			- Edital: ![edital_CCP-N.°0042025.pdf](../assets/edital_CCP-N.°0042025_1760442466621_0.pdf)
+			- Salário: R$ 5481,87
+			- Distância: 1h a 1:30h
+			- Provas: Objetiva, TAF, Psico, Investigação social
+				- Objetiva: 08FEV26 das 14h00 -> 17h00
+				- TAF:
+				  collapsed:: true
+					- ![image.png](../assets/image_1760441714272_0.png)
+			- Cronograma:
+			  collapsed:: true
+				- ![image.png](../assets/image_1760441863256_0.png)
+			- Escalas: 12x36
+			- Dificuldade: 3/5
+			- Estudo: SAP SP - Policia Penal
+	- ## Medio Prazo
+		- ### IGP RS
+		  collapsed:: true
+			- Incrições: 06SET25 -> 16OUT25
+			- Preço: R$ 270
+			- Banca: Fundatec
+			- Prova: 14DEZ25
+			- Salário R$17.000
+			- Curso de Formação: em Porto Alegre
+			- Dificuldade: 4/5
+			- Escala: 12x36
+			- Distância: Mudança de Estado
+			- Provas: Objetiva, Medico, Psicológica e Vida Pregressa.
+		- ### CGE SP
+		  collapsed:: true
+			- Incrições: 15SET25 -> 16OUT25
+			- Preço: R$ 170
+			- Banca: FGV
+			- Prova: 14DEZ25
+			- Salário: 17000
+			- Dificuldade: 4/5
+			- Escala: 40 semanais p. comercial
+			- Distancia: 30 min - Pç. Sé
+			- Provas: Objetiva + Redação

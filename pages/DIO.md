@@ -1,0 +1,2 @@
+- [[Bootcamp - Fundamentos da IA Generativa]]
+-

@@ -1,0 +1,31 @@
+# Journal Template
+template:: Journal
+template-including-parent:: false
+	- # Water Intake
+		- LATER **1st Bottle (750ml)**
+		- LATER **2st Bottle (1500ml)**
+		- LATER **3st Bottle (2250ml)**
+		- LATER **4st Bottle (300ml)**
+	- # Exercises:
+		- ## Exercise 1 Placeholder
+			- **Execution**:
+			- **Rest**:
+			- LATER Set 1
+			- LATER Set 2
+			- LATER Set 3
+			- LATER Set 4
+			- LATER Set 5
+			- LATER Set 6
+		- ## Exercise 2 Placeholder
+			- **Execution**:
+			- **Rest**:
+			- LATER Set 1
+			- LATER Set 2
+			- LATER Set 3
+			- LATER Set 4
+			- LATER Set 5
+			- LATER Set 6
+	- # Organization
+		- LATER Expenditure input
+		- LATER Day Planning
+		-

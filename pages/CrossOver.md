@@ -1,5 +1,10 @@
-# Aptitude Test
+# Openings
+	- [[L2 Customer Support Engineer]]
+	-
+- # Aptitude Test
+  collapsed:: true
 	- ## Cards
+	  collapsed:: true
 		- {{cards [[crossover]]}}
 			- Summary: 73 items, 73 review counts [[Feb 10th, 2024]]
 				- Remembered:   65 (89%)
@@ -819,12 +824,12 @@
 			- passage: a section of a text.
 			- routine: a regular or habitual procedure.
 			- cause: the reason for an action or condition.
-		- card-last-interval:: 4
-		  card-repeats:: 1
-		  card-ease-factor:: 2.6
-		  card-next-schedule:: 2024-02-14T17:47:38.225Z
-		  card-last-reviewed:: 2024-02-10T17:47:38.225Z
-		  card-last-score:: 5
+		- card-last-interval:: -1
+		  card-repeats:: 0
+		  card-ease-factor:: 2.5
+		  card-next-schedule:: nil
+		  card-last-reviewed:: nil
+		  card-last-score:: nil
 		  collapsed:: true
 		  49. alphabetical : ______ ::
 		  sequential : files
@@ -2191,12 +2196,18 @@
 			- novel: a fictitious prose narrative of book length
 			- repast: a meal
 			- appetizer: a small dish of food or a drink taken before a meal to stimulate the appetite
-		- 131. ______ : tennis :: drive : golf
+		- card-last-interval:: 4.59
+		  card-repeats:: 1
+		  card-ease-factor:: 2.6
+		  card-next-schedule:: 2025-09-22T07:03:39.117Z
+		  card-last-reviewed:: 2025-09-17T17:03:39.117Z
+		  card-last-score:: 5
+		  131. ______ : tennis :: drive : golf
 		  a. net  
 		  b. score  
 		  c. racket  
 		  d. serve  #card
-			- Answer:
+			- Answer: Serve
 			- tennis: a sport in which two or four players strike a ball over a net
 			- drive: to hit a golf ball off a tee with a driver
 			- golf: a sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible
@@ -2314,46 +2325,5 @@
 			- hit: to bring one's hand or a tool or weapon into contact with (someone or something) quickly and forcefully
 			- chant: to say or shout repeatedly in a rhythmic manner
 			- recite: to repeat aloud or declaim from memory, usually before an audience
-		- 142. gobble : eat ::
-		  ______ : accept  
-		  a. deny  
-		  b. embrace  
-		  c. acquiesce  
-		  d. infer  #card
-			- Answer:
-			- gobble: to eat quickly and greedily
-			- eat: to consume food
-			- accept: to receive or agree to take something offered
-			- acquiesce: to accept something reluctantly but without protest
-		- 143. company : conglomerate ::
-		  metal : ______  
-		  a. alloy  
-		  b. aluminum  
-		  c. corporation  
-		  d. furnace  #card
-			- Answer:
-			- company: a commercial business
-			- conglomerate: a corporation consisting of a number of different companies
-			- metal: a material that is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity
-			- alloy: a metal made by combining two or more metallic elements
-		- 144. ______ : silo :: art : museum
-		  a. field  
-		  b. fodder  
-		  c. farm  
-		  d. windmill  #card
-			- Answer:
-			- silo: a structure used for storing large quantities of agricultural products
-			- art: the expression or application of human creative skill and imagination
-			- museum: a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited
-			- field: an area of open land, especially one without trees
-		- 145. ______ : grind :: ax : chop
-		  a. tree  
-		  b. coffee  
-		  c. pestle  
-		  d. saw #card
-			- Answer:
-			- grind: to reduce something to small particles by crushing or abrading
-			- grind: a tedious task
-			- ax: a tool typically used for chopping wood
-			- chop: to cut something into small pieces with repeated sharp blows
 	-
+-

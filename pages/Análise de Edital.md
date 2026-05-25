@@ -1,0 +1,37 @@
+## 1. 🔒 Segurança Forense
+	- **3.3 Análise de código malicioso**
+	- **7.8 Recuperação de dados**
+		- 7.8.1 Técnicas de recuperação de arquivos apagados em sistemas de arquivos
+		- 7.8.2 Ambientes de nuvem (AWS, Azure, Google Cloud)
+	- **15 Princípios da computação forense**
+		- 15.1 Crimes cibernéticos e seus vestígios
+		- 15.2 Identificação, isolamento, preservação e coleta de vestígio cibernético
+		- 15.3 Principais exames em computação forense
+	- **7.5 Malware** (vírus, ransomware, rootkit, fileless etc.)
+	- **3.7 Técnicas de sandboxing**
+	- **8.5.1 Ataques a redes de computadores** (DoS, DDoS, XSS, SQLi, phishing etc.)
+	- **9.7 Técnicas criptográficas e de análise**
+		- ataques de texto conhecido/escolhido, criptoanálise, canal lateral, MITM
+		  
+		  ---
+- ## 2. 🗄️ Armazenamento e Dados
+	- **1.7 Sistemas de arquivos (NTFS, FAT32, exFAT, EXT3/4, XFS)**
+		- organização física, metadados, journaling
+	- **1.6 RAID: tipos, características e aplicações**
+	- **2.5 Transações: características e análise de logs**
+	- **2.1 Arquitetura, modelos lógicos e representação física de bancos de dados**
+	- **2.4 Linguagem de consulta estruturada (SQL)**
+	- **2.6 NoSQL**
+	  
+	  ---
+- ## 3. ⚙️ Algoritmos & Infraestrutura
+	- **5.3 Complexidade de algoritmos**
+	- **5.1 Estruturas de dados: listas, filas, pilhas e árvores**
+	- **4.3 Estruturas de controle de fluxo de execução**
+	- **6.5 Protocolos e arquiteturas de redes**
+		- 6.5.1 Modelo OSI/TCP‑IP
+		- 6.5.2 Cliente‑servidor, Ethernet, P2P
+		- 6.5.7 Protocolos: IP, TCP, UDP, SCTP, ARP, TLS/SSL, OSPF, BGP, DNS, DHCP, ICMP, FTP/SFTP, SSH, HTTP/S, SMTP/IMAP/POP3
+	- **1.3.1 Arquiteturas paralelas: multiprocessamento e multicore**
+	- **1.4 Sistemas distribuídos**
+	- **1.5.2 Hyper‑Threading; 1.5.3 GPUs (CUDA, processamento vetorial)**

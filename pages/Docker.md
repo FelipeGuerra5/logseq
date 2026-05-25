@@ -1,0 +1,3 @@
+- **Difference between the docker file and the docker compose**
+	- The docker file will tell docker to run the image, load and what files to copy.
+	- The

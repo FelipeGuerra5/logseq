@@ -1,0 +1,208 @@
+- #Concursos
+- # Conteúdo programático
+  collapsed:: true
+	- A prova objetiva terá caráter eliminatório e classificatório e constará de 50 (cinquenta) questões de
+	  múltipla escolha,
+	- 20 (vinte) de Língua Portuguesa,
+	- 15 (quinze) de Matemática
+	- 15 (quinze) de Conhecimentos Gerais
+	- LÍNGUA PORTUGUESA
+	  collapsed:: true
+		- Compreensão e interpretação de texto.
+		- Vocabulário. Tipologia e gêneros textuais.
+		- Alguns elementos constitutivos do texto: discurso direto, indireto, indireto livre,
+		- pressuposto, subentendido e ambiguidade.
+		- Intertextualidade. Coesão e coerência.
+		- Figuras de Linguagem.
+		- Funções da Linguagem (Fática, Conotativa, Poética, Referencial, Emotiva, Metalinguística).
+		- Fonemas e Fonética: representação e classificação dos fonemas, encontros vocálicos:
+		- ditongo, hiato, tritongo, encontro consonantal e dígrafo.
+		- Sílaba e tonicidade.
+		- Acentuação gráfica.
+		- Emprego do sinal indicativo de crase.
+		- Ortografia.
+		- Estrutura e formação das palavras.
+		- Este documento pode ser verificado pelo código 2025.10.09.1.3.11.11.3.4.6.1396669
+		- em https://www.doe.sp.gov.br/autenticidade 49/55 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+		- que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+		- Classe de palavras (estrutura, formação, flexões, emprego e morfossintaxe): substantivo;
+		- adjetivo; verbo; pronome; artigo; numeral; advérbio; preposição; conjunção; interjeição e
+		- onomatopeia.
+		- Frase, oração, período.
+		- Sintaxe do período simples e composto: (coordenação e subordinação).
+		- Pontuação.
+		- Significação das palavras: sinônimos, antônimos, parônimos, homônimos, polissemia,
+		- denotação e conotação.
+		- Neologismo e estrangeirismo.
+		- Ortoépia e Prosódia.
+		- Reescrita de frases.
+		- Concordância nominal e verbal.
+		- Regência nominal e verbal.
+		- Colocação pronominal.
+		- Termos essenciais da oração: tipos de sujeito, tipos de predicado, predicativo do sujeito e
+		- do objeto.
+		- Termos acessórios da oração: adjunto adnominal, adjunto adverbial, aposto e vocativo.
+		- Termos integrantes da oração: objeto direto, objeto indireto, agente da passiva.
+		  Literatura Brasileira (periodização: início e término de cada período - ano, acontecimento e
+		  autor - características, representantes e obras de cada movimento).
+	- MATEMÁTICA
+	  collapsed:: true
+		- Conjuntos numéricos: operações e propriedades.
+		- Equações e inequações de 1o grau e sistemas: resolução e problemas.
+		- Equações e inequações de 2o
+		- grau e sistemas: resolução e problemas.
+		- Funções: afim, quadrática, modular, exponencial e logarítmica.
+		- Razão e proporção.
+		- Regra de três simples e composta.
+		- Porcentagem. Juros simples e composto.
+		- Medidas de comprimento, superfície, volume, capacidade, massa e tempo.
+		- Áreas e perímetros de figuras planas.
+		- Volume e área de sólidos geométricos.
+		- Semelhança e Congruência de triângulos.
+		- Teorema de Tales.
+		- Teorema de Pitágoras.
+		- Relações métricas no triângulo retângulo.
+		- Trigonometria: trigonometria no triângulo retângulo, Lei dos Senos e dos Cossenos,
+		- funções circulares, identidades trigonométricas, transformações, funções trigonométricas,
+		- equações e inequações trigonométricas.
+		- Matrizes, determinantes e sistemas lineares.
+		- Polinômios: função polinomial, equações polinomiais, operações e propriedades.
+		- Este documento pode ser verificado pelo código 2025.10.09.1.3.11.11.3.4.6.1396669
+		- em https://www.doe.sp.gov.br/autenticidade 50/55 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+		- que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+		- Estatística: Média aritmética simples e ponderada, moda, mediana, tabelas de frequência,
+		- medidas de dispersão e análise de tabelas e gráficos.
+		- Probabilidade.
+		- Análise Combinatória.
+		- Sequências e Progressões.
+		- Geometria Analítica.
+		- Números Complexos: operações e propriedades.
+		- Resolução de situações-problema.
+	- CONHECIMENTOS GERAIS
+		- HISTÓRIA GERAL
+		  collapsed:: true
+			- Primeira Guerra Mundial.
+			- O nazifascismo e a Segunda Guerra Mundial.
+			- A Guerra Fria.
+			- Globalização e as políticas neoliberais.
+			- HISTÓRIA DO BRASIL
+			- A Revolução de 1930 e a Era Vargas.
+			- As Constituições Republicanas.
+			- A estrutura política e os movimentos sociais no período militar.
+			- A abertura política e a redemocratização do Brasil.
+		- GEOGRAFIA GERAL
+		  collapsed:: true
+			- A nova ordem mundial, o espaço geopolítico e a globalização.
+			- Os principais problemas ambientais.
+		- GEOGRAFIA DO BRASIL
+		  collapsed:: true
+			- A natureza brasileira (relevo, hidrografia, clima e vegetação).
+			- A população: crescimento, distribuição, estrutura e movimentos.
+			- As atividades econômicas: industrialização e urbanização, fontes de energia e
+			- agropecuária.
+			- Os impactos ambientais.
+		- ATUALIDADES
+		  collapsed:: true
+			- Questões relacionadas a fatos políticos, econômicos, sociais e culturais, nacionais e
+			- internacionais, ocorridos a partir de 6 (seis) meses anteriores à publicação deste Edital,
+			- divulgados na mídia local e/ou nacional.
+		- NOÇÕES BÁSICAS DE INFORMÁTICA
+		  collapsed:: true
+			- Utilização básica dos sistemas operacionais Windows 10 e 11 (em português): conceito de
+			- pastas, diretórios, arquivos e atalhos, área de trabalho, área de transferência, manipulação
+			- de arquivos e pastas, uso dos menus, programas e aplicativos, interação com o conjunto de
+			- aplicativos MS-Office.
+			- Este documento pode ser verificado pelo código 2025.10.09.1.3.11.11.3.4.6.1396669
+			- em https://www.doe.sp.gov.br/autenticidade 51/55
+			- Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+			- que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+			- Pacote Microsoft Office (Word, Excel e PowerPoint) – versão 365 (em português): MS-Word
+			- estrutura básica dos documentos, edição e formatação de textos, cabeçalhos, parágrafos,
+			- fontes, colunas, marcadores simbólicos e numéricos, tabelas, impressão, controle de
+			- quebras e numeração de páginas, legendas, índices, inserção de objetos, campos
+			- predefinidos, caixas de texto. MS-Excel: estrutura básica das planilhas, conceitos de células,
+			- linhas, colunas, pastas e gráficos, elaboração de tabelas e gráficos, uso de fórmulas,
+			- funções e macros, impressão, inserção de objetos, campos predefinidos, controle de
+			- quebras e numeração de páginas, obtenção de dados externos, classificação de dados. MSPowerPoint: estrutura básica das apresentações, conceitos de slides, anotações, régua,
+			- guias, cabeçalhos e rodapés, noções de edição e formatação de apresentações, inserção de
+			- objetos, numeração de páginas, botões de ação, animação e transição entre slides.
+			- Correio Eletrônico: uso de correio eletrônico, preparo e envio de mensagens, anexação de
+			- arquivos.
+			- Internet: navegação na Internet, conceitos de URL, links, sites, busca e impressão de
+			- páginas.
+			- Tópicos básicos de ambientes Google Workspace (Gmail, Agenda, Meet, Chat, Drive,
+			- Documentos, Planilhas, Apresentações, Formulários) e Microsoft Teams (chats, chamadas
+			- de áudio e vídeo, criação de grupos, trabalho em equipe: Word, Excel, PowerPoint).
+			- Conceitos básicos de Hardware: Placa mãe, memórias, processadores (CPU) e Periféricos
+			- de computadores.
+			- Segurança da informação: Procedimentos de segurança; Noções sobre malwares (vírus,
+			- worms, trojans, ransomware, entre outros); aplicativos para segurança (antivírus, firewall,
+			- anti-spyware etc.); Procedimentos de backup; Armazenamento de dados na nuvem.
+		- NOÇÕES DE DIREITO ADMINISTRATIVO
+		  collapsed:: true
+			- Administração Pública: conceito, elementos, poderes e organização; natureza, fins e
+			- princípios;
+			- Organização Administrativa: Administração Direta e Indireta; centralização,
+			- descentralização, concentração e desconcentração;
+			- Atos Administrativos: conceito, atributos, elementos, classificação, vinculação e
+			- discricionariedade, anulação, revogação e convalidação;
+			- Cargo, emprego e função pública;
+			- Agentes Públicos: espécies e classificação; poderes, deveres e prerrogativas;
+			- Regime Jurídico Único: provimento, vacância, remoção, redistribuição e substituição;
+			- Regime Disciplinar: responsabilidades civil, criminal e administrativa;
+			- Princípios da Administração Pública (Lei n.º 10.177, de 30/12/1998, art. 4º).
+		- NOÇÕES DE DIREITO CONSTITUCIONAL FEDERAL – CONSTITUIÇÃO FEDERAL
+		  collapsed:: true
+			- Título II – Dos Direitos e Garantias Fundamentais: Capítulo I – Dos Direitos e Deveres
+			- Individuais e Coletivos; Capítulo III – Da Nacionalidade; Capítulo IV – Dos Direitos Políticos;
+			- Título III – Da Organização do Estado: Capítulo VII – Da Administração Pública: Seção I –
+			- Disposições Gerais;
+			- Este documento pode ser verificado pelo código 2025.10.09.1.3.11.11.3.4.6.1396669
+			- em https://www.doe.sp.gov.br/autenticidade 52/55 Documento assinado digitalmente conforme MP nº 2.200-2/2001,
+			- que institui a Infraestrutura de Chaves Públicas (ICP-Brasil).
+			- Título V – Da Defesa do Estado e das Instituições Democráticas: Capítulo III – Da Segurança
+			- Pública.
+		- NOÇÕES DE DIREITO CONSTITUCIONAL ESTADUAL – CONSTITUIÇÃO DO ESTADO DE SÃO PAULO
+		  collapsed:: true
+			- Título II – Da Organização e Poderes: Capítulo III – Do Poder Executivo;
+			- Título III – Da Organização do Estado: Capítulo I – Da Administração Pública: Seção I –
+			- Disposições Gerais; Capítulo II – Dos Servidores Públicos do Estado: Seção I – Dos
+			- Servidores Públicos Civis; Capítulo III – Da Segurança Pública: Seção I – Disposições Gerais e
+			- Seção IV – Da Política Penitenciária e da Polícia Penal.
+		- NOÇÕES DE DIREITO PENAL
+		  collapsed:: true
+			- Princípios do Direito Penal;
+			- Da aplicação da lei penal;
+			- Do crime;
+			- Da imputabilidade penal;
+			- Do concurso de pessoas e do concurso de crimes;
+			- Da extinção da punibilidade;
+			- Crimes contra a administração pública;
+			- Lei Federal n.º 13.869/2019 – Lei do Abuso de Autoridade;
+			- Lei Federal n.º 12.850/2013 – Lei de Organização Criminosa;
+			- Lei Federal n.º 7.210/1984 – Lei de Execução Penal;
+			- Lei Federal n.º 7.716/1989 – Lei dos Crimes Resultantes de Preconceito de Raça ou de Cor;
+			- Lei Federal n.º 8.072/1990 – Lei dos Crimes Hediondos;
+			- Lei Federal n.º 11.340/2006 – Lei Maria da Penha;
+			- Lei Federal n.º 11.343/2006 – Lei de Drogas.
+		- NOÇÕES GERAIS
+		  collapsed:: true
+			- Declaração Universal dos Direitos Humanos – adotada e proclamada pela Resolução 217-A
+			- (III) da Assembleia Geral das Nações Unidas, em 10 de dezembro de 1948;
+			- Lei Federal n.º 12.527/2011 (Lei de Acesso à Informação) e Decreto n.º 68.155/2023, que a
+			- regulamenta;
+			- Lei Complementar n.º 1.416/2024 – Lei Orgânica da Polícia Penal;
+			- Lei n.º 10.261/1968 – Estatuto dos Funcionários Públicos Civis do Estado de São Paulo e
+			- alterações;
+			- Decreto n.º 67.683/2023 – Plano Estadual de Promoção de Integridade;
+			- Decreto n.º 69.328/2025 – Código de Ética da Administração Pública Direta e Autárquica;
+			- Lei Complementar n.º 207/1979 – Lei Orgânica da Polícia Civil do Estado de São Paulo
+			- (artigos 84 a 89, 91 e 92, 96 a 113, 115 a 128 e 130).
+- # Informações
+	- Status de **incrição 17ABR26**
+	- Dia 31 Maio 2026
+	- Hora: 14h00 as 17h00.
+	- Fechamento dos portões: 13h30
+	  background-color:: red
+	- Comida OK
+	-

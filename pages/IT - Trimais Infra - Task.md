@@ -1,0 +1,12 @@
+- [[Task - XXX]]
+  template:: IT-Task
+	- #Trimais #infra
+	- **Data Início**: /date
+	- **Data Término**: /date
+	- **Status**:
+		- -
+	- **Descrição**:
+		- -
+	- **Local**:
+		- -
+	-

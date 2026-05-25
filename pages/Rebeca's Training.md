@@ -19,32 +19,28 @@ collapsed:: true
 	- ## D
 	-
 - # Measurements
-	- | Body Part | 17FEV25 (cm) | 31MMAR25 (cm) | Dif (cm) |
-	  |Neck|34|||
-	  |Torax|94|||
-	  |Belly up 5cm from belly button|88|||
-	  |Belly down 5 cm from belly button|105|||
-	  |Hip|112|||
-	  | High Tight Right|66|||
-	  |High Tight Left|65|||
-	  | Low Tight Right|53|||
-	  |Low Tight Left|53|||
-	  |Calf Right|41|||
-	  |Calf Left|42|||
-	  |Biceps Right |31|||
-	  |Biceps Left|31|||
+	- | Body Part | 17FEV25 (cm) | 08AUG25 (cm) | Dif (cm) |
+	  |Neck|34|33.5||
+	  |Torax|94|95||
+	  |Belly up 5cm from belly button|88|85||
+	  |Belly down 5 cm from belly button|105|102||
+	  |Hip|112|108.5||
+	  |High Tight Right|66|66||
+	  |High Tight Left|65|67||
+	  |Low Tight Right|53|48.5||
+	  |Low Tight Left|53|48.5||
+	  |Calf Right|41|40.5||
+	  |Calf Left|42|41||
+	  |Biceps Right |31|30.5||
+	  |Biceps Left|31|30.5||
 		-
 	-
 - # Photos
   collapsed:: true
 	- Start
 		- |17FEV25| 31MAR25|
-		  |![17FEV25 (1).jpg](../assets/17FEV25_(1)_1739837514963_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (2).jpg](../assets/17FEV25_(2)_1739837526140_0.jpg) | ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (3).jpg](../assets/17FEV25_(3)_1739837543724_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (4).jpg](../assets/17FEV25_(4)_1739837564726_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (5).jpg](../assets/17FEV25_(5)_1739837569988_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (6).jpg](../assets/17FEV25_(6)_1739837573537_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (7).jpg](../assets/17FEV25_(7)_1739837578171_0.jpg)| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
-		  |![17FEV25 (8).jpg](../assets/17FEV25_(8)_1739837581270_0.jpg){:height 499, :width 368}| ![30eb9992-9598-4604-b08b-fa265083ab0f.webp](../assets/30eb9992-9598-4604-b08b-fa265083ab0f_1739839388176_0.webp){:height 326, :width 318} |
+		  |![17FEV25 (1).jpg](../assets/17FEV25_(1)_1739837514963_0.jpg){:height 499, :width 368}| ![Frente.jpeg](../assets/Frente_1754855117096_0.jpeg){:height 499, :width 368} |
+		  |![17FEV25 (3).jpg](../assets/17FEV25_(3)_1739837543724_0.jpg)| ![Frente.jpeg](../assets/Frente_1754855117096_0.jpeg){:height 499, :width 368} |
+		  |![17FEV25 (5).jpg](../assets/17FEV25_(5)_1739837569988_0.jpg)| ![Costas.jpeg](../assets/Costas_1754855342947_0.jpeg){:height 499, :width 368} |
+		  |![17FEV25 (8).jpg](../assets/17FEV25_(8)_1739837581270_0.jpg){:height 499, :width 368}| ![lado.jpeg](../assets/lado_1754855353580_0.jpeg){:height 499, :width 368} |
 		-

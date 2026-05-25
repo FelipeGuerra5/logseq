@@ -1,0 +1,39 @@
+# About the Position
+	- ## What you will be doing
+		- AI-Augmented Customer Resolutions: Analyze complex tickets escalated by AI systems, apply human expertise to areas where AI falls short, and then close the gap by improving the AI system
+	- ## Requirements
+		- At least 3 total years of experience in a technical customer support role
+		- Advanced generative AI proficiency (i.e., use of multiple AI tools, ability to automate workflows and custom GPTs); if you've only used LLMs for research, learning, brainstorming, or content generation, that will be deemed insufficient
+- # What to study
+  collapsed:: true
+	- ## Brush up
+		- **English:**
+			- Interview Questions
+			- Communication
+			- Oratory
+			- Pronunciation
+		- **AI**
+			- Develop simple AI use examples for portfolio
+			- Workflow automation
+				- Ticket severity and priority analyser
+				- Stock analyser for long term dividends paying stocks
+			- Custom GPTs
+			- Some algorithm
+			-
+		-
+- # Importance Hierarchy
+	- **Story Straight - Q&A**
+		- Until September  11th or Less
+	- **English Pronunciation**
+		- Until September 11th or Less
+	- **AI Workflow and agents**
+		- Probably after than Sep 11th
+- # Time Line
+	- Today is the Sep 1st, until Sep 11 I have 7 good days of work, given the 4 good hours a day; I have  roughly 28 good hours for this endeavour
+	- I should use:
+		- 35% for **Q&A** - 10 Hours - 1.5  hours / day
+		- 10% for  **Pronunciation** -  3 Hours - 30 min /  day
+		- 40% for **AI Development** - 14 Hours - 2 hours / day
+		- 15% for **Algorithm and Code Training** 5 Hours - 1 hour / day
+	-
+-
