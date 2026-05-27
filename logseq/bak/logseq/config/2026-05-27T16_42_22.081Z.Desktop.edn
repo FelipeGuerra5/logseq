@@ -298,9 +298,6 @@
  :file/name-format :triple-lowbar
  :graph/settings {:journal? true
  :orphan-pages? true
- :excluded-pages? false
+ :excluded-pages? true
  :builtin-pages? true}
- :graph/forcesettings {:link-dist 70
- :charge-strength 100
- :charge-range 2900}
  }

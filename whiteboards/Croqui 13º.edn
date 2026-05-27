@@ -1,0 +1,80 @@
+{:blocks (
+{:block/created-at 1779889000944
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "highlighter"
+:points [[0 0 0.5] [1 2 0.5] [5 4 0.5] [23 24 0.5] [54 71 0.5] [107 157 0.5] [138 198 0.5] [140 197 0.5] [140 193 0.5] [140 193 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 0.5
+:id "16691b60-59d1-11f1-9d05-8baf42752053"
+:noFill true
+:point [237.5 1039.5]
+:parentId "6a16f33d-0aaa-418e-91c2-874032e40752"
+:nonce 1779888998443
+:isComplete true}}
+:block/updated-at 1779889000944} 
+{:block/created-at 1779889006452
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[12 0 0.5] [14 0 0.5] [17 2 0.5] [18 6 0.5] [18 12 0.5] [19 25 0.5] [19 45 0.5] [18 69 0.5] [14 89 0.5] [8 123 0.5] [4 149 0.5] [3 175 0.5] [3 193 0.5] [3 204 0.5] [3 209 0.5] [3 210 0.5] [2 210 0.5] [1 210 0.5] [0 209 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "179ce070-59d1-11f1-9d05-8baf42752053"
+:noFill true
+:point [706.5 1001.5]
+:parentId "6a16f33d-0aaa-418e-91c2-874032e40752"
+:nonce 1779889000459
+:isComplete true}}
+:block/updated-at 1779889006452} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[1 2 0.5] [1 1 0.5] [0 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1b04c390-59d1-11f1-9d05-8baf42752053"
+:noFill true
+:point [911.5 1342.5]
+:parentId "6a16f33d-0aaa-418e-91c2-874032e40752"
+:nonce 1779889006157
+:isComplete true}}
+:block/updated-at 1779889006453})
+:pages (
+{:block/uuid #uuid "6a16f33d-0aaa-418e-91c2-874032e40752"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6a16f33d-0aaa-418e-91c2-874032e40752"
+:name "croqui 13º"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("16691b60-59d1-11f1-9d05-8baf42752053" "179ce070-59d1-11f1-9d05-8baf42752053" "1b04c390-59d1-11f1-9d05-8baf42752053")}}
+:block/updated-at 1779889006452
+:block/created-at 1779888957114
+:block/type "whiteboard"
+:block/name "croqui 13º"
+:block/original-name "Croqui 13º"})}
