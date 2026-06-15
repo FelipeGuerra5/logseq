@@ -1,0 +1,42 @@
+- #[[RPA for Cocoa]] #RPA #Cocoa #outlook #excel
+- ### Daily Procurement Automation BRD
+	- The script should:
+	- 1. Open the .xlsx file
+	  2.The file should be select automatically or manually
+	  3. Select the tabs with the information regarding all branches
+	  4. For each branch: 
+	  5. Delete all information regarding other branches
+	  6. Pop up a message asking confirmation to send the e-mail or not.
+	  7. All the files sent to the branches are going to have a copy on the directory of the script obs -> The new branch file is going to overwrite the last one
+	  8. Send the .xlsx file by e-mail for the specified branches e-mail bellow.
+	  9. If possible: select a picture from the main Tab on .xlsx file to send on the e-mail body
+	-
+- **Specifics:**
+	- **Tabs:**
+		- Daily Procurement
+		- Margin safety
+		- Open balance
+		- Monthly
+	- Filter information by branch
+	- **Frequency:**
+		- Daily
+	- **Send to:**
+		- Altamira -> eduardo.andrade@ofi.com | karol.goncalvez@ofi.com
+		  id:: 63b715f9-7270-45b5-98de-aca4fcf2a74e
+		- Medicilândia -> eduardo.andrade@ofi.com | jessica.dandara@ofi.com
+		- Espírito Santos -> antonio.pimenta@ofi.com | vitor.trinca@ofi.com
+		- Ipiau -> alisson.santos@ofi.com | rodrigob.nardini@ofi.com
+		- Ilheus -> rantonio.pimenta@ofi.com, rodrigob.nardini@ofi.com | vitor.trinca@ofi.com
+		- Itabuna -> antonio.pimenta@ofi.com | vitor.trinca@ofi.com
+		- Gandu -> silvalan.menezes@ofi.com | rodrigob.nardini@ofi.com
+	- **Documents Needed:**
+		- Base file .xlsx -> Pending
+		- e-mail for each branch -> Provided.
+	- **Probable Due Date:**
+		- 20th January 2023
+	- **Release Method:**
+		- Link to an .exe, windows compatible with MS Windows and newer to be downloaded
+	- **Developer:**
+		- Felipe Baldim Guerra
+		- e-mail: felipe.guerra@ofi.com
+		-

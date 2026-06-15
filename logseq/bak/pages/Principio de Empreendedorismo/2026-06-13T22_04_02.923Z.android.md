@@ -1,0 +1,15 @@
+- # Informação
+	- **Nome do Professor** => LUCIANO VENELLI COSTA
+-
+- # Aula 1
+	- ## Ponto de Partida
+	- Why entrepreneurship?
+		- For that is the origin for a well versed professional that can bring value to market and improve the economy health.
+	- **Entrepreneurship** #card
+		- Idea
+		- Oportunity
+		- Plan of Business
+		- Qualificate and get Resources
+		- Business management
+	- Change the Market most recently using technology.
+	-

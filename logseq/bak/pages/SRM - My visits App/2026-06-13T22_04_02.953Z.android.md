@@ -1,0 +1,37 @@
+- #srm #minhasvisitas #app
+- **Send record to Ahmad**
+-
+- Expected to train all the users, by Venkat
+-
+- web and mobile
+	- Login as manager or agent
+	-
+- Check IN
+	- Plannerd visits
+	- Change status to filter the planned visits
+	- Al the info on each off the planner visits
+	- On the Selected visit ->
+		- Supplier details
+		- Visit details (to insert)
+		- Action Items: tasks to do that you receive on the visitation
+		- Map:
+- DashBoard
+	-
+-
+- ## Meeting With Sreevidya
+- #TODO
+	- [https://apps.powerapps.com/play/e/default-5e007b6c-258b-4fde-adc1-8bf8a135885d/a/82482f24-801c-4cd1-ae37-a636bdf37217?tenantId=5e007b6c-258b-4fde-adc1-8bf8a135885d](https://apps.powerapps.com/play/e/default-5e007b6c-258b-4fde-adc1-8bf8a135885d/a/82482f24-801c-4cd1-ae37-a636bdf37217?tenantId=5e007b6c-258b-4fde-adc1-8bf8a135885d)
+	- Portuguese BR -> confirm if all the translations are correct and then inform.
+	- Send e-mail with all the needed information on what is missing from the app.
+	- Solicit Ahmad approval fro the Microsoft in tune license in order to use the App on power apps.
+		- Copy Helson on that so he can give access later.
+	- The
+-
+- ## For The Next Meeting
+- #TODO
+	- Date 04JAN23
+	- Witch people?
+		- Share credentials for old minhas visitas App with kelvin
+		-
+		-
+-

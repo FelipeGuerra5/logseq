@@ -1,0 +1,2 @@
+- on `package.json` => if you use `nodemon index.js` instead on `node index.js` it will automatically refresh
+-

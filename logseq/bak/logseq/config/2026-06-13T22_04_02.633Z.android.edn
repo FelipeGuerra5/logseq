@@ -208,7 +208,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["Mackenzie"]
+ :favorites ["Trimais Tasks IT Infra"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -300,7 +300,11 @@
  :orphan-pages? false
  :excluded-pages? false
  :builtin-pages? true}
- :graph/forcesettings {:link-dist 70
+ :graph/forcesettings {:link-dist 50
  :charge-strength 100
  :charge-range 2900}
+<<<<<<< HEAD
+ :zotero/settings-v2 nil
+=======
+>>>>>>> ad193f3 (updated Journal)
  }

@@ -1,0 +1,45 @@
+- DONE Analysis for Venkat
+	- From JAN to DEC 22
+		- No. of Farmers registered
+		- No. of farmers transacted
+		- No. of samples collected
+		- No. of price offers given
+- Some graphs will be useful
+-
+- Report for Venkat ->
+	- ### What question scan I respond with the Reports that I currently have access to?
+		- **Outcome expected**
+			- Increase farmer base selling to ofi
+				- Requires the amount of farmer registered in OD and the difference between the graph on the user registration before.
+				- Or user registered primarily by mobile.
+			- Increase purchase volumes
+				- Requires the sells before OD lunch and after it and which was the used interface (mobile or on branch)
+				- Then the comparison with prospected curve of sell for after the app lunch and the actual purchase volume.
+			- Improvement in better qualities
+				- Prospected average of quantity per purchase before the app lunch and row it compares with the actual average of quantities/purchase.
+			- Lower price paid per quality
+				- Requires quality standards, price per contract and amount of contract
+				- Then see if after app this number compare with the average projection for the coffee purchase (price paid/quality) before the App.
+				-
+		- **IT KPI**
+			- No. of farmers registered - Yes
+			- No. of farmers transacted in last one year -> Yes
+			- No. of agronomy articles posted -> Do not have access
+			- No. of farmers seeking crop care -> Do not have access
+			- No. of farmers using once a month / week ->
+				- Selling or entering?
+				- **Selling**
+					- Isolate sells per week or month -> Filter by sells done in mobile -> find this number for all weeks and calculate the average.
+				- **Using only**
+					- Filter the login report with the users that already are registered before "Last_Login_Date" -> Calculate this for all the time after lunch
+			- No. of samples collected -> Yes
+			- No. of price offers given
+				- Screen premiums -> Yes
+				- Quality premium -> Yes
+				- Commission premium -> Need to check what the data mean's
+			- No. of marketing articles published -> Do not have access
+			- No. of farmer surveys done -> Do not have access
+		- **IT PPI**
+			- No. of users trained in Commercial and Agronomy -> Depends on third party
+			- No. of Agronomists posting articles  -> Depends on third party
+			- No. of commercial staff posting surveys  -> Depends on third party

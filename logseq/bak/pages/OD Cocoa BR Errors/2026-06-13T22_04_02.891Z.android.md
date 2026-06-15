@@ -1,0 +1,3 @@
+- collapsed:: true
+	- detalhes do erro de não abrir tal coisa.
+	-
